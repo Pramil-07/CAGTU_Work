@@ -1,0 +1,18 @@
+[
+ {
+  "is_active": true,
+  "name": "Technical Support"
+ },
+ {
+  "is_active": true,
+  "name": "Payment Support"
+ },
+ {
+  "is_active": true,
+  "name": "Marketing Support"
+ },
+ {
+  "is_active": true,
+  "name": "Email & SMS Support"
+ }
+]

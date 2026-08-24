@@ -1,0 +1,23 @@
+{
+    "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "libs/cagtu-site/views/src",
+    "projectType": "library",
+    "tags": [],
+    "targets": {
+        "lint": {
+            "executor": "@nrwl/linter:eslint",
+            "outputs": ["{options.outputFile}"],
+            "options": {
+                "lintFilePatterns": ["libs/cagtu-site/views/**/*.{ts,tsx,js,jsx}"]
+            }
+        },
+        "test": {
+            "executor": "@nrwl/jest:jest",
+            "outputs": ["coverage/libs/cagtu-site/views"],
+            "options": {
+                "jestConfig": "libs/cagtu-site/views/jest.config.ts",
+                "passWithNoTests": true
+            }
+        }
+    }
+}

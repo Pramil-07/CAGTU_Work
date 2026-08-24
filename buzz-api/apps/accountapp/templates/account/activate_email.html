@@ -1,0 +1,73 @@
+{% extends "email/base.html" %}
+{% block content %}
+
+
+
+	<div style="margin: 20px; padding: 20px; text-align:center; ">
+		<img alt="waving_hand" src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/waving.png"
+				 style="height: 48px;width: 48px;">
+	</div>
+	<div style="font-weight: 600;font-size: 16px; margin-bottom: 20px; line-height: 45px;
+                    color: #495057; ">
+		Welcome to Homaale!
+	</div>
+	<div style="font-weight: 300; font-size: 14px; line-height: 24px;">
+		Hi <span style="font-weight: bold; ">{{ user.email }}</span>, <br><br>
+		Thank you for registering with <a href="{{ web_url }}" style="text-decoration: none; color: #3EAEFF">Homaale</a>. Please click the link below to
+		activate your account.
+	</div>
+	<!--				A account for <a href="{{ web_url }}">{{ web_url }}</a> has been created for you. Please Click the link-->
+	<!--				below to activate your account.<br>-->
+	<div style="padding:30px 0px; margin-bottom: 24px;">
+		<a href="{{ link }}" style="text-decoration: none; ">
+                        <span
+													style="background-color: #211D4F; color: white; min-height: 40px;
+													padding: 10px; padding-left: 20px; padding-right: 20px; font-weight: bold; border-radius: 5px;
+													font-size: 12px">
+                        Activate account
+                        </span>
+		</a>
+	</div>
+	<div style="color: #868E96; margin-bottom: 24px;">
+		or copy-paste below link in your browser:<br>
+		<a href="{{ link }}" style="text-decoration: none; color: #3EAEFF;">{{ link }}</a>
+	</div>
+	<div style="margin-bottom: 24px;">
+		<span style="font-size: 14px; color: #495057">Regards and Best Wishes.</span><br>
+		<span style="font-size: 16px; color: #495057; font-weight: 600">Homaale Team</span><br>
+	</div>
+	<div style="font-size: 12px; color: #868E96; line-height: 20px">
+		If you did not initiate this request, please contact us immediately at
+		<a href="mailto:support@homaale.com" style="color: #3EAEFF; ">support@homaale.com</a>
+	</div>
+
+
+	<!--            <table width="100%">-->
+	<!--                <tbody>-->
+	<!--                <tr>-->
+	<!--                    <td style="width: 50%;">-->
+	<!--                        <center>-->
+	<!--                            <div style="background-color: white; margin: 20px; padding: 20px;">-->
+	<!--                                <img alt="bookmark_logo" src="{{ domain }}static/email_res/bookmark.png"><br>-->
+	<!--                                <a href="{{ app_domain }}/services/book">Book Services</a>-->
+	<!--                            </div>-->
+
+	<!--                        </center>-->
+	<!--                    </td>-->
+	<!--                    <td style="width: 50%">-->
+	<!--                        <center>-->
+	<!--                            <div style="background-color: white; margin: 20px; padding: 20px;">-->
+
+	<!--                                <img alt="add_service_logo" src="{{ domain }}static/email_res/add_service.png"><br>-->
+	<!--                                <a href="{{ app_domain }}/services/add">Add Services</a>-->
+	<!--                            </div>-->
+
+	<!--                        </center>-->
+	<!--                    </td>-->
+	<!--                </tr>-->
+	<!--                </tbody>-->
+	<!--            </table>-->
+
+
+{% endblock %}
+

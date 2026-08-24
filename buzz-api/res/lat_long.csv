@@ -1,0 +1,945 @@
+0,26065,Pokhara,28.26689,83.96851
+1,26066,Jitpur,27.56452,83.42978
+2,26068,Ghorahi,24.87606,85.70917
+3,26072,Dharan,26.81248,87.28355
+4,26074,Janakpur,26.71828,85.90646
+5,26075,Hetauda,27.42839,85.03219
+6,26076,Kirtipur,27.67988,85.27544
+7,26077,Godawari,28.87553,80.57867
+8,26079,Siraha,26.65411,86.2087
+9,26081,Itahari,26.66667,87.28333
+10,26082,Nepalganj,28.05,81.61667
+11,26084,Tilakpur,21.40394,82.7329
+11,26084,Tilakpur,28.21662,81.66507
+13,26086,Tulsipur,28.13099,82.29726
+14,26087,Kalaiya,27.03301,85.00319
+15,26088,Hanumannagar,26.70906,85.93506
+16,26090,Palpa,27.88924,83.4643
+17,26092,Panauti,27.58466,85.52122
+18,26093,Khadbari,27.37604,87.20767
+19,26094,Malangawa,26.85679,85.55811
+20,26095,Jaleshwar,26.64711,85.80081
+21,26098,Ilam,33.6374,46.4227
+21,26098,Ilam,26.90943,87.92824
+22,26099,Salyan,28.37858,82.1703
+24,26103,Kisanpur,26.98949,85.48602
+25,26105,Manakamana,27.43417,85.06388
+26,26106,Jumla,29.27472,82.18383
+27,26100,Bhimphedi,27.5405,85.13546
+28,26064,Kathmandu,27.70169,85.3206
+29,26069,Bharatpur,27.479035,77.32727
+29,26069,Bharatpur,27.68333,84.43333
+31,26080,Bhaktapur,27.66734,85.41673
+32,1,Sydney,-33.868633,151.209421
+33,26091,Bidur,4.110097,101.283535
+33,26091,Bidur,27.92981,85.15774
+35,26089,Baglung,28.27189,83.58976
+36,26067,Biratnagar,26.4831,87.28337
+37,26102,Bandipur,34.41825,74.64042
+37,26102,Bandipur,26.8818,86.16496
+39,26097,Dadeldhura,29.29842,80.58059
+40,26071,Butwal,27.70055,83.44836
+41,26073,Dhangadhi,28.70792,80.59611
+42,26107,Achham,29.08333,81.33333
+43,26108,"Chaurpati, Achham",29.18825,81.14385
+44,26109,"Srikot, Achham",29.08333,81.33333
+45,26110,"Thanti, Achham",27.26092,87.68421
+46,26111,"Mellekh, Achham",29.34909,80.95024
+47,26112,"Bayalpata, Achham",29.20381,81.23298
+48,26113,"Bhatakatiya, Achham",29.08333,81.33333
+49,26114,"Jayagadh, Achham",29.08333,81.33333
+50,26115,"Kalagaun, Achham",29.15358,81.33971
+51,26116,"Kuchikot, Achham",29.08333,81.33333
+52,26117,"Kamal bazar, Achham",43.067895,-8.729132
+52,26117,"Kamal bazar, Achham",27.710634,85.325194
+54,26119,"Turmakhad, Achham",28.88639,81.4896
+55,26120,Arghakhanchi,27.91667,83.08333
+56,26121,"Balkot, Arghakhanchi",27.98177,83.24498
+57,26122,"Arghatosh, Arghakhanchi",27.91667,83.08333
+58,26123,"Khana, Arghakhanchi",27.91667,83.08333
+59,26124,"Wangla, Arghakhanchi",25.2767,108.679
+59,26124,"Wangla, Arghakhanchi",27.91667,83.08333
+61,26126,"Thada, Arghakhanchi",27.86232,83.09083
+62,26127,"Khilji, Arghakhanchi",27.9875,83.01791
+63,26128,"Khidim, Arghakhanchi",27.91667,83.08333
+64,26129,"Pali, Arghakhanchi",27.93213,83.21562
+65,26130,"Dhikura, Arghakhanchi",28.04704,83.22138
+66,26131,"Argha, Arghakhanchi",35.23586,58.2194
+66,26131,"Argha, Arghakhanchi",27.91667,83.08333
+68,26134,"Pala, Baglung",28.27397,83.54169
+69,26135,"Bihukot, Baglung",28.27189,83.58976
+70,26136,"Harichaur, Baglung",28.27189,83.58976
+71,26137,"Balewa Payupata, Baglung",28.213693,83.666181
+72,26138,"Jaidi Belbagar, Baglung",28.13795,83.61642
+73,26139,"Bereng, Baglung",28.27189,83.58976
+74,26140,"Galkot, Baglung",28.20166,83.41839
+75,26141,"Pandavkhani, Baglung",28.27189,83.58976
+76,26142,"Arnakot, Baglung",28.27189,83.58976
+77,26143,"Khrwang, Baglung",0.0,0.0
+78,26144,"Bongadovan, Baglung",28.27189,83.58976
+79,26145,"Jhimpa, Baglung",28.27189,83.58976
+80,26146,"Kusmi Shera, Baglung",50.848052,4.352425
+80,26146,"Kusmi Shera, Baglung",28.27189,83.58976
+82,26148,"Kesharpur, Baitadi",29.5,80.58333
+83,26149,"Patan, Baitadi",29.4631,80.54046
+84,26150,"Khodpe, Baitadi",29.43905,80.63841
+85,26151,"Mulkhatali, Baitadi",29.57113,80.43722
+86,26152,"Gajari Changgad, Baitadi",28.13834,82.12014
+87,26153,"Dehimandau, Baitadi",29.52454,80.47052
+88,26154,"Sharmali, Baitadi",29.5,80.58333
+89,26155,"Srikot, Baitadi",29.5,80.58333
+90,26156,"Dilasaini, Baitadi",29.65922,80.60709
+91,26157,"Swopana Taladehi, Baitadi",0.0,0.0
+92,26158,"Purchaudihat, Baitadi",29.57113,80.43722
+93,26159,"Sitad, Baitadi",29.57113,80.43722
+94,26160,"Dhungad, Baitadi",29.37001,80.79166
+95,26161,Bajhang,29.66667,81.25
+96,26162,"Talkot, Bajhang",29.17015,81.04879
+97,26163,"Jamatola, Bajhang",29.66667,81.25
+98,26164,"Jaya Prithivi Nagar, Bajhang",28.31634,81.38035
+99,26165,"Chhanna, Bajhang",30.28313,75.51446
+99,26165,"Chhanna, Bajhang",29.66667,81.25
+101,26167,"Rayal, Bajhang",-11.34085,-68.44886
+101,26167,"Rayal, Bajhang",29.66667,81.25
+103,26169,"Bungal, Bajhang",29.66667,81.25
+104,26170,"Shayadi, Bajhang",29.66667,81.25
+105,26171,Bajura,29.5,81.5
+106,26172,"Dandakot, Bajura",29.5,81.5
+107,26173,"Jukot, Bajura",29.45811,81.7361
+108,26174,"Faiti, Bajura",41.46667,13.0
+108,26174,"Faiti, Bajura",41.46667,13.0
+110,26176,"Manakot, Bajura",29.47654,81.38793
+111,26177,"Dogadi, Bajura",29.42258,81.29162
+112,26178,"Tate, Bajura",34.663346,-89.858401
+112,26178,"Tate, Bajura",34.663346,-89.858401
+114,26180,Banke,39.41117,49.24792
+114,26180,Banke,28.16667,81.83333
+116,26182,"Bhojbhagawanpur, Banke",28.03333,81.61667
+117,26183,"Khaskusma, Banke",39.41117,49.24792
+117,26183,"Khaskusma, Banke",28.16667,81.83333
+119,26185,"Ramjha, Banke",28.240245,83.742199
+120,26186,"Udayapur, Banke",26.91667,86.66667
+121,26187,"Chisapani, Banke",28.27777,81.65846
+122,26188,"Godahana, Banke",28.44275,81.27923
+123,26189,"Jayaspur, Banke",28.16667,81.83333
+124,26190,"Khajura, Banke",28.07526,81.62211
+125,26191,"Chandranagar, Banke",26.66394,87.36078
+126,26192,Bara,27.08333,85.08333
+127,26193,"Nijgadh, Bara",27.20175,85.17118
+128,26194,"Mahendra Adarsha, Bara",27.661054,85.347877
+129,26195,"Simraungadh, Bara",27.08333,85.08333
+130,26196,"Umjan, Bara",0.0,0.0
+131,26197,"Bariyarpur, Bara",27.00572,85.03817
+132,26198,"Kabahigoth, Bara",0.0,0.0
+133,26199,"Dumarwana, Bara",27.13214,85.01904
+134,26200,"Pipradhigoth, Bara",0.0,0.0
+135,26201,"Basantapur, Bara",28.07078,82.45836
+136,26202,"Simara, Bara",27.00897,85.04011
+137,26203,"Parsoni, Bara",0.0,0.0
+138,26204,"Amalekhgunj, Bara",27.08333,85.08333
+139,26205,"Jeetpur (Bhavanipur), Bara",27.08333,85.08333
+140,26206,Bardiya,28.33333,81.41667
+141,26207,"Jamuni, Bardiya",28.12423,81.49013
+142,26208,"Mainapokhar, Bardiya",28.185915,81.480842
+143,26209,"Motipur, Bardiya",28.22961,81.49766
+144,26210,"Magaragadi, Bardiya",28.33333,81.41667
+145,26211,"Baganaha, Bardiya",28.33333,81.41667
+146,26212,"Bhurigaun, Bardiya",28.45224,81.3255
+147,26213,"Rajapur, Bardiya",28.28688,81.31451
+148,26214,"Pashupatinagar, Bardiya",28.33333,81.41667
+149,26215,"Sanoshri, Bardiya",28.30058,81.3536
+150,26217,"Dubakot, Bhaktapur",27.66734,85.41673
+151,26218,"Kharipati, Bhaktapur",27.70384,85.47473
+152,26219,"Tathali, Bhaktapur",27.66611,85.46516
+153,26220,"Jorpati, Bhaktapur",27.7234,85.37916
+154,26221,"Gamcha, Bhaktapur",27.65671,85.39786
+155,26222,"Dibyashwori, Bhaktapur",27.683275,85.425286
+156,26223,"Thimi, Bhaktapur",27.66734,85.41673
+157,26224,"Nagarkot, Bhaktapur",27.71522,85.52075
+158,26225,Bhojpur,23.249922,69.662058
+158,26225,Bhojpur,27.25,87.08333
+160,26227,"Dingla, Bhojpur",27.33461,87.06305
+161,26228,"Deurali, Bhojpur",27.28146,87.06224
+162,26229,"Pyauli, Bhojpur",29.04555,80.48357
+163,26230,"Yaku, Bhojpur",27.19049,87.188
+164,26231,"Bastim, Bhojpur",27.12059,87.1413
+165,26232,"Timma, Bhojpur",27.24913,86.9889
+166,26233,"Dilpa Annapurna, Bhojpur",27.20262,86.98202
+167,26234,"Bhulke, Bhojpur",28.43447,81.92403
+168,26235,"Baikunthe, Bhojpur",27.10761,87.52925
+169,26236,"Ranibas, Bhojpur",27.0254,87.09989
+170,26237,"Walangkha, Bhojpur",0.0,0.0
+171,26238,"Tiwari Bhanjyang, Bhojpur",27.182,87.1339
+172,26239,"Dobhane, Bhojpur",27.42637,87.00723
+173,26241,"Ratnanagar, Chitawan",27.61541,84.51206
+174,26242,"Mugling, Chitawan",27.85628,84.56437
+175,26243,"Narayangadh, Chitawan",27.69764,84.42525
+176,26244,"Rampur, Chitawan",28.81014,79.02699
+176,26244,"Rampur, Chitawan",31.452096,77.634888
+177,26245,"Soshi Bazar, Chitawan",43.067895,-8.729132
+178,26246,"Harinagar, Chitawan",27.60473,84.25882
+179,26247,"Madi, Chitawan",27.529221,84.400356
+181,26249,"Khairahani, Chitwan",27.43876,84.3038
+182,26250,"Jutpani, Chitwan",27.68582,84.5601
+183,26251,"Phulbari, Chitwan",27.65015,84.37586
+184,26252,"Meghauli, Chitwan",27.58029,84.2268
+185,26253,"Patihani, Chitwan",27.64489,84.5768
+186,26255,"Ugratara, Dadeldhura",29.33651,80.60563
+187,26256,"Dandaban, Dadeldhura",28.12387,84.52565
+188,26257,"Ganeshpur, Dadeldhura",28.85566,80.37769
+189,26258,"Gaira Ganesh, Dadeldhura",29.161101,80.598816
+190,26259,"Jogbudha, Dadeldhura",28.9121,80.06688
+191,26260,"Lamikande, Dadeldhura",0.0,0.0
+192,26261,"Chipur, Dadeldhura",29.33814,80.49521
+193,26262,"Ajayameru, Dadeldhura",0.0,0.0
+194,26263,Dailekh,28.84434,81.71011
+195,26264,"Gaidabaj, Dailekh",0.0,0.0
+196,26265,"Naumule, Dailekh",28.38092,82.03874
+197,26266,"Byastada, Dailekh",28.84434,81.71011
+198,26267,"Dhungeshwor, Dailekh",0.0,0.0
+199,26268,"Malika, Dailekh",29.01531,81.51871
+200,26269,"Dullu, Dailekh",28.86415,81.60619
+201,26270,"Jambu Kandha, Dailekh",31.86998,76.37394
+201,26270,"Jambu Kandha, Dailekh",32.5772,76.02441
+203,26272,Dang,28.0,82.41667
+204,26273,"Hapur, Dang",28.729131,77.871094
+204,26273,"Hapur, Dang",28.0,82.41667
+206,26275,"Bhaluwang, Dang",28.0,82.41667
+207,26276,"Koilabas, Dang",27.69462,82.52559
+208,26277,"Jangrahawa, Dang",27.87558,82.3605
+209,26278,"Rampur, Dang",31.452096,77.634888
+209,26278,"Rampur, Dang",28.07015,82.19103
+211,26280,"Hekuli, Dang",28.09665,82.20623
+212,26281,"Panchakule, Dang",28.16523,82.13977
+213,26282,"Shantinagar, Dang",28.18018,82.20006
+214,26283,"Tulsipur, Dang",28.13099,82.29726
+215,26284,"Manpur, Dang",27.81845,82.52118
+216,26285,"Lamahi, Dang",27.87297,82.52283
+217,26286,"Ghoraha, Dang",24.75419,82.77785
+218,26287,Darchula,29.84121,80.52874
+219,26288,"Rapla, Darchula",29.9576,80.71006
+220,26289,"Duhuti, Darchula",29.91667,80.75
+221,26290,"Malikarjun, Darchula",29.74263,80.484
+222,26291,"Joljibi, Darchula",29.75041,80.38247
+223,26292,"Dandakot, Darchula",29.84121,80.52874
+224,26293,"Ritha Chaupata, Darchula",29.67047,80.51115
+225,26294,"Gokule, Darchula",29.66569,80.54131
+226,26295,"Sitola, Darchula",29.84121,80.52874
+227,26296,"Marmalatinath, Darchula",29.91667,80.75
+228,26297,"Sipti, Darchula",29.27016,81.62843
+229,26298,Dhading,28.0,84.91667
+230,26299,"Lapa, Dhading",28.1982,85.02261
+231,26300,"Sertung, Dhading",28.1799,85.08803
+232,26301,"Phulkharka, Dhading",28.06,84.91902
+233,26302,"Tripureshwor, Dhading",28.0,84.91667
+234,26303,"Katunje, Dhading",27.97288,84.94097
+235,26304,"Sunkhani, Dhading",27.94969,84.84238
+236,26305,"Sunaulabazar, Dhading",27.86424,84.9283
+237,26306,"Maidi, Dhading",27.911423,84.890031
+238,26307,"Khanikhola, Dhading",28.91999,82.11476
+239,26308,"Bhumisthan, Dhading",27.713942,84.829592
+240,26309,"Gajuri, Dhading",27.75153,84.8991
+241,26310,"Malekhu, Dhading",27.8097,84.83452
+242,26311,Dhankuta,26.98333,87.33333
+243,26312,"Mudhebash, Dhankuta",0.0,0.0
+244,26313,"Rajarani, Dhankuta",26.88196,87.44513
+245,26314,"Dandabazar, Dhankuta",26.98333,87.33333
+246,26315,"Bhedetar, Dhankuta",26.86057,87.32632
+247,26316,"Ankhisalla, Dhankuta",26.96306,87.24423
+248,26317,"Hile, Dhankuta",27.03296,87.31979
+249,26318,"Muga, Dhankuta",27.03816,87.22638
+250,26319,"Teliya, Dhankuta",26.99692,87.41222
+251,26320,"Pakhribash, Dhankuta",0.0,0.0
+252,26321,"Leguwa, Dhankuta",26.98333,87.33333
+253,26322,"Mare Katahare, Dhankuta",26.78984,87.79891
+254,26323,"Arknaule, Dhankuta",0.0,0.0
+255,26324,"Chungmang, Dhankuta",26.98333,87.33333
+256,26325,Dhanusha,26.729113,85.936727
+257,26326,"Khajuri, Dhanusha",25.560499,77.616928
+257,26326,"Khajuri, Dhanusha",28.8883,81.78205
+259,26328,"Yadukuha, Dhanusha",26.729113,85.936727
+260,26329,"Duhabi, Dhanusha",26.62529,86.55137
+261,26330,"Chakkar, Dhanusha",32.33425,75.77214
+261,26330,"Chakkar, Dhanusha",26.822596,86.033351
+263,26332,"Godar Chisapani, Dhanusha",26.811114,88.107367
+264,26333,"Dhanushadham, Dhanusha",26.842703,86.049587
+265,26334,"Bagachauda, Dhanusha",26.729113,85.936727
+266,26335,"Jatahi, Dhanusha",26.37189,86.16837
+267,26336,"Phulgama, Dhanusha",26.63666,85.90834
+268,26337,"Sankhuwa Mahendranagar, Dhanusha",26.92316,87.11928
+269,26338,"Dhalkebar, Dhanusha",27.23337,87.00138
+270,26339,Dolakha,27.83333,86.25
+271,26340,"Khahare, Dolakha",27.62917,86.14139
+272,26341,"Namdu, Dolakha",27.62344,86.0961
+273,26342,"Jiri, Dolakha",27.63545,86.22998
+274,26343,"Japhekalapani, Dolakha",27.67806,86.07793
+275,26344,"Melung, Dolakha",27.51456,86.06051
+276,26345,"Bhusapheda, Dolakha",27.67806,86.07793
+277,26346,"Sunkhani, Dolakha",27.69901,86.09705
+278,26347,"Khopachangu, Dolakha",27.67806,86.07793
+279,26348,"Lamabagar, Dolakha",27.9131,86.21104
+280,26349,"Chitre, Dolakha",27.69704,85.95503
+281,26350,Dolpa,29.16667,83.08333
+282,26351,"Juphal, Dolpa",28.98506,82.82469
+283,26352,"Tripurakot, Dolpa",29.0275,82.7909
+284,26353,"Liku, Dolpa",29.04451,82.75427
+285,26354,"Sarmi, Dolpa",29.06604,82.47307
+286,26355,"Kaigaun, Dolpa",29.11123,82.59216
+287,26356,"Foksundo, Dolpa",29.371,83.01573
+288,26357,"Namdo, Dolpa",29.16667,83.08333
+289,26358,Doti,29.25,80.91667
+290,26359,"Silgadhi, Doti",29.25,80.91667
+291,26360,"Sanagaun, Doti",27.65158,85.3604
+292,26361,"Daund, Doti",29.25,80.91667
+293,26362,"Mauwa Nagardaha, Doti",29.32786,80.91134
+294,26363,"Banedungrasen, Doti",29.25,80.91667
+295,26364,"Jorayal, Doti",29.10286,80.67617
+296,26365,"Gadhshera, Doti",29.25,80.91667
+297,26366,"Lanakedareswor, Doti",29.25,80.91667
+298,26367,"Boktan, Doti",26.84655,87.12489
+299,26368,"Byal, Doti",0.53333,12.85
+299,26368,"Byal, Doti",29.25,80.91667
+301,26370,Gorkha,28.33333,84.83333
+302,26371,"Bungkot, Gorkha",27.971878,84.674803
+303,26372,"Manakamana, Gorkha",27.90544,84.58028
+304,26373,"Batase, Gorkha",27.03347,87.49714
+305,26374,"Luintel, Gorkha",27.638509,85.591108
+306,26375,"Anapipal, Gorkha",28.33333,84.83333
+307,26376,"Jaubari, Gorkha",28.14298,84.72389
+308,26377,"Bhachchek, Gorkha",28.15743,84.65202
+309,26378,"Saurpani, Gorkha",28.12242,84.71981
+310,26379,"Ghyampesal, Gorkha",28.04586,84.7247
+311,26380,"Aarughat, Gorkha",28.33333,84.83333
+312,26381,"Gumda, Gorkha",28.20288,84.8303
+313,26382,"Sirdibash, Gorkha",28.33333,84.83333
+314,26383,Gulmi,28.08333,83.33333
+315,26384,"Purtighat, Gulmi",28.05022,83.55575
+316,26385,"Bharse, Gulmi",27.86246,83.78745
+317,26386,"Chandrakot, Gulmi",28.11756,83.43557
+318,26387,"Majuwa, Gulmi",28.13808,83.45957
+319,26388,"Ridi, Gulmi",27.93695,83.43574
+320,26389,"Sringa, Gulmi",28.35123,84.896102
+321,26390,"Birabas, Gulmi",28.08333,83.33333
+322,26391,"Wami, Gulmi",28.08333,83.33333
+323,26392,"Ismadohali, Gulmi",28.08333,83.33333
+324,26393,"Dhurkot, Gulmi",28.1157,83.16235
+325,26394,"Purkotadha, Gulmi",28.08333,83.33333
+326,26395,"Arje, Gulmi",28.36868,83.50092
+327,26396,"Manabhak, Gulmi",28.08333,83.33333
+328,26397,"Pipaldanda, Gulmi",27.88195,83.56215
+329,26398,Humla,29.91667,81.91667
+330,26399,"Muchu, Humla",30.07037,81.54578
+331,26400,"Lali, Humla",29.86298,81.88546
+332,26401,"Sarkegadh, Humla",29.91667,81.91667
+333,26402,"Darma, Humla",29.74375,82.0621
+334,26403,"Srinagar, Humla",29.91667,81.91667
+335,26404,Ilam,33.6374,46.4227
+335,26404,Ilam,26.90943,87.92824
+337,26406,"Pashupatinagar, Ilam",33.6374,46.4227
+337,26406,"Pashupatinagar, Ilam",26.90943,87.92824
+339,26408,"Harkatebazar, Ilam",0.0,0.0
+340,26409,"Gajurmukhi, Ilam",26.89805,87.77181
+341,26410,"Mangal Bare, Ilam",5.94194,121.29917
+341,26410,"Mangal Bare, Ilam",27.63117,85.89413
+342,26411,"Nepaltar, Ilam",26.90943,87.92824
+344,26413,"Gitpur, Ilam",0.0,0.0
+345,26414,"Cheesa Pani Panchami, Ilam",0.0,0.0
+346,26415,"Phikal, Ilam",27.05881,87.67218
+347,26416,Jajarkot,28.828207,82.142146
+348,26417,"Dhime, Jajarkot",28.81634,82.17312
+349,26418,"Dalli, Jajarkot",28.78199,82.31612
+350,26419,"Ragda, Jajarkot",28.85623,82.41035
+351,26420,"Rokaya gaun (Limsa), Jajarkot",29.6696,81.895255
+352,26421,"Dashera, Jajarkot",28.828207,82.142146
+353,26422,"Thalaraikar, Jajarkot",28.828207,82.142146
+354,26423,"Garkhakot, Jajarkot",28.828207,82.142146
+355,26424,"Karkigaun, Jajarkot",28.65125,82.13895
+356,26425,Jhapa,26.58333,87.91667
+357,26426,"Baniyani, Jhapa",26.431398,88.035959
+358,26427,"Goldhap, Jhapa",26.67992,88.00198
+359,26428,"Chandragadhi, Jhapa",26.585,88.06
+360,26429,"Birtamod, Jhapa",26.64695,88.00135
+361,26430,"Sanishchare, Jhapa",26.58333,87.91667
+362,26431,"Budhabare, Jhapa",26.7228,88.05495
+363,26432,"Dhulabari, Jhapa",26.67143,88.10631
+364,26433,"Kankarbhitta, Jhapa",26.648,88.16005
+365,26434,"Rajgadh, Jhapa",26.51121,87.94003
+366,26435,"Durgapur, Jhapa",26.63965,87.92995
+367,26436,Jhapa,26.58333,87.91667
+368,26437,"Dudhe, Jhapa",26.6372,87.82153
+369,26438,"Shivagunj, Jhapa",26.58333,87.91667
+370,26439,"Topagachhi, Jhapa",26.58333,87.91667
+371,26440,"Gaurigunj, Jhapa",26.58333,87.91667
+372,26441,"Gauradaha, Jhapa",26.5665,87.7244
+373,26442,"Damak, Jhapa",26.66412,87.6989
+374,26443,Jumla,29.27472,82.18383
+375,26444,"Dillichaur, Jumla",29.30368,82.28838
+376,26445,"Tatopani, Jumla",29.23983,82.06054
+377,26446,"Malikathata, Jumla",0.0,0.0
+378,26447,"Kalikakhetu, Jumla",0.0,0.0
+379,26448,"Narakot, Jumla",29.33736,81.98755
+380,26449,"Hatsinja, Jumla",29.27472,82.18383
+381,26450,"Chautha, Jumla",29.430782,82.107269
+382,26451,"Munuwa, Kailal",27.39473,78.64848
+382,26451,"Munuwa, Kailal",27.39473,78.64848
+384,26454,"Dododhara, Kailali",28.57103,80.79501
+385,26455,"Lamki, Kailali",28.6231,81.15863
+386,26456,"Masuriya, Kailali",28.70853,80.83665
+387,26457,"Pahalmanpur, Kailali",28.75,80.91667
+388,26458,"Hasuliya, Kailali",28.57081,80.79791
+389,26459,"Bhajani, Kailali",28.49608,80.96593
+390,26460,"Joshipur, Kailali",28.56455,81.02073
+391,26461,"Phulbari, Kailali",28.59712,80.70933
+392,26462,"Atariya, Kailali",28.75,80.91667
+393,26463,"Chaumala, Kailali",28.77332,80.73487
+394,26464,"Phaltude, Kailali",29.0473,80.60689
+395,26465,Kalikot,29.25,81.83333
+396,26466,"Sanniraskot, Kalikot",29.09559,81.68279
+397,26467,"Mehalmudi, Kalikot",29.24856,81.6102
+398,26468,"Kotbada, Kalikot",28.98245,81.38518
+399,26469,Kalikot,29.25,81.83333
+400,26470,"Padamghat, Kalikot",29.09921,81.76296
+401,26471,"Jubitha, Kalikot",29.13841,81.81842
+402,26472,"Thirpu, Kalikot",29.30351,81.7606
+403,26473,Kanchanpur,28.83333,80.33333
+404,26474,"Krishnapur, Kanchanpur",28.83333,80.33333
+405,26475,"Kalika, Kanchanpur",28.83333,80.33333
+406,26476,"Punarbas, Kanchanpur",26.81195,87.16581
+407,26477,"Beldadi, Kanchanpur",28.78399,80.27335
+408,26478,"Pipaladi, Kanchanpur",0.0,0.0
+409,26479,Kanchanpur,28.83333,80.33333
+410,26480,"Chandani, Kanchanpur",28.89236,80.08842
+411,26481,"Airport, Kanchanpur",28.958042,80.148293
+412,26482,"Suda, Kanchanpur",28.83333,80.33333
+413,26483,"Jhalari, Kanchanpur",28.90568,80.34649
+414,26484,Kapilbastu,27.624172,82.987652
+415,26485,"Pipara, Kapilbastu",26.68714,87.21125
+416,26486,"Patariya, Kapilbastu",27.624172,82.987652
+417,26487,"Pakadi, Kapilbastu",27.57754,82.82866
+418,26488,"Kopawa, Kapilbastu",27.4739,82.98474
+419,26489,"Gotihawa, Kapilbastu",27.52448,83.02139
+420,26490,"Gorusinge, Kapilbastu",27.6594,83.0426
+421,26491,"Pattharkot, Kapilbastu",27.11632,85.65877
+422,26492,"Thuniya, Kapilbastu",27.61101,82.91432
+423,26493,"Maharajgunj, Kapilbastu",27.624172,82.987652
+424,26494,"Ganeshpur, Kapilbastu",27.56334,82.85733
+425,26495,"Chanauta, Kapilbastu",31.75284,76.78612
+425,26495,"Chanauta, Kapilbastu",27.624172,82.987652
+427,26497,"Shiva Raj, Kapilbastu",48.135266,11.558358
+427,26497,"Shiva Raj, Kapilbastu",26.532777,86.918297
+429,26499,"Rupakot, Kaski",28.15722,84.13763
+430,26500,"Gagan Gaunda, Kaski",28.208395,83.972772
+431,26501,"Makaikhola, Kaski",28.33333,84.0
+432,26502,"Majhathana, Kaski",28.242306,84.077739
+433,26503,"Sildujure, Kaski",28.2597,84.073246
+434,26504,"Nirmalpokhari, Kaski",28.33333,84.0
+435,26505,"Pardibandh, Kaski",21.47581,80.09453
+435,26505,"Pardibandh, Kaski",28.33333,84.0
+437,26507,"Chapakot, Kaski",28.23071,83.89013
+438,26508,"Birethanti, Kaski",28.3141,83.77404
+439,26509,"Naudanda, Kaski",28.28589,83.86312
+440,26510,"Ghachok, Kaski",28.32584,83.9465
+441,26511,"Purunchaur, Kaski",28.29493,83.94398
+442,26513,"Sankhu, Kathmandu",27.7291,85.46325
+443,26514,"Chabahil, Kathmandu",27.71795,85.34937
+444,26515,"Sundarijal, Kathmandu",27.78744,85.43081
+445,26516,"Gauchar, Kathmandu",30.27763,79.17645
+445,26516,"Gauchar, Kathmandu",30.27763,79.17645
+447,26518,"Bansbari, Kathmandu",27.62427,85.28265
+448,26519,"Tokha Saraswati, Kathmandu",27.76218,85.32761
+449,26520,"Sachibalaya, Kathmandu",0.0,0.0
+450,26521,"Manmaiju, Kathmandu",27.751292,85.31176
+451,26522,"Balaju, Kathmandu",27.73333,85.3
+452,26523,"Tribhuvan University, Kathmandu",27.68184,85.28646
+453,26524,"Kalimati, Kathmandu",27.701,85.289
+454,26525,"Pharping, Kathmandu",27.70169,85.3206
+455,26526,"Baluwatar, Kathmandu",27.72835,85.33037
+456,26527,"Sarbochcha Adalat, Kathmandu",52.476183,13.439607
+456,26527,"Sarbochcha Adalat, Kathmandu",27.911131,84.897089
+458,26530,"Swayambhu, Kathmandu",27.71983,85.29553
+459,26531,"Pashupati, Kathmandu",27.702314,85.342042
+460,26532,"Budhanilkantha, Kathmandu",27.778087,85.362324
+461,26533,"Pokharinarayanshthan, Kaverpalanchok",0.0,0.0
+462,26534,"Gumati Bhanjyang, Kaverpalanchok",-6.601394,106.792658
+462,26534,"Gumati Bhanjyang, Kaverpalanchok",0.0,0.0
+464,26536,"Khopasi, Kaverpalanchok",27.56737,85.5391
+465,26537,Kavrepalanchok,27.58333,85.66667
+466,26538,"Ghartichhap, Kavrepalanchok",27.36592,85.59768
+467,26539,"Mangaltar, Kavrepalanchok",27.46457,85.72154
+468,26540,"Dapcha, Kavrepalanchok",27.55282,85.61242
+469,26541,"Panauti, Kavrepalanchok",27.58466,85.52122
+470,26542,"Banepa, Kavrepalanchok",27.62979,85.52138
+471,26543,"Panchkhal, Kavrepalanchok",27.6566,85.62745
+472,26544,"Phalante, Kavrepalanchok",0.0,0.0
+473,26545,"Dolal Ghat, Kavrepalanchok",27.24675,85.77578
+474,26546,Khotang,27.25,86.83333
+475,26547,"Wakshila, Khotang",27.25,86.83333
+476,26548,"Aiselukharka, Khotang",27.25,86.83333
+477,26549,"Jalpa, Khotang",27.25,86.83333
+478,26550,"Lamidanda, Khotang",27.28716,86.93799
+479,26551,"Halesi mahadevasthan, Khotang",27.25,86.83333
+480,26552,"Buipa, Khotang",27.21537,86.72529
+481,26553,"Manebhanjyang, Khotang",27.21502,86.44503
+482,26554,"Sapteshworichhitapokhari, Khotang",27.25,86.83333
+483,26555,Khotang,27.25,86.83333
+484,26556,"Chisapani, Khotang",27.33817,86.62413
+485,26557,"Simpani, Khotang",27.04497,86.80019
+486,26558,Lalitpur,27.67658,85.31417
+487,26559,"Dhapakhel, Lalitpur",27.64035,85.33385
+488,26560,"Imadol, Lalitpur",27.66817,85.34436
+489,26561,"Darabartole, Lalitpur",0.0,0.0
+490,26562,"Lubhu, Lalitpur",27.64469,85.37413
+491,26563,"Godawari, Lalitpur",27.59401,85.38083
+492,26564,"Chapagaun, Lalitpur",27.593,85.326
+493,26565,"Gotikhel, Lalitpur",27.49301,85.40112
+494,26566,"Bhattedanda, Lalitpur",27.67658,85.31417
+495,26567,"Pyutar, Lalitpur",27.46881,85.27736
+496,26568,Lamjung,28.25,84.41667
+497,26569,"Maling, Lamjung",28.25,84.41667
+498,26570,"Sundar Bazar, Lamjung",28.4298,84.32824
+499,26571,"Sotipasal, Lamjung",28.20992,84.3638
+500,26572,"Kunchha, Lamjung",28.12995,84.34285
+501,26573,"Gilung, Lamjung",28.21927,84.23702
+502,26574,"Khudi, Lamjung",28.28216,84.35912
+503,26575,"Phaliyasanghu, Lamjung",28.20992,84.3638
+504,26576,"Bharate, Lamjung",28.90814,81.92731
+505,26577,"Gaunda, Lamjung",28.73873,81.17268
+506,26578,"Tarkughat, Lamjung",28.1026,84.44606
+507,26579,Mahottari,26.91667,85.83333
+508,26580,"Bardibash, Mahottari",26.91667,85.83333
+509,26581,"Bhangaha, Mahottari",26.8599,85.89187
+510,26582,"Loharpatti, Mahottari",26.79814,84.55145
+511,26583,"Pipara, Mahottari",26.84354,85.89508
+512,26584,"Matihani, Mahottari",26.61402,85.84942
+513,26585,"Ramgopalpur, Mahottari",26.81453,85.79901
+514,26586,"Balawa, Mahottari",26.74786,85.78779
+515,26587,"Laxminiya, Mahottari",26.91667,85.83333
+516,26588,"Gaushala, Mahottari",26.94057,85.78002
+517,26589,"Shreepur, Mahottari",26.91667,85.83333
+518,26590,"Samsi, Mahottari",26.81052,85.73442
+519,26591,"Manara, Mahottari",26.72962,85.75414
+520,26592,"Hatiya, Makabanpur",27.92547,84.6631
+521,26593,"Aambhanjyang, Makabanpur",27.15,85.9
+522,26594,"Manahari, Makabanpur",27.54241,84.80919
+523,26595,"Basamadi, Makabanpur",27.45076,84.98335
+524,26596,"Markhu, Makabanpur",35.48346,35.93104
+524,26596,"Markhu, Makabanpur",27.61923,85.15079
+526,26599,"Ritha Chhatibwn, Makawanpur",29.67895,80.47581
+527,26600,"Hetauda I.A., Makawanpur",27.42839,85.03219
+528,26601,"Palung, Makawanpur",27.84274,83.41169
+529,26602,"Bhainse, Makawanpur",27.34645,85.73367
+530,26603,"Bhimphedi, Makawanpur",27.5405,85.13546
+531,26604,Manang,28.66667,84.25
+532,26605,"Pisang, Manang",28.61465,84.14721
+533,26606,"Bhakra, Manang",28.65696,84.04508
+534,26607,"Mathillo Manang, Manang",28.66667,84.25
+535,26608,"Nar, Manang",28.68219,84.20231
+536,26609,"Dharapani, Manang",28.467983,84.372869
+537,26610,Morang,26.66667,87.5
+538,26611,"Chunimari, Morang",26.26914,87.91301
+539,26612,"Rangeli, Morang",26.46262,87.48908
+540,26613,"Sanischare, Morang",26.656357,87.5508
+541,26614,"Urlabari, Morang",26.66996,87.63486
+542,26615,"Madhumalla, Morang",26.66667,87.5
+543,26616,"Bayarban, Morang",26.59414,87.51083
+544,26617,"Sorabhag, Morang",26.44532,87.42639
+545,26618,"Dadarberiya, Morang",26.66667,87.5
+546,26619,"Letang, Morang",26.66667,87.5
+547,26620,"Kerabari, Morang",28.70848,81.65068
+548,26621,"Haraincha, Morang",26.61068,87.37237
+549,26622,"Bhaudaha, Morang",26.49748,87.34778
+550,26624,"Rani Sikiyahi, Morang",26.40951,87.27025
+551,26625,"Jhorahat, Morang",26.52461,87.33715
+552,26626,"Banigama, Morang",26.6936,86.54047
+553,26627,"Bansbari, Morang",26.53088,87.28596
+554,26628,Mugu,29.58333,82.41667
+555,26629,"Rowa, Mugu",29.526546,82.191978
+556,26630,"Pulu, Mugu",29.58027,82.4014
+557,26631,"Sorubarma, Mugu",29.73015,82.51536
+558,26632,"Rara, Mugu",29.54909,82.0732
+559,26633,"Sukhadhik, Mugu",29.73015,82.51536
+560,26634,"Gumtha, Mugu",29.504038,81.891442
+561,26635,"Dhainkot, Mugu",29.58333,82.41667
+562,26636,Mustang,35.391693,-97.72459
+562,26636,Mustang,28.91667,83.91667
+564,26638,"Kagbeni, Mustang",28.84485,83.79809
+565,26639,"Charang, Mustang",29.08188,83.93699
+566,26640,Mustang,35.391693,-97.72459
+566,26640,Mustang,28.91667,83.91667
+568,26642,"Muktinath, Mustang",28.81499,83.87538
+569,26643,"Lete, Mustang",28.63111,83.6082
+570,26644,"Thak Tukuche, Mustang",28.744953,83.557406
+571,26645,Myagdi,28.58333,83.33333
+572,26646,"Xyamarukot, Myagdi",28.58333,83.33333
+573,26647,"Galeswor, Myagdi",28.182411,84.004442
+574,26648,"Rakhu Bhagawati, Myagdi",28.39844,83.58097
+575,26649,"Sikha, Myagdi",28.4466,83.67179
+576,26650,"Dana, Myagdi",28.53233,83.64181
+577,26651,"Babiyachaur, Myagdi",28.39074,83.4534
+578,26652,"Darbang, Myagdi",28.41409,83.38763
+579,26653,"Pakhapani, Myagdi",28.44082,83.51087
+580,26654,"Takam, Myagdi",28.47321,83.35934
+581,26655,"Lulang, Myagdi",28.52478,83.27708
+582,26656,Nawalparasi,27.66667,83.91667
+583,26657,"Rakuwa, Nawalparasi",27.66667,83.91667
+584,26658,"Bulingtar, Nawalparasi",27.83595,84.18303
+585,26659,"Gaindakot, Nawalparasi",27.70817,84.4128
+586,26660,"Dumkauli, Nawalparasi",27.682,84.22168
+587,26661,"Shergunj, Nawalparasi",27.66667,83.91667
+588,26662,"Naya Belhani, Nawalparasi",27.59975,83.95247
+589,26663,"Tribeni, Nawalparasi",27.470805,83.942282
+590,26664,"Semari, Nawalparasi",27.50784,83.35342
+591,26665,"Guthi persauni, Nawalparasi",27.609268,85.373815
+592,26666,"Bhujahawa, Nawalparasi",27.41936,83.73325
+593,26667,"Makar, Nawalparasi",27.52046,83.78335
+594,26668,"Tilakpur, Nawalparasi",27.55381,83.73506
+595,26669,"Maheshpur, Nawalparasi",27.43878,83.70326
+596,26670,"Sunawal, Nawalparasi",27.60943,83.652703
+597,26671,"Pithauli, Nawalparasi",27.64201,84.15286
+598,26673,"Thansingh, Nuwakot",27.91447,85.16478
+599,26674,"Ranipauwa, Nuwakot",27.91447,85.16478
+600,26675,"Taruka, Nuwakot",27.91447,85.16478
+601,26676,"Deurali, Nuwakot",27.86244,85.18414
+602,26677,"Kahule, Nuwakot",27.91447,85.16478
+603,26678,Nuwakot,27.91447,85.16478
+604,26679,"Chokade, Nuwakot",27.91447,85.16478
+605,26680,"Kharanitar, Nuwakot",27.91447,85.16478
+606,26681,"Bhadratar, Nuwakot",27.91447,85.16478
+607,26682,"Ramabati, Nuwakot",27.91447,85.16478
+608,26683,"Rautbesi, Nuwakot",27.91999,85.42345
+609,26684,"Pokharichapadanda, Nuwakot",27.91447,85.16478
+610,26685,"Devighat, Nuwakot",27.91447,85.16478
+611,26686,Okhaldhunga,27.33333,86.41667
+612,26687,"Khani Bhanjyang, Okhaldhunga",27.32834,86.21973
+613,26688,"Rumjatar, Okhaldhunga",27.3028,86.54669
+614,26689,"Rampur, Okhaldhunga",27.24969,86.54467
+615,26690,"Bigutar, Okhaldhunga",27.36025,86.49595
+616,26691,"Khiji Phalate, Okhaldhunga",27.12447,86.82985
+617,26692,"Gamanangtar, Okhaldhunga",27.31031,86.50502
+618,26693,"Ghorakhori, Okhaldhunga",27.33333,86.41667
+619,26694,"Chyanam, Okhaldhunga",27.29116,86.42086
+620,26695,"Mane Bhanjyang, Okhaldhunga",27.20743,86.45869
+621,26696,"Moli, Okhaldhunga",27.23727,86.5569
+622,26697,"Ragani, Okhaldhunga",27.45721,86.28469
+623,26698,Palpa,27.88924,83.4643
+624,26699,"Sahalkot, Palpa",27.804,83.96177
+625,26700,"Rampur, Palpa",28.08497,83.34606
+626,26701,"Hungi, Palpa",27.88924,83.4643
+627,26702,"Jalpa, Palpa",27.88924,83.4643
+628,26703,"Tahu, Palpa",27.88924,83.4643
+629,26704,"Jhadewa, Palpa",27.78162,83.68068
+630,26705,"Aryabhanjyang, Palpa",27.88924,83.4643
+631,26706,"Madanpokhara, Palpa",27.82545,83.55452
+632,26707,"Khasyauli, Palpa",27.70623,83.46523
+633,26708,"Argali, Palpa",27.88924,83.4643
+634,26709,"Chhahara, Palpa",27.87719,83.35929
+635,26710,"Palungmainadi, Palpa",27.88924,83.4643
+636,26711,"Baldengadi, Palpa",27.88924,83.4643
+637,26712,Panchthar,27.16667,87.83333
+638,26713,"Chyangthapu, Panchthar",27.26202,87.94853
+639,26714,"Ambarpur, Panchthar",27.55479,81.01197
+640,26715,"Namluwa, Panchthar",27.19318,87.91525
+641,26716,"Yangnam, Panchthar",35.67769,129.46186
+641,26716,"Yangnam, Panchthar",27.16667,87.83333
+643,26718,"Mehelbote, Panchthar",27.23145,87.61759
+644,26719,"Yasok, Panchthar",27.16667,87.83333
+645,26720,"Mauwa, Panchthar",26.99344,87.58452
+646,26721,"Rabi, Panchthar",27.30373,87.99601
+647,26722,"Limba, Panchthar",26.89934,87.595
+648,26723,"Medibung, Panchthar",27.29751,87.85087
+649,26724,Parbat,28.41667,83.66667
+650,26725,"Salija, Parbat",28.33935,83.6219
+651,26726,"Khurkot, Parbat",28.26107,83.66959
+652,26727,"Deurali, Parbat",28.3453,83.61542
+653,26728,"Thulipokhari, Parbat",28.41667,83.66667
+654,26729,"Karkineta, Parbat",28.17734,83.74568
+655,26730,"Devisthan, Parbat",28.35336,83.58994
+656,26731,"Bachchha, Parbat",28.41667,83.66667
+657,26732,"Lankhudeurali, Parbat",28.41667,83.66667
+658,26733,"Hubas, Parbat",28.41667,83.66667
+659,26734,"Khor Pokhara, Parbat",28.03739,83.62964
+660,26735,"Setibeni, Parbat",28.0,83.61667
+661,26737,"Aadarshanagar, Parsa",27.33333,84.83333
+662,26738,"Parbanipur, Parsa",0.0,0.0
+663,26739,"Bindabasini, Parsa",27.04381,84.81758
+664,26740,"Bahuari Pidari, Parsa",27.10978,84.84291
+665,26741,"Shirsiya Khalwatola, Parsa",0.0,0.0
+666,26742,"Biruwaguthi, Parsa",0.0,0.0
+667,26743,"Pakahamainpur, Parsa",27.02523,84.73609
+668,26744,"Phokhariya, Parsa",27.33333,84.83333
+669,26745,"Ranigunj, Parsa",27.05572,84.77186
+670,26746,"Paterwa Sugauli, Parsa",27.17577,84.77206
+671,26747,"Viswa, Parsa",12.137283,78.387396
+671,26747,"Viswa, Parsa",12.137283,78.387396
+673,26749,"Jeetpur, Parsa",27.33333,84.83333
+674,26750,"Thori, Parsa",27.34221,84.61261
+675,26751,Pyuthan,28.08333,82.83333
+676,26752,"Dakhaquadi, Pyuthan",28.08333,82.83333
+677,26753,"Bhingri, Pyuthan",28.08333,82.83333
+678,26754,"Wangesal, Pyuthan",28.08333,82.83333
+679,26755,"Baraula, Pyuthan",25.51631,81.26232
+680,26756,"Majuwa, Pyuthan",28.27827,83.05152
+681,26757,"Machchhi, Pyuthan",28.14139,82.96695
+682,26758,"Thulabesi, Pyuthan",28.08333,82.83333
+683,26759,"Lungbahane, Pyuthan",28.08333,82.83333
+684,26760,"Bijuwar, Pyuthan",28.10681,82.85385
+685,26761,"Naya Gaun, Pyuthan",28.08333,82.83333
+686,26762,Ramechhap,27.41667,86.08333
+687,26763,"Those, Ramechhap",27.56864,86.2679
+688,26764,"Duragaun, Ramechhap",27.35843,86.25515
+689,26765,"Betali, Ramechhap",27.53438,86.17017
+690,26766,"Khimti, Ramechhap",27.53009,85.85043
+691,26767,"Saghutar, Ramechhap",27.35089,86.21645
+692,26768,"Kathjor, Ramechhap",27.4024,86.10545
+693,26769,"Puranagaun, Ramechhap",27.44853,85.76648
+694,26770,"Doramba, Ramechhap",27.51176,85.93942
+695,26771,"Hiledevi, Ramechhap",27.49016,85.87668
+696,26772,"Bhirpani, Ramechhap",27.75783,85.20937
+697,26773,Rasuwa,28.16667,85.33333
+698,26774,"Dhaibung, Rasuwa",28.00222,85.2144
+699,26775,"Ramkali, Rasuwa",32.832827,77.158687
+699,26775,"Ramkali, Rasuwa",28.16667,85.33333
+701,26777,"Syaphru Besi, Rasuwa",27.96308,85.09661
+702,26778,Rautahat,27.0,85.33333
+703,26779,"Saruatha, Rautahat",26.83126,85.29517
+704,26780,"Pipra bazar, Rautahat",23.876867,78.543561
+704,26780,"Pipra bazar, Rautahat",27.0,85.33333
+706,26782,"Rajpurpharahadawa, Rautahat",27.0,85.33333
+707,26783,"Patharabudhram, Rautahat",27.0,85.33333
+708,26784,"Sitalpur, Rautahat",26.95905,85.19541
+709,26785,"Shivanagar, Rautahat",26.93382,85.30675
+710,26786,"Laxminiya, Rautahat",27.0,85.33333
+711,26787,"Katahariya, Rautahat",26.98056,85.24351
+712,26788,"Samanpur, Rautahat",26.97067,85.38827
+713,26789,"Chandra Nigahapur, Rautahat",-12.195,44.46472
+713,26789,"Chandra Nigahapur, Rautahat",27.647369,85.628603
+715,26791,"Khungri, Rolpa",28.41667,82.75
+716,26792,"Sirpa, Rolpa",28.24432,82.82839
+717,26793,"Thawang, Rolpa",28.41667,82.75
+718,26794,"Himtakura, Rolpa",28.41667,82.75
+719,26795,"Ghartigaun, Rolpa",28.39086,82.51054
+720,26796,"Nerpa, Rolpa",28.31342,82.4333
+721,26797,"Dahaban, Rolpa",29.14525,81.6336
+722,26798,"Shulichaur, Rolpa",28.41667,82.75
+723,26799,"Jhenam (Holeri), Rolpa",28.18796,82.508
+724,26800,Rukum,28.75,82.58333
+725,26801,"Rukumkot, Rukum",28.62013,82.61745
+726,26802,"Riwangchaur, Rukum",28.75,82.58333
+727,26803,"Kol, Rukum",28.62598,82.45394
+728,26804,"Peugha, Rukum",28.58267,82.3829
+729,26805,"Chaurjahari, Rukum",28.64094,82.20096
+730,26806,"Simli, Rukum",28.65649,82.35519
+731,26807,"Radijyula, Rukum",28.75,82.58333
+732,26808,"Baphikot, Rukum",28.68584,82.46764
+733,26810,"Siktahan, Rupandehi",27.5553,83.54769
+734,26811,"Dhakadhai, Rupandehi",27.51004,83.53863
+735,26812,"Manigram, Rupandehi",27.63128,83.46143
+736,26813,"Kotihawa, Rupandehi",27.57078,83.47076
+737,26814,"Thutipipal, Rupandehi",27.54077,83.46321
+738,26815,"Butwal, Rupandehi",27.70055,83.44836
+739,26816,"Parroha, Rupandehi",27.66616,83.35693
+740,26817,"Sauraha Pharsa, Rupandehi",27.63023,83.43048
+741,26818,"Amuwa, Rupandehi",25.25544,84.16168
+742,26819,"Saljhandi, Rupandehi",27.7035,83.26391
+743,26820,"Suryapura, Rupandehi",27.62292,83.49535
+744,26821,"Tenuhawa, Rupandehi",27.48958,83.26315
+745,26822,"Lumbini, Rupandehi",27.48619,83.27714
+746,26823,"Betkuiya, Rupandehi",27.42149,83.31121
+747,26824,"Mahadehiya, Rupandehi",27.66667,83.41667
+748,26825,Salyan,39.59362,48.98055
+748,26825,Salyan,28.37858,82.1703
+750,26827,"Luham, Salyan",28.29752,82.25991
+751,26828,"Dhanbang, Salyan",28.14386,82.66236
+752,26829,"Mahaneta, Salyan",28.44972,82.37898
+753,26830,"Malneta, Salyan",0.0,0.0
+754,26831,"Maidu, Salyan",28.48194,82.06393
+755,26832,"Ragechour, Salyan",39.59362,48.98055
+755,26832,"Ragechour, Salyan",28.37858,82.1703
+757,26834,"Tharmare, Salyan",28.45608,82.27961
+758,26835,Sankhuwasabha,27.58333,87.33333
+759,26836,"Hatiya, Sankhuwasabha",27.73866,87.34068
+760,26837,"Hedangana, Sankhuwasabha",27.58333,87.33333
+761,26838,"Tamku, Sankhuwasabha",27.48842,87.10707
+762,26839,"Chandanpur, Sankhuwasabha",27.40849,87.15365
+763,26840,"Bahrabishe, Sankhuwasabha",27.58333,87.33333
+764,26841,"Tumlingtar, Sankhuwasabha",27.31833,87.19797
+765,26842,"Wana, Sankhuwasabha",27.34344,87.31617
+766,26843,"Shidhakali, Sankhuwasabha",27.58333,87.33333
+767,26844,"Madi, Sankhuwasabha",27.58333,87.33333
+768,26845,"Ankhibhui, Sankhuwasabha",27.58333,87.33333
+769,26846,"Mamling, Sankhuwasabha",27.23397,87.33694
+770,26847,"Manebhanjyang, Sankhuwasabha",27.58333,87.33333
+771,26848,"Chainpur, Sankhuwasabha",27.29104,87.31589
+772,26849,Saptari,26.58333,86.75
+773,26850,"Hanuman Nagar, Saptari",17.628784,78.085366
+773,26850,"Hanuman Nagar, Saptari",26.58333,86.75
+775,26852,"Phattepur, Saptari",26.73576,86.93231
+776,26853,"Kanchanpur, Saptari",26.64192,86.91261
+777,26854,"Praswani, Saptari",26.58333,86.75
+778,26855,"Bhagawatpur, Saptari",26.54018,86.8222
+779,26856,"Koiladi, Saptari",26.48618,86.81512
+780,26857,"Chhinnamasta, Saptari",26.58333,86.75
+781,26858,"Bishnupur, Saptari",26.52094,86.72169
+782,26859,"Rupani, Saptari",26.628852,86.713342
+783,26860,"Pato, Saptari",26.51857,86.61166
+784,26861,"Arnaha, Saptari",26.57479,86.64132
+785,26862,"Kalyanpur, Saptari",26.64253,86.62648
+786,26863,"Bodebarsain, Saptari",26.58333,86.75
+787,26864,"Sisawa, Saptari",26.72458,86.3498
+788,26865,"Kadarwona, Saptari",26.58333,86.75
+789,26866,"Bhardaha, Saptari",26.54737,86.89227
+790,26867,Sarlahi,27.0,85.58333
+791,26868,"Lalbandi, Sarlahi",27.05541,85.63913
+792,26869,"Bayalbas, Sarlahi",27.47149,85.04739
+793,26870,"Haripurwa, Sarlahi",26.90136,85.68448
+794,26871,"Hariaun, Sarlahi",27.09236,85.55792
+795,26872,"Haripur, Sarlahi",27.02423,85.57739
+796,26873,"Brahmapuri, Sarlahi",27.0,85.58333
+797,26874,"Kaudena, Sarlahi",26.86451,85.51732
+798,26875,"Barahathawa, Sarlahi",27.01953,85.45917
+799,26876,"Sundarpur, Sarlahi",26.89039,85.49466
+800,26877,"Dumariya, Sarlahi",26.81879,85.40373
+801,26878,"Karmaiya, Sarlahi",27.10835,85.47557
+802,26879,"Harkathawa, Sarlahi",27.0,85.58333
+803,26880,"Ramnagar(Bahuarwa), Sarlahi",26.63496,85.83683
+804,26881,"Chhatauna, Sarlahi",27.0,85.58333
+805,26882,Sindhuli,27.25,86.0
+806,26883,"Solpa, Sindhuli",27.25,86.0
+807,26884,"Bahun Tilpung, Sindhuli",45.779281,16.000596
+807,26884,"Bahun Tilpung, Sindhuli",27.25,86.0
+809,26886,"Dakaha, Sindhuli",27.02623,86.15407
+810,26887,"Gwaltar, Sindhuli",27.28111,86.06709
+811,26888,"Khurkot, Sindhuli",27.3294,85.99147
+812,26889,"Belghari, Sindhuli",27.13796,86.05641
+813,26890,"Bhiman, Sindhuli",27.16996,85.49694
+814,26891,"Jhanga Jholi, Sindhuli",26.77956,83.73253
+815,26892,"Netrakali, Sindhuli",27.35201,85.75481
+816,26893,"Kapilakot, Sindhuli",27.30163,85.67111
+817,26894,"Pipalmadhiratanpur, Sindhuli",27.25,86.0
+818,26895,Sindhupalchok,27.82936,85.54504
+819,26896,"Kodari, Sindhupalchok",27.7141,85.76373
+820,26897,"Barabise, Sindhupalchok",27.78873,85.89858
+821,26898,"Atarpur, Sindhupalchok",27.82936,85.54504
+822,26899,"Lamosanghu, Sindhupalchok",27.82936,85.54504
+823,26900,"Nawalpur, Sindhupalchok",27.81797,85.63329
+824,26901,"Pangtang, Sindhupalchok",33.3027,118.161
+824,26901,"Pangtang, Sindhupalchok",27.82936,85.54504
+826,26903,"Bhotsipa, Sindhupalchok",27.75382,85.65038
+827,26904,"Melamchi Bahunepati, Sindhupalchok",27.79401,85.57543
+828,26905,"Gyalthum, Sindhupalchok",27.82936,85.54504
+829,26906,"Thangapaldhap, Sindhupalchok",27.82936,85.54504
+830,26907,"Dubachaur, Sindhupalchok",27.82936,85.54504
+831,26908,"Balephi, Sindhupalchok",27.73617,85.78606
+832,26909,Siraha,26.65411,86.2087
+833,26910,"Bastipur, Siraha",26.87104,86.19222
+834,26911,"Lahan, Siraha",26.72958,86.49515
+835,26912,"Bhagawanpur, Siraha",26.82316,86.27732
+836,26913,"Dhanagadhi, Siraha",26.65411,86.2087
+837,26914,"Maheshpur patari, Siraha",26.81453,86.26138
+838,26915,"Bariyarpatti, Siraha",26.65411,86.2087
+839,26916,"Golbazar (Asanpur), Siraha",26.80322,86.3346
+840,26917,"Sukhipur, Siraha",26.31165,82.92277
+841,26918,"Bishnupur, Siraha",26.50379,86.73168
+842,26919,"Belha, Siraha",26.70418,86.21619
+843,26920,"Madar, Siraha",26.6324,86.19383
+844,26921,"Mirchaiya, Siraha",26.86015,86.17203
+845,26922,"Bandipur, Siraha",26.8818,86.16496
+846,26923,"Kalyanpur, Siraha",26.67317,86.44339
+847,26924,Solukhumbu,27.75,86.75
+848,26925,"Namche Bazar, Solukhumbu",27.80541,86.71363
+849,26926,"Sotang, Solukhumbu",27.49013,86.76396
+850,26927,"Jubu, Solukhumbu",27.41043,86.71184
+851,26928,"Nele, Solukhumbu",27.44344,86.63036
+852,26929,"Necha, Solukhumbu",27.35584,86.65169
+853,26930,"Shishakhola, Solukhumbu",27.75,86.75
+854,26931,"Himaganga, Solukhumbu",27.525789,86.341782
+855,26932,"Lukla, Solukhumbu",27.68664,86.7314
+856,26933,Sunsari,26.66667,87.16667
+857,26934,"Mangalbare, Sunsari",26.67452,87.60439
+858,26935,"Chatara, Sunsari",26.82746,87.16179
+859,26936,"Bakalauri, Sunsari",26.66667,87.16667
+860,26937,"Itahari, Sunsari",26.66667,87.28333
+861,26938,"Simariya, Sunsari",22.05646,79.52679
+861,26938,"Simariya, Sunsari",23.72002,79.25988
+863,26940,"Chimadi, Sunsari",26.4892,87.19209
+864,26941,"Jhumka, Sunsari",26.673,87.21128
+865,26942,"Inarauwa, Sunsari",26.66667,87.16667
+866,26943,"Aurabari, Sunsari",24.87201,87.053062
+867,26944,"Dewangunj, Sunsari",26.66667,87.16667
+868,26945,"Madhuvan, Sunsari",19.171673,72.952384
+868,26945,"Madhuvan, Sunsari",26.66667,87.16667
+870,26947,"Bhutaha, Sunsari",27.55945,83.75218
+871,26948,"Mahendra Nagar, Sunsari",21.118751,79.109871
+871,26948,"Mahendra Nagar, Sunsari",26.66667,87.16667
+873,26951,"Chhinchu, Surkhet",28.45778,81.72385
+874,26952,"Ramghat, Surkhet",28.48766,81.7432
+875,26953,"Sahare, Surkhet",28.39407,81.89634
+876,26954,"Gumi, Surkhet",28.49652,81.84589
+877,26955,"Bheriganga, Surkhet",28.51746,81.7787
+878,26956,"Matela, Surkhet",28.78323,81.4616
+879,26957,"Garpan, Surkhet",28.62678,81.73718
+880,26958,"Kunathari, Surkhet",28.69373,81.52364
+881,26959,"Babiyachaur, Surkhet",28.79462,81.38773
+882,26960,"Gutu, Surkhet",28.84393,81.32289
+883,26961,"Syangja, Syanja",27.975,83.75324
+884,26962,"Kolma, Syanja",27.975,83.75324
+885,26963,"Kichnas, Syanja",27.975,83.75324
+886,26964,"Jharkham, Syanja",27.975,83.75324
+887,26965,"Arjunchaupari, Syanja",27.975,83.75324
+888,26966,"Panchamul, Syanja",27.975,83.75324
+889,26967,"Rangethanti, Syanja",27.975,83.75324
+890,26968,"Fedikhola, Syanja",27.975,83.75324
+891,26969,"Bhumare, Syanja",27.05389,87.21817
+892,26970,"Kyakmi, Syanja",27.975,83.75324
+893,26971,"Waidha Bhanjhyang, Syanja",27.58253,86.14293
+894,26972,"Chapakot, Syanja",27.975,83.75324
+895,26973,"Galyang, Syanja",27.94637,83.67925
+896,26974,Tanahun,27.91667,84.25
+897,26975,"Tuhure Pasal, Tanahun",28.12747,84.3769
+898,26976,"Manechauka, Tanahun",28.12451,84.4022
+899,26978,"Aanbu Khaireni, Tanahun",27.85454,84.04811
+900,26979,"Baidi, Tanahun",28.30029,81.41061
+901,26980,"Kahunshivapur, Tanahun",27.91667,84.25
+902,26981,"Rising Ranipokhari, Tanahun",41.198605,-97.297412
+902,26981,"Rising Ranipokhari, Tanahun",27.709775,85.318582
+904,26983,"Bhimad, Tanahun",27.91667,84.25
+905,26984,"Lamagaun, Tanahun",28.14309,84.52418
+906,26985,"Khairenitar, Tanahun",28.02969,84.09511
+907,26986,"Shisha Ghat, Tanahun",53.590103,19.567796
+907,26986,"Shisha Ghat, Tanahun",53.590103,19.567796
+909,26988,"Devaghat, Tanahun",27.91667,84.25
+910,26989,"Khewang, Taplajung",28.10991,83.73096
+911,26990,"Sadeba, Taplajung",0.0,0.0
+912,26991,"Thokimba, Taplajung",0.0,0.0
+913,26992,"Dobhan, Taplajung",28.56568,82.64961
+914,26993,Taplejung,27.557564,87.81463
+915,26994,"Sinam, Taplejung",27.31194,87.83279
+916,26995,"Pedang, Taplejung",27.37803,87.86853
+917,26996,"Thechambu, Taplejung",26.64364,87.80867
+918,26997,"Siwang, Taplejung",27.557564,87.81463
+919,26998,"Khokling, Taplejung",27.39442,87.64812
+920,26999,"Olangchunggola, Taplejung",27.68044,87.78271
+921,27000,"Change, Taplejung",27.34894,87.60993
+922,27001,"Hangpang, Taplejung",27.33089,87.62409
+923,27002,Terhathum,27.19129,87.561208
+924,27003,"Jirikhimti, Terhathum",26.65945,87.54261
+925,27004,"Tinjure, Terhathum",27.17791,87.42725
+926,27005,"Basantapur, Terhathum",27.13927,87.41214
+927,27006,"Sudap, Terhathum",27.08756,87.47818
+928,27007,"Hamarjung, Terhathum",27.19129,87.561208
+929,27008,"Morahang, Terhathum",27.21557,87.51614
+930,27009,"Pokalawang, Terhathum",27.15,87.55
+931,27010,"Mulpani, Terhathum",27.21093,87.65323
+932,27011,"Iwa, Terhathum",27.19129,87.561208
+933,27012,Udayapur,26.91667,86.66667
+934,27013,"Ratapani (Thoksila), Udayapur",28.21067,82.3111
+935,27014,"Beltar, Udayapur",27.09731,86.41813
+936,27015,"Hadiya, Udayapur",26.78303,86.8361
+937,27016,"Pokhari, Udayapur",27.08321,86.58016
+938,27017,"Baraha, Udayapur",24.4992,84.48821
+939,27018,"Bhutar, Udayapur",30.09126,67.06798
+939,27018,"Bhutar, Udayapur",26.91667,86.66667
+941,27020,"Udayapur Gadhi, Udayapur",26.91667,86.66667
+942,27021,"Katari, Udayapur",26.82094,87.03036
+943,27022,"Sorung Chhabise, Udayapur",27.09128,86.44263
+944,27023,"Rauta Murkuchi, Udayapur",26.89672,86.62497

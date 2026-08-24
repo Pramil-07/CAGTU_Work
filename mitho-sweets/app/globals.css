@@ -1,0 +1,210 @@
+@import 'nprogress/nprogress.css'; /* app/globals.css */
+
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+/* app/globals.css */
+/* app/globals.css */
+
+#nprogress .bar {
+  background: #1d4ed8 !important; /* Blue for visibility */
+  height: 4px !important; /* Standard height */
+  z-index: 9999 !important; /* Ensure it’s above other elements */
+  position: fixed !important; /* Ensure it stays at the top */
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+}
+
+#nprogress .spinner {
+  display: none !important; /* Hide spinner */
+}
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem}
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%}
+}
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    padding: 0px;
+  }
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  cursor: pointer;
+}
+
+.swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper{
+  height: 457px
+}
+
+.mantine-Notification-root {
+  position: fixed !important;
+  top: 70px !important;
+  right: 20px !important;
+  z-index: 999 !important;
+  margin: 0 !important;
+}
+
+/* globals.css */
+.page-container {
+  max-width: 1280px; /* pick your size (same as max-w-screen-xl in Tailwind) */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.product-description p {
+  /*color: #6C757D; !* homaaleSlate[5] for light mode *!*/
+  line-height: 22px;
+}
+
+.product-description ul {
+  list-style-type: disc !important;
+  margin: 1em 0 !important;
+}
+
+.product-description ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5rem !important;
+  margin: 1em 0 !important;
+}
+
+.product-description li[data-list='bullet'] {
+  display: list-item;
+  list-style-type: disc;
+  margin: 0.5em 0;
+  /*color: #6C757D; !* homaaleSlate[5] for light mode *!*/
+}
+
+.product-description li[data-list='ordered'] {
+  display: list-item;
+  list-style-type: decimal;
+  margin: 0.5em 0;
+  /*color: #6C757D; !* homaaleSlate[5] for light mode *!*/
+}
+
+.product-description li {
+  margin-bottom: 0.5em;
+  line-height: 16px;
+  font-size: 14px;
+}
+
+.product-description table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 500px; /* Matches the inline style from product.description */
+}
+
+.product-description td {
+  border: 1px solid #000; /* Matches border="1" */
+  padding: 8px; /* Overrides cellpadding if needed */
+  vertical-align: top;
+}
+
+.product-description strong {
+  font-weight: bold;
+}
+
+.product-description em {
+  font-style: italic;
+}
+
+.product-description u {
+  text-decoration: underline;
+}
+
+.product-description h1 {
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  margin: 1em 0 !important;
+  color: #212529 !important;
+}
+/* Responsive adjustment for table width */
+@media (max-width: 768px) {
+  .product-description table {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+.custom-select-input {
+  height: 36px !important;
+  min-height: 36px !important;
+  line-height: 30px !important; /* ensures text aligns vertically */
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.custom-select-right-section {
+  height: 30px !important; /* keeps the clear icon or arrow aligned */
+}
+
+
+/* Dark mode adjustments (optional, based on prefers-color-scheme) */
+@media (prefers-color-scheme: dark) {
+  .product-description p,
+  .product-description li[data-list='bullet'],
+  .product-description li[data-list='ordered'] {
+    /*color: #F8F9FA; !* dark[0] for dark mode *!*/
+  }
+  .product-description td {
+    /*border-color: #444; !* Adjust border for dark mode *!*/
+  }
+}
+

@@ -1,0 +1,23 @@
+{
+    "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "libs/ui-shared/views/src",
+    "projectType": "library",
+    "tags": [],
+    "targets": {
+        "lint": {
+            "executor": "@nrwl/linter:eslint",
+            "outputs": ["{options.outputFile}"],
+            "options": {
+                "lintFilePatterns": ["libs/ui-shared/views/**/*.{ts,tsx,js,jsx}"]
+            }
+        },
+        "test": {
+            "executor": "@nrwl/jest:jest",
+            "outputs": ["coverage/libs/ui-shared/views"],
+            "options": {
+                "jestConfig": "libs/ui-shared/views/jest.config.ts",
+                "passWithNoTests": true
+            }
+        }
+    }
+}

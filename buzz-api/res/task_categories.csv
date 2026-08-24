@@ -1,0 +1,193 @@
+id,name,parent,level,slug,is_active,media_limit,is_product_category
+1,Repair and Maintenance,,1,repair-and-maintenance,1,10,0
+2,Home Appliances Repair,Repair and Maintenance,2,home-appliances-repair,1,10,0
+3,Fridge,Home Appliances Repair,3,fridge,1,10,0
+4,Chimney,Home Appliances Repair,3,chimney,1,10,0
+5,Microwave,Home Appliances Repair,3,microwave,1,10,0
+6,AC,Home Appliances Repair,3,ac,1,10,0
+7,Washing Machine,Home Appliances Repair,3,washing-machine,1,10,0
+8,Geyser,Home Appliances Repair,3,geyser,1,10,0
+9,Water Purifier,Home Appliances Repair,3,water-purifier,1,10,0
+10,Solar Panel,Home Appliances Repair,3,solar-panel,1,10,0
+11,Television,Home Appliances Repair,3,television,1,10,0
+12,Fan,Home Appliances Repair,3,fan,1,10,0
+13,Gas Stove,Home Appliances Repair,3,gas-stove,1,10,0
+14,Electric Grills,Home Appliances Repair,3,electric-grills,1,10,0
+15,Coffee Machines,Home Appliances Repair,3,coffee-machines,1,10,0
+16,Computers,Home Appliances Repair,3,computers,1,10,0
+17,Laptops,Home Appliances Repair,3,laptops,1,10,0
+18,Printers,Home Appliances Repair,3,printers,1,10,0
+19,Water Dispenser,Home Appliances Repair,3,water-dispenser,1,10,0
+20,Smart Home,Home Appliances Repair,3,smart-home,1,10,0
+21,Mobile Repair,Home Appliances Repair,3,mobile-repair,1,10,0
+22,Vehicle Repair,Repair and Maintenance,2,vehicle-repair,1,10,0
+23,2 wheeler Repair,Vehicle Repair,3,2-wheeler-repair,1,10,0
+24,4 wheeler Repair,Vehicle Repair,3,4-wheeler-repair,1,10,0
+25,Home Repair and Maintenance,Repair and Maintenance,2,home-repair-and-maintenance,1,10,0
+26,Plumbing,Home Repair and Maintenance,3,plumbing,1,10,0
+27,Painting,Home Repair and Maintenance,3,painting,1,10,0
+28,Gardening,Home Repair and Maintenance,3,gardening,1,10,0
+29,Home Cleaning,Home Repair and Maintenance,3,home-cleaning,1,10,0
+30,Marble Cleaning,Home Repair and Maintenance,3,marble-cleaning,1,10,0
+31,Pest Control,Home Repair and Maintenance,3,pest-control,1,10,0
+32,Carpet Cleaning,Home Repair and Maintenance,3,carpet-cleaning,1,10,0
+33,Electrical Repair,Home Repair and Maintenance,3,electrical-repair,1,10,0
+34,Parqueting,Home Repair and Maintenance,3,parqueting,1,10,0
+35,Vehicle Rental,,1,vehicle-rental,1,10,0
+36,2 wheeler,Vehicle Rental,2,2-wheeler,1,10,0
+37,Bike,2 wheeler,3,bike,1,10,0
+38,Scooter,2 wheeler,3,scooter,1,10,0
+39,4 wheeler,Vehicle Rental,2,4-wheeler,1,10,0
+40,Car,4 wheeler,3,car,1,10,0
+41,Jeep,4 wheeler,3,jeep,1,10,0
+42,Bus,4 wheeler,3,bus,1,10,0
+43,Van,4 wheeler,3,van,1,10,0
+44,Beauty and Makeup,,1,beauty-and-makeup,1,10,0
+45,Nails,Beauty and Makeup,2,nails,1,10,0
+46,Nail Extension,Nails,3,nail-extension,1,10,0
+47,Nail Art,Nails,3,nail-art,1,10,0
+48,Makeup,Beauty and Makeup,2,makeup,1,10,0
+49,Bridal Makeup,Makeup,3,bridal-makeup,1,10,0
+50,Party Makeup,Makeup,3,party-makeup,1,10,0
+51,Fancy Makeup,Makeup,3,fancy-makeup,1,10,0
+52,Hairstyling,Beauty and Makeup,2,hairstyling,1,10,0
+53,Bridal,Hairstyling,3,bridal,1,10,0
+54,Party,Hairstyling,3,party,1,10,0
+55,Mehendi,Beauty and Makeup,2,mehendi,1,10,0
+56,Bridal Mehendi,Mehendi,3,bridal-mehendi,1,10,0
+57,Bridesmaid Mehendi,Mehendi,3,bridesmaid-mehendi,1,10,0
+58,Salon,Beauty and Makeup,2,salon,1,10,0
+59,Men's Salon,Salon,3,men's-salon,1,10,0
+60,Men's Haircut,Men's Salon,4,men's-haircut,1,10,0
+61,Men's Facial,Men's Salon,4,men's-facial,1,10,0
+62,Beard Shaving,Men's Salon,4,beard-shaving,1,10,0
+63,Women's Salon,Salon,3,women's-salon,1,10,0
+64,Haircut,Women's Salon,4,haircut,1,10,0
+65,Hair Spa,Women's Salon,4,hair-spa,1,10,0
+66,Manicure,Women's Salon,4,manicure,1,10,0
+67,Pedicure,Women's Salon,4,pedicure,1,10,0
+68,Facial,Women's Salon,4,facial,1,10,0
+69,Hair Colour,Women's Salon,4,hair-colour,1,10,0
+70,Threading,Women's Salon,4,threading,1,10,0
+71,Waxing,Women's Salon,4,waxing,1,10,0
+72,Hair Straightning,Women's Salon,4,hair-straightning,1,10,0
+73,Hair Curling,Women's Salon,4,hair-curling,1,10,0
+74,Hair Oil and Massage,Women's Salon,4,hair-oil-and-massage,1,10,0
+75,Training and Certification,,1,training-and-certification,1,10,0
+76,Barista,Training and Certification,2,barista,1,10,0
+77,Bar,Training and Certification,2,bar,1,10,0
+78,Dance,Training and Certification,2,dance,1,10,0
+79,Belly Dance,Dance,3,belly-dance,1,10,0
+80,Free Style,Dance,3,free-style,1,10,0
+81,Salsa,Dance,3,salsa,1,10,0
+82,Swimming,Training and Certification,2,swimming,1,10,0
+83,Beauty Training,Training and Certification,2,beauty-training,1,10,0
+84,Self Makeup Training,Beauty Training,3,self-makeup-training,1,10,0
+85,Bridal Makeup Training,Beauty Training,3,bridal-makeup-training,1,10,0
+86,Mehendi Art Training,Beauty Training,3,mehendi-art-training,1,10,0
+87,Nail Art Training,Beauty Training,3,nail-art-training,1,10,0
+88,Hair Style Training,Beauty Training,3,hair-style-training,1,10,0
+89,Advanced Makeup,Beauty Training,3,advanced-makeup,1,10,0
+90,Driving,Training and Certification,2,driving,1,10,0
+91,Scooter Training,Driving,3,scooter-training,1,10,0
+92,Bike Training,Driving,3,bike-training,1,10,0
+93,Car Training,Driving,3,car-training,1,10,0
+94,Dozer Training,Driving,3,dozer-training,1,10,0
+95,Bus Training,Driving,3,bus-training,1,10,0
+96,IT Training,Training and Certification,2,it-training,1,10,0
+97,Basic Trainings,Training and Certification,2,basic-trainings,1,10,0
+98,Mobile Repair Training,Basic Trainings,3,mobile-repair-training,1,10,0
+99,Laptop Repair Training,Basic Trainings,3,laptop-repair-training,1,10,0
+100,HR Training,Basic Trainings,3,hr-training,1,10,0
+101,Accounting Training,Basic Trainings,3,accounting-training,1,10,0
+102,Appliances Repair Training,Basic Trainings,3,appliances-repair-training,1,10,0
+103,Appliances Installation Training,Basic Trainings,3,appliances-installation-training,1,10,0
+104,Education,,1,education,1,10,0
+105,Language Classes,Education,2,language-classes,1,10,0
+106,IELTS preparation,Education,2,ielts-preparation,1,10,0
+107,TOEFL Preparation,Education,2,toefl-preparation,1,10,0
+108,GRE Preparation,Education,2,gre-preparation,1,10,0
+109,GMAT Prepartion,Education,2,gmat-prepartion,1,10,0
+110,Engineering Preparation,Education,2,engineering-preparation,1,10,0
+111,Medical Preparation,Education,2,medical-preparation,1,10,0
+112,Bridge Course,Education,2,bridge-course,1,10,0
+113,Computer Class,Education,2,computer-class,1,10,0
+114,Digital Marketing,Education,2,digital-marketing,1,10,0
+115,Tuition Classes,Education,2,tuition-classes,1,10,0
+116,Food Genie,,1,food-genie,1,10,0
+117,Bakery,Food Genie,2,bakery,1,10,0
+118,Indian Food,Food Genie,2,indian-food,1,10,0
+119,Continental Food,Food Genie,2,continental-food,1,10,0
+120,Nepali Food,Food Genie,2,nepali-food,1,10,0
+121,Newari Food,Food Genie,2,newari-food,1,10,0
+122,Chinese Food,Food Genie,2,chinese-food,1,10,0
+123,Italian Food,Food Genie,2,italian-food,1,10,0
+124,Consulting,,1,consulting,1,10,0
+125,Consultancy,Consulting,2,consultancy,1,10,0
+126,Legal Consulting,Consulting,2,legal-consulting,1,10,0
+127,House Help,,1,house-help,1,10,0
+128,Baby Sitting,House Help,2,baby-sitting,1,10,0
+129,Cook,House Help,2,cook,1,10,0
+130,Cleaner,House Help,2,cleaner,1,10,0
+131,Laundry,House Help,2,laundry,1,10,0
+132,Stays,,1,stays,1,10,0
+133,Hotel,Stays,2,hotel,1,10,0
+134,Home stays,Stays,2,home-stays,1,10,0
+135,Air B&Bs,Stays,2,air-b&bs,1,10,0
+136,Guest House,Stays,2,guest-house,1,10,0
+137,Delivery services,,1,delivery-services,1,10,0
+138,Milk,Delivery services,2,milk,1,10,0
+139,Grocery,Delivery services,2,grocery,1,10,0
+140,Water Tank,Delivery services,2,water-tank,1,10,0
+141,Water Jars,Delivery services,2,water-jars,1,10,0
+142,Gas Cylinders,Delivery services,2,gas-cylinders,1,10,0
+143,Newspaper,Delivery services,2,newspaper,1,10,0
+144,Puja Samagri,Delivery services,2,puja-samagri,1,10,0
+145,Movers and Packers,,1,movers-and-packers,1,10,0
+146,Pet Services,,1,pet-services,1,10,0
+147,Vaccination,Pet Services,2,vaccination,1,10,0
+148,Wound Dressing,Pet Services,2,wound-dressing,1,10,0
+149,Regular Checkup,Pet Services,2,regular-checkup,1,10,0
+150,Pet Grooming,Pet Services,2,pet-grooming,1,10,0
+151,Pet Training,Pet Services,2,pet-training,1,10,0
+152,Tick Control,Pet Services,2,tick-control,1,10,0
+153,Event Management,,1,event-management,1,10,0
+154,Catering Service,Event Management,2,catering-service,1,10,0
+155,Decoration Service,Event Management,2,decoration-service,1,10,0
+156,Banquet Booking,Event Management,2,banquet-booking,1,10,0
+157,Photography,Event Management,2,photography,1,10,0
+158,Videography,Event Management,2,videography,1,10,0
+159,Tent and Chairs Booking,Event Management,2,tent-and-chairs-booking,1,10,0
+160,Website Design,,1,website-design,1,10,0
+161,Website Development,Website Design,2,website-development,1,10,0
+162,Graphic Designing,Website Design,2,graphic-designing,1,10,0
+163,Blue Book Renewal,,1,blue-book-renewal,1,10,0
+164,Agriculture and Environment,,1,agriculture,1,5,0
+165,Beauty and Cosmetics,,1,art,1,5,0
+166,Business,,1,business,1,5,0
+167,Charity and Voluntary Work,,1,beauty,1,5,0
+168,Consulting and Management,,1,volunteer,1,5,0
+169,Creative Arts and Design,,1,consulting,1,5,0
+170,Education,,1,education,1,5,0
+171,Energy and Utilities,,1,energy,1,5,0
+172,Engineering and Manufacturing,,1,engineering,1,5,0
+173,Finance,,1,finance,1,5,0
+174,Freelance,,1,freelance,1,5,0
+175,Grocery,,1,grocery,1,5,0
+176,Healthcare,,1,hospitality,1,5,0
+177,Hospitality and Events,,1,healthcare,1,5,0
+178,Information Technology,,1,it,1,5,0
+179,Law,,1,law,1,5,0
+180,Law Enforcement and Security,,1,security,1,5,0
+181,"Marketing, Advertising and PR",,1,marketing,1,5,0
+182,Media,,1,media,1,5,0
+183,Other,,1,public_service,1,5,0
+184,Public Service,,1,real_estate,1,5,0
+185,Real Estate,,1,hr,1,5,0
+186,Recruitment and HR,,1,rental,1,5,0
+187,Rental,,1,sales,1,5,0
+188,Sales,,1,science,1,5,0
+189,Science,,1,sports,1,5,0
+190,Sports,,1,tourism,1,5,0
+191,Tourism,,1,transportation,1,5,0
+192,Transportation and Logistics,,1,other,1,5,0

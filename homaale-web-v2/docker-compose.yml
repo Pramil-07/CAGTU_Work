@@ -1,0 +1,17 @@
+version: "3" #Docker compose version
+services: # This section defines all the different containers we will create.
+    homaale-v2: # Application name
+        container_name: homaale-v2 # Container name
+        build: #This specifies the location of our Dockerfile
+            context: . #This specifies the location of our Dockerfile
+        ports: # Mapping the container’s ports to the host machine.
+            - "8020:3000"
+        restart: unless-stopped
+        # deploy:
+        #     resources:
+        #         limits:
+        #             cpus: '0.60'
+        #             memory: 2G
+        #         reservations:
+        #             cpus: '0.70'
+        #             memory: 3G

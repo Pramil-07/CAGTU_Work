@@ -1,0 +1,945 @@
+name,local_name,country,zip_code,latitude,longitude
+Jitpur,Jitpur,NP,26066,27.56452,83.42978
+Ghorahi,Ghorahi,NP,26068,24.87606,85.70917
+Dharan,Dharan,NP,26072,26.81248,87.28355
+Janakpur,Janakpur,NP,26074,26.71828,85.90646
+Hetauda,Hetauda,NP,26075,27.42839,85.03219
+Kirtipur,Kirtipur,NP,26076,27.67988,85.27544
+Godawari,Godawari,NP,26077,28.87553,80.57867
+Siraha,Siraha,NP,26079,26.65411,86.2087
+Itahari,Itahari,NP,26081,26.66667,87.28333
+Nepalganj,Nepalganj,NP,26082,28.05,81.61667
+Tilakpur,Tilakpur,NP,26084,21.40394,82.7329
+Tilakpur,Tilakpur,NP,26084,28.21662,81.66507
+Tulsipur,Tulsipur,NP,26086,28.13099,82.29726
+Kalaiya,Kalaiya,NP,26087,27.03301,85.00319
+Hanumannagar,Hanumannagar,NP,26088,26.70906,85.93506
+Palpa,Palpa,NP,26090,27.88924,83.4643
+Panauti,Panauti,NP,26092,27.58466,85.52122
+Khadbari,Khadbari,NP,26093,27.37604,87.20767
+Malangawa,Malangawa,NP,26094,26.85679,85.55811
+Jaleshwar,Jaleshwar,NP,26095,26.64711,85.80081
+Ilam,Ilam,NP,26098,33.6374,46.4227
+Ilam,Ilam,NP,26098,26.90943,87.92824
+Salyan,Salyan,NP,26099,28.37858,82.1703
+Kisanpur,Kisanpur,NP,26103,26.98949,85.48602
+Manakamana,Manakamana,NP,26105,27.43417,85.06388
+Jumla,Jumla,NP,26106,29.27472,82.18383
+Bhimphedi,Bhimphedi,NP,26100,27.5405,85.13546
+Kathmandu,Kathmandu,NP,26064,27.70169,85.3206
+Bharatpur,Bharatpur,NP,26069,27.479035,77.32727
+Bharatpur,Bharatpur,NP,26069,27.68333,84.43333
+Bhaktapur,Bhaktapur,NP,26080,27.66734,85.41673
+Sydney,Sydney,NP,1,-33.868633,151.209421
+Bidur,Bidur,NP,26091,4.110097,101.283535
+Bidur,Bidur,NP,26091,27.92981,85.15774
+Baglung,Baglung,NP,26089,28.27189,83.58976
+Biratnagar,Biratnagar,NP,26067,26.4831,87.28337
+Bandipur,Bandipur,NP,26102,34.41825,74.64042
+Bandipur,Bandipur,NP,26102,26.8818,86.16496
+Dadeldhura,Dadeldhura,NP,26097,29.29842,80.58059
+Butwal,Butwal,NP,26071,27.70055,83.44836
+Dhangadhi,Dhangadhi,NP,26073,28.70792,80.59611
+Achham,Achham,NP,26107,29.08333,81.33333
+"Chaurpati, Achham","Chaurpati, Achham",NP,26108,29.18825,81.14385
+"Srikot, Achham","Srikot, Achham",NP,26109,29.08333,81.33333
+"Thanti, Achham","Thanti, Achham",NP,26110,27.26092,87.68421
+"Mellekh, Achham","Mellekh, Achham",NP,26111,29.34909,80.95024
+"Bayalpata, Achham","Bayalpata, Achham",NP,26112,29.20381,81.23298
+"Bhatakatiya, Achham","Bhatakatiya, Achham",NP,26113,29.08333,81.33333
+"Jayagadh, Achham","Jayagadh, Achham",NP,26114,29.08333,81.33333
+"Kalagaun, Achham","Kalagaun, Achham",NP,26115,29.15358,81.33971
+"Kuchikot, Achham","Kuchikot, Achham",NP,26116,29.08333,81.33333
+"Kamal bazar, Achham","Kamal bazar, Achham",NP,26117,43.067895,-8.729132
+"Kamal bazar, Achham","Kamal bazar, Achham",NP,26117,27.710634,85.325194
+"Turmakhad, Achham","Turmakhad, Achham",NP,26119,28.88639,81.4896
+Arghakhanchi,Arghakhanchi,NP,26120,27.91667,83.08333
+"Balkot, Arghakhanchi","Balkot, Arghakhanchi",NP,26121,27.98177,83.24498
+"Arghatosh, Arghakhanchi","Arghatosh, Arghakhanchi",NP,26122,27.91667,83.08333
+"Khana, Arghakhanchi","Khana, Arghakhanchi",NP,26123,27.91667,83.08333
+"Wangla, Arghakhanchi","Wangla, Arghakhanchi",NP,26124,25.2767,108.679
+"Wangla, Arghakhanchi","Wangla, Arghakhanchi",NP,26124,27.91667,83.08333
+"Thada, Arghakhanchi","Thada, Arghakhanchi",NP,26126,27.86232,83.09083
+"Khilji, Arghakhanchi","Khilji, Arghakhanchi",NP,26127,27.9875,83.01791
+"Khidim, Arghakhanchi","Khidim, Arghakhanchi",NP,26128,27.91667,83.08333
+"Pali, Arghakhanchi","Pali, Arghakhanchi",NP,26129,27.93213,83.21562
+"Dhikura, Arghakhanchi","Dhikura, Arghakhanchi",NP,26130,28.04704,83.22138
+"Argha, Arghakhanchi","Argha, Arghakhanchi",NP,26131,35.23586,58.2194
+"Argha, Arghakhanchi","Argha, Arghakhanchi",NP,26131,27.91667,83.08333
+"Pala, Baglung","Pala, Baglung",NP,26134,28.27397,83.54169
+"Bihukot, Baglung","Bihukot, Baglung",NP,26135,28.27189,83.58976
+"Harichaur, Baglung","Harichaur, Baglung",NP,26136,28.27189,83.58976
+"Balewa Payupata, Baglung","Balewa Payupata, Baglung",NP,26137,28.213693,83.666181
+"Jaidi Belbagar, Baglung","Jaidi Belbagar, Baglung",NP,26138,28.13795,83.61642
+"Bereng, Baglung","Bereng, Baglung",NP,26139,28.27189,83.58976
+"Galkot, Baglung","Galkot, Baglung",NP,26140,28.20166,83.41839
+"Pandavkhani, Baglung","Pandavkhani, Baglung",NP,26141,28.27189,83.58976
+"Arnakot, Baglung","Arnakot, Baglung",NP,26142,28.27189,83.58976
+"Khrwang, Baglung","Khrwang, Baglung",NP,26143,0.0,0.0
+"Bongadovan, Baglung","Bongadovan, Baglung",NP,26144,28.27189,83.58976
+"Jhimpa, Baglung","Jhimpa, Baglung",NP,26145,28.27189,83.58976
+"Kusmi Shera, Baglung","Kusmi Shera, Baglung",NP,26146,50.848052,4.352425
+"Kusmi Shera, Baglung","Kusmi Shera, Baglung",NP,26146,28.27189,83.58976
+"Kesharpur, Baitadi","Kesharpur, Baitadi",NP,26148,29.5,80.58333
+"Patan, Baitadi","Patan, Baitadi",NP,26149,29.4631,80.54046
+"Khodpe, Baitadi","Khodpe, Baitadi",NP,26150,29.43905,80.63841
+"Mulkhatali, Baitadi","Mulkhatali, Baitadi",NP,26151,29.57113,80.43722
+"Gajari Changgad, Baitadi","Gajari Changgad, Baitadi",NP,26152,28.13834,82.12014
+"Dehimandau, Baitadi","Dehimandau, Baitadi",NP,26153,29.52454,80.47052
+"Sharmali, Baitadi","Sharmali, Baitadi",NP,26154,29.5,80.58333
+"Srikot, Baitadi","Srikot, Baitadi",NP,26155,29.5,80.58333
+"Dilasaini, Baitadi","Dilasaini, Baitadi",NP,26156,29.65922,80.60709
+"Swopana Taladehi, Baitadi","Swopana Taladehi, Baitadi",NP,26157,0.0,0.0
+"Purchaudihat, Baitadi","Purchaudihat, Baitadi",NP,26158,29.57113,80.43722
+"Sitad, Baitadi","Sitad, Baitadi",NP,26159,29.57113,80.43722
+"Dhungad, Baitadi","Dhungad, Baitadi",NP,26160,29.37001,80.79166
+Bajhang,Bajhang,NP,26161,29.66667,81.25
+"Talkot, Bajhang","Talkot, Bajhang",NP,26162,29.17015,81.04879
+"Jamatola, Bajhang","Jamatola, Bajhang",NP,26163,29.66667,81.25
+"Jaya Prithivi Nagar, Bajhang","Jaya Prithivi Nagar, Bajhang",NP,26164,28.31634,81.38035
+"Chhanna, Bajhang","Chhanna, Bajhang",NP,26165,30.28313,75.51446
+"Chhanna, Bajhang","Chhanna, Bajhang",NP,26165,29.66667,81.25
+"Rayal, Bajhang","Rayal, Bajhang",NP,26167,-11.34085,-68.44886
+"Rayal, Bajhang","Rayal, Bajhang",NP,26167,29.66667,81.25
+"Bungal, Bajhang","Bungal, Bajhang",NP,26169,29.66667,81.25
+"Shayadi, Bajhang","Shayadi, Bajhang",NP,26170,29.66667,81.25
+Bajura,Bajura,NP,26171,29.5,81.5
+"Dandakot, Bajura","Dandakot, Bajura",NP,26172,29.5,81.5
+"Jukot, Bajura","Jukot, Bajura",NP,26173,29.45811,81.7361
+"Faiti, Bajura","Faiti, Bajura",NP,26174,41.46667,13.0
+"Faiti, Bajura","Faiti, Bajura",NP,26174,41.46667,13.0
+"Manakot, Bajura","Manakot, Bajura",NP,26176,29.47654,81.38793
+"Dogadi, Bajura","Dogadi, Bajura",NP,26177,29.42258,81.29162
+"Tate, Bajura","Tate, Bajura",NP,26178,34.663346,-89.858401
+"Tate, Bajura","Tate, Bajura",NP,26178,34.663346,-89.858401
+Banke,Banke,NP,26180,39.41117,49.24792
+Banke,Banke,NP,26180,28.16667,81.83333
+"Bhojbhagawanpur, Banke","Bhojbhagawanpur, Banke",NP,26182,28.03333,81.61667
+"Khaskusma, Banke","Khaskusma, Banke",NP,26183,39.41117,49.24792
+"Khaskusma, Banke","Khaskusma, Banke",NP,26183,28.16667,81.83333
+"Ramjha, Banke","Ramjha, Banke",NP,26185,28.240245,83.742199
+"Udayapur, Banke","Udayapur, Banke",NP,26186,26.91667,86.66667
+"Chisapani, Banke","Chisapani, Banke",NP,26187,28.27777,81.65846
+"Godahana, Banke","Godahana, Banke",NP,26188,28.44275,81.27923
+"Jayaspur, Banke","Jayaspur, Banke",NP,26189,28.16667,81.83333
+"Khajura, Banke","Khajura, Banke",NP,26190,28.07526,81.62211
+"Chandranagar, Banke","Chandranagar, Banke",NP,26191,26.66394,87.36078
+Bara,Bara,NP,26192,27.08333,85.08333
+"Nijgadh, Bara","Nijgadh, Bara",NP,26193,27.20175,85.17118
+"Mahendra Adarsha, Bara","Mahendra Adarsha, Bara",NP,26194,27.661054,85.347877
+"Simraungadh, Bara","Simraungadh, Bara",NP,26195,27.08333,85.08333
+"Umjan, Bara","Umjan, Bara",NP,26196,0.0,0.0
+"Bariyarpur, Bara","Bariyarpur, Bara",NP,26197,27.00572,85.03817
+"Kabahigoth, Bara","Kabahigoth, Bara",NP,26198,0.0,0.0
+"Dumarwana, Bara","Dumarwana, Bara",NP,26199,27.13214,85.01904
+"Pipradhigoth, Bara","Pipradhigoth, Bara",NP,26200,0.0,0.0
+"Basantapur, Bara","Basantapur, Bara",NP,26201,28.07078,82.45836
+"Simara, Bara","Simara, Bara",NP,26202,27.00897,85.04011
+"Parsoni, Bara","Parsoni, Bara",NP,26203,0.0,0.0
+"Amalekhgunj, Bara","Amalekhgunj, Bara",NP,26204,27.08333,85.08333
+"Jeetpur (Bhavanipur), Bara","Jeetpur (Bhavanipur), Bara",NP,26205,27.08333,85.08333
+Bardiya,Bardiya,NP,26206,28.33333,81.41667
+"Jamuni, Bardiya","Jamuni, Bardiya",NP,26207,28.12423,81.49013
+"Mainapokhar, Bardiya","Mainapokhar, Bardiya",NP,26208,28.185915,81.480842
+"Motipur, Bardiya","Motipur, Bardiya",NP,26209,28.22961,81.49766
+"Magaragadi, Bardiya","Magaragadi, Bardiya",NP,26210,28.33333,81.41667
+"Baganaha, Bardiya","Baganaha, Bardiya",NP,26211,28.33333,81.41667
+"Bhurigaun, Bardiya","Bhurigaun, Bardiya",NP,26212,28.45224,81.3255
+"Rajapur, Bardiya","Rajapur, Bardiya",NP,26213,28.28688,81.31451
+"Pashupatinagar, Bardiya","Pashupatinagar, Bardiya",NP,26214,28.33333,81.41667
+"Sanoshri, Bardiya","Sanoshri, Bardiya",NP,26215,28.30058,81.3536
+"Dubakot, Bhaktapur","Dubakot, Bhaktapur",NP,26217,27.66734,85.41673
+"Kharipati, Bhaktapur","Kharipati, Bhaktapur",NP,26218,27.70384,85.47473
+"Tathali, Bhaktapur","Tathali, Bhaktapur",NP,26219,27.66611,85.46516
+"Jorpati, Bhaktapur","Jorpati, Bhaktapur",NP,26220,27.7234,85.37916
+"Gamcha, Bhaktapur","Gamcha, Bhaktapur",NP,26221,27.65671,85.39786
+"Dibyashwori, Bhaktapur","Dibyashwori, Bhaktapur",NP,26222,27.683275,85.425286
+"Thimi, Bhaktapur","Thimi, Bhaktapur",NP,26223,27.66734,85.41673
+"Nagarkot, Bhaktapur","Nagarkot, Bhaktapur",NP,26224,27.71522,85.52075
+Bhojpur,Bhojpur,NP,26225,23.249922,69.662058
+Bhojpur,Bhojpur,NP,26225,27.25,87.08333
+"Dingla, Bhojpur","Dingla, Bhojpur",NP,26227,27.33461,87.06305
+"Deurali, Bhojpur","Deurali, Bhojpur",NP,26228,27.28146,87.06224
+"Pyauli, Bhojpur","Pyauli, Bhojpur",NP,26229,29.04555,80.48357
+"Yaku, Bhojpur","Yaku, Bhojpur",NP,26230,27.19049,87.188
+"Bastim, Bhojpur","Bastim, Bhojpur",NP,26231,27.12059,87.1413
+"Timma, Bhojpur","Timma, Bhojpur",NP,26232,27.24913,86.9889
+"Dilpa Annapurna, Bhojpur","Dilpa Annapurna, Bhojpur",NP,26233,27.20262,86.98202
+"Bhulke, Bhojpur","Bhulke, Bhojpur",NP,26234,28.43447,81.92403
+"Baikunthe, Bhojpur","Baikunthe, Bhojpur",NP,26235,27.10761,87.52925
+"Ranibas, Bhojpur","Ranibas, Bhojpur",NP,26236,27.0254,87.09989
+"Walangkha, Bhojpur","Walangkha, Bhojpur",NP,26237,0.0,0.0
+"Tiwari Bhanjyang, Bhojpur","Tiwari Bhanjyang, Bhojpur",NP,26238,27.182,87.1339
+"Dobhane, Bhojpur","Dobhane, Bhojpur",NP,26239,27.42637,87.00723
+"Ratnanagar, Chitawan","Ratnanagar, Chitawan",NP,26241,27.61541,84.51206
+"Mugling, Chitawan","Mugling, Chitawan",NP,26242,27.85628,84.56437
+"Narayangadh, Chitawan","Narayangadh, Chitawan",NP,26243,27.69764,84.42525
+"Rampur, Chitawan","Rampur, Chitawan",NP,26244,28.81014,79.02699
+"Rampur, Chitawan","Rampur, Chitawan",NP,26244,31.452096,77.634888
+"Soshi Bazar, Chitawan","Soshi Bazar, Chitawan",NP,26245,43.067895,-8.729132
+"Harinagar, Chitawan","Harinagar, Chitawan",NP,26246,27.60473,84.25882
+"Madi, Chitawan","Madi, Chitawan",NP,26247,27.529221,84.400356
+"Khairahani, Chitwan","Khairahani, Chitwan",NP,26249,27.43876,84.3038
+"Jutpani, Chitwan","Jutpani, Chitwan",NP,26250,27.68582,84.5601
+"Phulbari, Chitwan","Phulbari, Chitwan",NP,26251,27.65015,84.37586
+"Meghauli, Chitwan","Meghauli, Chitwan",NP,26252,27.58029,84.2268
+"Patihani, Chitwan","Patihani, Chitwan",NP,26253,27.64489,84.5768
+"Ugratara, Dadeldhura","Ugratara, Dadeldhura",NP,26255,29.33651,80.60563
+"Dandaban, Dadeldhura","Dandaban, Dadeldhura",NP,26256,28.12387,84.52565
+"Ganeshpur, Dadeldhura","Ganeshpur, Dadeldhura",NP,26257,28.85566,80.37769
+"Gaira Ganesh, Dadeldhura","Gaira Ganesh, Dadeldhura",NP,26258,29.161101,80.598816
+"Jogbudha, Dadeldhura","Jogbudha, Dadeldhura",NP,26259,28.9121,80.06688
+"Lamikande, Dadeldhura","Lamikande, Dadeldhura",NP,26260,0.0,0.0
+"Chipur, Dadeldhura","Chipur, Dadeldhura",NP,26261,29.33814,80.49521
+"Ajayameru, Dadeldhura","Ajayameru, Dadeldhura",NP,26262,0.0,0.0
+Dailekh,Dailekh,NP,26263,28.84434,81.71011
+"Gaidabaj, Dailekh","Gaidabaj, Dailekh",NP,26264,0.0,0.0
+"Naumule, Dailekh","Naumule, Dailekh",NP,26265,28.38092,82.03874
+"Byastada, Dailekh","Byastada, Dailekh",NP,26266,28.84434,81.71011
+"Dhungeshwor, Dailekh","Dhungeshwor, Dailekh",NP,26267,0.0,0.0
+"Malika, Dailekh","Malika, Dailekh",NP,26268,29.01531,81.51871
+"Dullu, Dailekh","Dullu, Dailekh",NP,26269,28.86415,81.60619
+"Jambu Kandha, Dailekh","Jambu Kandha, Dailekh",NP,26270,31.86998,76.37394
+"Jambu Kandha, Dailekh","Jambu Kandha, Dailekh",NP,26270,32.5772,76.02441
+Dang,Dang,NP,26272,28.0,82.41667
+"Hapur, Dang","Hapur, Dang",NP,26273,28.729131,77.871094
+"Hapur, Dang","Hapur, Dang",NP,26273,28.0,82.41667
+"Bhaluwang, Dang","Bhaluwang, Dang",NP,26275,28.0,82.41667
+"Koilabas, Dang","Koilabas, Dang",NP,26276,27.69462,82.52559
+"Jangrahawa, Dang","Jangrahawa, Dang",NP,26277,27.87558,82.3605
+"Rampur, Dang","Rampur, Dang",NP,26278,31.452096,77.634888
+"Rampur, Dang","Rampur, Dang",NP,26278,28.07015,82.19103
+"Hekuli, Dang","Hekuli, Dang",NP,26280,28.09665,82.20623
+"Panchakule, Dang","Panchakule, Dang",NP,26281,28.16523,82.13977
+"Shantinagar, Dang","Shantinagar, Dang",NP,26282,28.18018,82.20006
+"Tulsipur, Dang","Tulsipur, Dang",NP,26283,28.13099,82.29726
+"Manpur, Dang","Manpur, Dang",NP,26284,27.81845,82.52118
+"Lamahi, Dang","Lamahi, Dang",NP,26285,27.87297,82.52283
+"Ghoraha, Dang","Ghoraha, Dang",NP,26286,24.75419,82.77785
+Darchula,Darchula,NP,26287,29.84121,80.52874
+"Rapla, Darchula","Rapla, Darchula",NP,26288,29.9576,80.71006
+"Duhuti, Darchula","Duhuti, Darchula",NP,26289,29.91667,80.75
+"Malikarjun, Darchula","Malikarjun, Darchula",NP,26290,29.74263,80.484
+"Joljibi, Darchula","Joljibi, Darchula",NP,26291,29.75041,80.38247
+"Dandakot, Darchula","Dandakot, Darchula",NP,26292,29.84121,80.52874
+"Ritha Chaupata, Darchula","Ritha Chaupata, Darchula",NP,26293,29.67047,80.51115
+"Gokule, Darchula","Gokule, Darchula",NP,26294,29.66569,80.54131
+"Sitola, Darchula","Sitola, Darchula",NP,26295,29.84121,80.52874
+"Marmalatinath, Darchula","Marmalatinath, Darchula",NP,26296,29.91667,80.75
+"Sipti, Darchula","Sipti, Darchula",NP,26297,29.27016,81.62843
+Dhading,Dhading,NP,26298,28.0,84.91667
+"Lapa, Dhading","Lapa, Dhading",NP,26299,28.1982,85.02261
+"Sertung, Dhading","Sertung, Dhading",NP,26300,28.1799,85.08803
+"Phulkharka, Dhading","Phulkharka, Dhading",NP,26301,28.06,84.91902
+"Tripureshwor, Dhading","Tripureshwor, Dhading",NP,26302,28.0,84.91667
+"Katunje, Dhading","Katunje, Dhading",NP,26303,27.97288,84.94097
+"Sunkhani, Dhading","Sunkhani, Dhading",NP,26304,27.94969,84.84238
+"Sunaulabazar, Dhading","Sunaulabazar, Dhading",NP,26305,27.86424,84.9283
+"Maidi, Dhading","Maidi, Dhading",NP,26306,27.911423,84.890031
+"Khanikhola, Dhading","Khanikhola, Dhading",NP,26307,28.91999,82.11476
+"Bhumisthan, Dhading","Bhumisthan, Dhading",NP,26308,27.713942,84.829592
+"Gajuri, Dhading","Gajuri, Dhading",NP,26309,27.75153,84.8991
+"Malekhu, Dhading","Malekhu, Dhading",NP,26310,27.8097,84.83452
+Dhankuta,Dhankuta,NP,26311,26.98333,87.33333
+"Mudhebash, Dhankuta","Mudhebash, Dhankuta",NP,26312,0.0,0.0
+"Rajarani, Dhankuta","Rajarani, Dhankuta",NP,26313,26.88196,87.44513
+"Dandabazar, Dhankuta","Dandabazar, Dhankuta",NP,26314,26.98333,87.33333
+"Bhedetar, Dhankuta","Bhedetar, Dhankuta",NP,26315,26.86057,87.32632
+"Ankhisalla, Dhankuta","Ankhisalla, Dhankuta",NP,26316,26.96306,87.24423
+"Hile, Dhankuta","Hile, Dhankuta",NP,26317,27.03296,87.31979
+"Muga, Dhankuta","Muga, Dhankuta",NP,26318,27.03816,87.22638
+"Teliya, Dhankuta","Teliya, Dhankuta",NP,26319,26.99692,87.41222
+"Pakhribash, Dhankuta","Pakhribash, Dhankuta",NP,26320,0.0,0.0
+"Leguwa, Dhankuta","Leguwa, Dhankuta",NP,26321,26.98333,87.33333
+"Mare Katahare, Dhankuta","Mare Katahare, Dhankuta",NP,26322,26.78984,87.79891
+"Arknaule, Dhankuta","Arknaule, Dhankuta",NP,26323,0.0,0.0
+"Chungmang, Dhankuta","Chungmang, Dhankuta",NP,26324,26.98333,87.33333
+Dhanusha,Dhanusha,NP,26325,26.729113,85.936727
+"Khajuri, Dhanusha","Khajuri, Dhanusha",NP,26326,25.560499,77.616928
+"Khajuri, Dhanusha","Khajuri, Dhanusha",NP,26326,28.8883,81.78205
+"Yadukuha, Dhanusha","Yadukuha, Dhanusha",NP,26328,26.729113,85.936727
+"Duhabi, Dhanusha","Duhabi, Dhanusha",NP,26329,26.62529,86.55137
+"Chakkar, Dhanusha","Chakkar, Dhanusha",NP,26330,32.33425,75.77214
+"Chakkar, Dhanusha","Chakkar, Dhanusha",NP,26330,26.822596,86.033351
+"Godar Chisapani, Dhanusha","Godar Chisapani, Dhanusha",NP,26332,26.811114,88.107367
+"Dhanushadham, Dhanusha","Dhanushadham, Dhanusha",NP,26333,26.842703,86.049587
+"Bagachauda, Dhanusha","Bagachauda, Dhanusha",NP,26334,26.729113,85.936727
+"Jatahi, Dhanusha","Jatahi, Dhanusha",NP,26335,26.37189,86.16837
+"Phulgama, Dhanusha","Phulgama, Dhanusha",NP,26336,26.63666,85.90834
+"Sankhuwa Mahendranagar, Dhanusha","Sankhuwa Mahendranagar, Dhanusha",NP,26337,26.92316,87.11928
+"Dhalkebar, Dhanusha","Dhalkebar, Dhanusha",NP,26338,27.23337,87.00138
+Dolakha,Dolakha,NP,26339,27.83333,86.25
+"Khahare, Dolakha","Khahare, Dolakha",NP,26340,27.62917,86.14139
+"Namdu, Dolakha","Namdu, Dolakha",NP,26341,27.62344,86.0961
+"Jiri, Dolakha","Jiri, Dolakha",NP,26342,27.63545,86.22998
+"Japhekalapani, Dolakha","Japhekalapani, Dolakha",NP,26343,27.67806,86.07793
+"Melung, Dolakha","Melung, Dolakha",NP,26344,27.51456,86.06051
+"Bhusapheda, Dolakha","Bhusapheda, Dolakha",NP,26345,27.67806,86.07793
+"Sunkhani, Dolakha","Sunkhani, Dolakha",NP,26346,27.69901,86.09705
+"Khopachangu, Dolakha","Khopachangu, Dolakha",NP,26347,27.67806,86.07793
+"Lamabagar, Dolakha","Lamabagar, Dolakha",NP,26348,27.9131,86.21104
+"Chitre, Dolakha","Chitre, Dolakha",NP,26349,27.69704,85.95503
+Dolpa,Dolpa,NP,26350,29.16667,83.08333
+"Juphal, Dolpa","Juphal, Dolpa",NP,26351,28.98506,82.82469
+"Tripurakot, Dolpa","Tripurakot, Dolpa",NP,26352,29.0275,82.7909
+"Liku, Dolpa","Liku, Dolpa",NP,26353,29.04451,82.75427
+"Sarmi, Dolpa","Sarmi, Dolpa",NP,26354,29.06604,82.47307
+"Kaigaun, Dolpa","Kaigaun, Dolpa",NP,26355,29.11123,82.59216
+"Foksundo, Dolpa","Foksundo, Dolpa",NP,26356,29.371,83.01573
+"Namdo, Dolpa","Namdo, Dolpa",NP,26357,29.16667,83.08333
+Doti,Doti,NP,26358,29.25,80.91667
+"Silgadhi, Doti","Silgadhi, Doti",NP,26359,29.25,80.91667
+"Sanagaun, Doti","Sanagaun, Doti",NP,26360,27.65158,85.3604
+"Daund, Doti","Daund, Doti",NP,26361,29.25,80.91667
+"Mauwa Nagardaha, Doti","Mauwa Nagardaha, Doti",NP,26362,29.32786,80.91134
+"Banedungrasen, Doti","Banedungrasen, Doti",NP,26363,29.25,80.91667
+"Jorayal, Doti","Jorayal, Doti",NP,26364,29.10286,80.67617
+"Gadhshera, Doti","Gadhshera, Doti",NP,26365,29.25,80.91667
+"Lanakedareswor, Doti","Lanakedareswor, Doti",NP,26366,29.25,80.91667
+"Boktan, Doti","Boktan, Doti",NP,26367,26.84655,87.12489
+"Byal, Doti","Byal, Doti",NP,26368,0.53333,12.85
+"Byal, Doti","Byal, Doti",NP,26368,29.25,80.91667
+Gorkha,Gorkha,NP,26370,28.33333,84.83333
+"Bungkot, Gorkha","Bungkot, Gorkha",NP,26371,27.971878,84.674803
+"Manakamana, Gorkha","Manakamana, Gorkha",NP,26372,27.90544,84.58028
+"Batase, Gorkha","Batase, Gorkha",NP,26373,27.03347,87.49714
+"Luintel, Gorkha","Luintel, Gorkha",NP,26374,27.638509,85.591108
+"Anapipal, Gorkha","Anapipal, Gorkha",NP,26375,28.33333,84.83333
+"Jaubari, Gorkha","Jaubari, Gorkha",NP,26376,28.14298,84.72389
+"Bhachchek, Gorkha","Bhachchek, Gorkha",NP,26377,28.15743,84.65202
+"Saurpani, Gorkha","Saurpani, Gorkha",NP,26378,28.12242,84.71981
+"Ghyampesal, Gorkha","Ghyampesal, Gorkha",NP,26379,28.04586,84.7247
+"Aarughat, Gorkha","Aarughat, Gorkha",NP,26380,28.33333,84.83333
+"Gumda, Gorkha","Gumda, Gorkha",NP,26381,28.20288,84.8303
+"Sirdibash, Gorkha","Sirdibash, Gorkha",NP,26382,28.33333,84.83333
+Gulmi,Gulmi,NP,26383,28.08333,83.33333
+"Purtighat, Gulmi","Purtighat, Gulmi",NP,26384,28.05022,83.55575
+"Bharse, Gulmi","Bharse, Gulmi",NP,26385,27.86246,83.78745
+"Chandrakot, Gulmi","Chandrakot, Gulmi",NP,26386,28.11756,83.43557
+"Majuwa, Gulmi","Majuwa, Gulmi",NP,26387,28.13808,83.45957
+"Ridi, Gulmi","Ridi, Gulmi",NP,26388,27.93695,83.43574
+"Sringa, Gulmi","Sringa, Gulmi",NP,26389,28.35123,84.896102
+"Birabas, Gulmi","Birabas, Gulmi",NP,26390,28.08333,83.33333
+"Wami, Gulmi","Wami, Gulmi",NP,26391,28.08333,83.33333
+"Ismadohali, Gulmi","Ismadohali, Gulmi",NP,26392,28.08333,83.33333
+"Dhurkot, Gulmi","Dhurkot, Gulmi",NP,26393,28.1157,83.16235
+"Purkotadha, Gulmi","Purkotadha, Gulmi",NP,26394,28.08333,83.33333
+"Arje, Gulmi","Arje, Gulmi",NP,26395,28.36868,83.50092
+"Manabhak, Gulmi","Manabhak, Gulmi",NP,26396,28.08333,83.33333
+"Pipaldanda, Gulmi","Pipaldanda, Gulmi",NP,26397,27.88195,83.56215
+Humla,Humla,NP,26398,29.91667,81.91667
+"Muchu, Humla","Muchu, Humla",NP,26399,30.07037,81.54578
+"Lali, Humla","Lali, Humla",NP,26400,29.86298,81.88546
+"Sarkegadh, Humla","Sarkegadh, Humla",NP,26401,29.91667,81.91667
+"Darma, Humla","Darma, Humla",NP,26402,29.74375,82.0621
+"Srinagar, Humla","Srinagar, Humla",NP,26403,29.91667,81.91667
+Ilam,Ilam,NP,26404,33.6374,46.4227
+Ilam,Ilam,NP,26404,26.90943,87.92824
+"Pashupatinagar, Ilam","Pashupatinagar, Ilam",NP,26406,33.6374,46.4227
+"Pashupatinagar, Ilam","Pashupatinagar, Ilam",NP,26406,26.90943,87.92824
+"Harkatebazar, Ilam","Harkatebazar, Ilam",NP,26408,0.0,0.0
+"Gajurmukhi, Ilam","Gajurmukhi, Ilam",NP,26409,26.89805,87.77181
+"Mangal Bare, Ilam","Mangal Bare, Ilam",NP,26410,5.94194,121.29917
+"Mangal Bare, Ilam","Mangal Bare, Ilam",NP,26410,27.63117,85.89413
+"Nepaltar, Ilam","Nepaltar, Ilam",NP,26411,26.90943,87.92824
+"Gitpur, Ilam","Gitpur, Ilam",NP,26413,0.0,0.0
+"Cheesa Pani Panchami, Ilam","Cheesa Pani Panchami, Ilam",NP,26414,0.0,0.0
+"Phikal, Ilam","Phikal, Ilam",NP,26415,27.05881,87.67218
+Jajarkot,Jajarkot,NP,26416,28.828207,82.142146
+"Dhime, Jajarkot","Dhime, Jajarkot",NP,26417,28.81634,82.17312
+"Dalli, Jajarkot","Dalli, Jajarkot",NP,26418,28.78199,82.31612
+"Ragda, Jajarkot","Ragda, Jajarkot",NP,26419,28.85623,82.41035
+"Rokaya gaun (Limsa), Jajarkot","Rokaya gaun (Limsa), Jajarkot",NP,26420,29.6696,81.895255
+"Dashera, Jajarkot","Dashera, Jajarkot",NP,26421,28.828207,82.142146
+"Thalaraikar, Jajarkot","Thalaraikar, Jajarkot",NP,26422,28.828207,82.142146
+"Garkhakot, Jajarkot","Garkhakot, Jajarkot",NP,26423,28.828207,82.142146
+"Karkigaun, Jajarkot","Karkigaun, Jajarkot",NP,26424,28.65125,82.13895
+Jhapa,Jhapa,NP,26425,26.58333,87.91667
+"Baniyani, Jhapa","Baniyani, Jhapa",NP,26426,26.431398,88.035959
+"Goldhap, Jhapa","Goldhap, Jhapa",NP,26427,26.67992,88.00198
+"Chandragadhi, Jhapa","Chandragadhi, Jhapa",NP,26428,26.585,88.06
+"Birtamod, Jhapa","Birtamod, Jhapa",NP,26429,26.64695,88.00135
+"Sanishchare, Jhapa","Sanishchare, Jhapa",NP,26430,26.58333,87.91667
+"Budhabare, Jhapa","Budhabare, Jhapa",NP,26431,26.7228,88.05495
+"Dhulabari, Jhapa","Dhulabari, Jhapa",NP,26432,26.67143,88.10631
+"Kankarbhitta, Jhapa","Kankarbhitta, Jhapa",NP,26433,26.648,88.16005
+"Rajgadh, Jhapa","Rajgadh, Jhapa",NP,26434,26.51121,87.94003
+"Durgapur, Jhapa","Durgapur, Jhapa",NP,26435,26.63965,87.92995
+Jhapa,Jhapa,NP,26436,26.58333,87.91667
+"Dudhe, Jhapa","Dudhe, Jhapa",NP,26437,26.6372,87.82153
+"Shivagunj, Jhapa","Shivagunj, Jhapa",NP,26438,26.58333,87.91667
+"Topagachhi, Jhapa","Topagachhi, Jhapa",NP,26439,26.58333,87.91667
+"Gaurigunj, Jhapa","Gaurigunj, Jhapa",NP,26440,26.58333,87.91667
+"Gauradaha, Jhapa","Gauradaha, Jhapa",NP,26441,26.5665,87.7244
+"Damak, Jhapa","Damak, Jhapa",NP,26442,26.66412,87.6989
+Jumla,Jumla,NP,26443,29.27472,82.18383
+"Dillichaur, Jumla","Dillichaur, Jumla",NP,26444,29.30368,82.28838
+"Tatopani, Jumla","Tatopani, Jumla",NP,26445,29.23983,82.06054
+"Malikathata, Jumla","Malikathata, Jumla",NP,26446,0.0,0.0
+"Kalikakhetu, Jumla","Kalikakhetu, Jumla",NP,26447,0.0,0.0
+"Narakot, Jumla","Narakot, Jumla",NP,26448,29.33736,81.98755
+"Hatsinja, Jumla","Hatsinja, Jumla",NP,26449,29.27472,82.18383
+"Chautha, Jumla","Chautha, Jumla",NP,26450,29.430782,82.107269
+"Munuwa, Kailal","Munuwa, Kailal",NP,26451,27.39473,78.64848
+"Munuwa, Kailal","Munuwa, Kailal",NP,26451,27.39473,78.64848
+"Dododhara, Kailali","Dododhara, Kailali",NP,26454,28.57103,80.79501
+"Lamki, Kailali","Lamki, Kailali",NP,26455,28.6231,81.15863
+"Masuriya, Kailali","Masuriya, Kailali",NP,26456,28.70853,80.83665
+"Pahalmanpur, Kailali","Pahalmanpur, Kailali",NP,26457,28.75,80.91667
+"Hasuliya, Kailali","Hasuliya, Kailali",NP,26458,28.57081,80.79791
+"Bhajani, Kailali","Bhajani, Kailali",NP,26459,28.49608,80.96593
+"Joshipur, Kailali","Joshipur, Kailali",NP,26460,28.56455,81.02073
+"Phulbari, Kailali","Phulbari, Kailali",NP,26461,28.59712,80.70933
+"Atariya, Kailali","Atariya, Kailali",NP,26462,28.75,80.91667
+"Chaumala, Kailali","Chaumala, Kailali",NP,26463,28.77332,80.73487
+"Phaltude, Kailali","Phaltude, Kailali",NP,26464,29.0473,80.60689
+Kalikot,Kalikot,NP,26465,29.25,81.83333
+"Sanniraskot, Kalikot","Sanniraskot, Kalikot",NP,26466,29.09559,81.68279
+"Mehalmudi, Kalikot","Mehalmudi, Kalikot",NP,26467,29.24856,81.6102
+"Kotbada, Kalikot","Kotbada, Kalikot",NP,26468,28.98245,81.38518
+Kalikot,Kalikot,NP,26469,29.25,81.83333
+"Padamghat, Kalikot","Padamghat, Kalikot",NP,26470,29.09921,81.76296
+"Jubitha, Kalikot","Jubitha, Kalikot",NP,26471,29.13841,81.81842
+"Thirpu, Kalikot","Thirpu, Kalikot",NP,26472,29.30351,81.7606
+Kanchanpur,Kanchanpur,NP,26473,28.83333,80.33333
+"Krishnapur, Kanchanpur","Krishnapur, Kanchanpur",NP,26474,28.83333,80.33333
+"Kalika, Kanchanpur","Kalika, Kanchanpur",NP,26475,28.83333,80.33333
+"Punarbas, Kanchanpur","Punarbas, Kanchanpur",NP,26476,26.81195,87.16581
+"Beldadi, Kanchanpur","Beldadi, Kanchanpur",NP,26477,28.78399,80.27335
+"Pipaladi, Kanchanpur","Pipaladi, Kanchanpur",NP,26478,0.0,0.0
+Kanchanpur,Kanchanpur,NP,26479,28.83333,80.33333
+"Chandani, Kanchanpur","Chandani, Kanchanpur",NP,26480,28.89236,80.08842
+"Airport, Kanchanpur","Airport, Kanchanpur",NP,26481,28.958042,80.148293
+"Suda, Kanchanpur","Suda, Kanchanpur",NP,26482,28.83333,80.33333
+"Jhalari, Kanchanpur","Jhalari, Kanchanpur",NP,26483,28.90568,80.34649
+Kapilbastu,Kapilbastu,NP,26484,27.624172,82.987652
+"Pipara, Kapilbastu","Pipara, Kapilbastu",NP,26485,26.68714,87.21125
+"Patariya, Kapilbastu","Patariya, Kapilbastu",NP,26486,27.624172,82.987652
+"Pakadi, Kapilbastu","Pakadi, Kapilbastu",NP,26487,27.57754,82.82866
+"Kopawa, Kapilbastu","Kopawa, Kapilbastu",NP,26488,27.4739,82.98474
+"Gotihawa, Kapilbastu","Gotihawa, Kapilbastu",NP,26489,27.52448,83.02139
+"Gorusinge, Kapilbastu","Gorusinge, Kapilbastu",NP,26490,27.6594,83.0426
+"Pattharkot, Kapilbastu","Pattharkot, Kapilbastu",NP,26491,27.11632,85.65877
+"Thuniya, Kapilbastu","Thuniya, Kapilbastu",NP,26492,27.61101,82.91432
+"Maharajgunj, Kapilbastu","Maharajgunj, Kapilbastu",NP,26493,27.624172,82.987652
+"Ganeshpur, Kapilbastu","Ganeshpur, Kapilbastu",NP,26494,27.56334,82.85733
+"Chanauta, Kapilbastu","Chanauta, Kapilbastu",NP,26495,31.75284,76.78612
+"Chanauta, Kapilbastu","Chanauta, Kapilbastu",NP,26495,27.624172,82.987652
+"Shiva Raj, Kapilbastu","Shiva Raj, Kapilbastu",NP,26497,48.135266,11.558358
+"Shiva Raj, Kapilbastu","Shiva Raj, Kapilbastu",NP,26497,26.532777,86.918297
+"Rupakot, Kaski","Rupakot, Kaski",NP,26499,28.15722,84.13763
+"Gagan Gaunda, Kaski","Gagan Gaunda, Kaski",NP,26500,28.208395,83.972772
+"Makaikhola, Kaski","Makaikhola, Kaski",NP,26501,28.33333,84.0
+"Majhathana, Kaski","Majhathana, Kaski",NP,26502,28.242306,84.077739
+"Sildujure, Kaski","Sildujure, Kaski",NP,26503,28.2597,84.073246
+"Nirmalpokhari, Kaski","Nirmalpokhari, Kaski",NP,26504,28.33333,84.0
+"Pardibandh, Kaski","Pardibandh, Kaski",NP,26505,21.47581,80.09453
+"Pardibandh, Kaski","Pardibandh, Kaski",NP,26505,28.33333,84.0
+"Chapakot, Kaski","Chapakot, Kaski",NP,26507,28.23071,83.89013
+"Birethanti, Kaski","Birethanti, Kaski",NP,26508,28.3141,83.77404
+"Naudanda, Kaski","Naudanda, Kaski",NP,26509,28.28589,83.86312
+"Ghachok, Kaski","Ghachok, Kaski",NP,26510,28.32584,83.9465
+"Purunchaur, Kaski","Purunchaur, Kaski",NP,26511,28.29493,83.94398
+"Sankhu, Kathmandu","Sankhu, Kathmandu",NP,26513,27.7291,85.46325
+"Chabahil, Kathmandu","Chabahil, Kathmandu",NP,26514,27.71795,85.34937
+"Sundarijal, Kathmandu","Sundarijal, Kathmandu",NP,26515,27.78744,85.43081
+"Gauchar, Kathmandu","Gauchar, Kathmandu",NP,26516,30.27763,79.17645
+"Gauchar, Kathmandu","Gauchar, Kathmandu",NP,26516,30.27763,79.17645
+"Bansbari, Kathmandu","Bansbari, Kathmandu",NP,26518,27.62427,85.28265
+"Tokha Saraswati, Kathmandu","Tokha Saraswati, Kathmandu",NP,26519,27.76218,85.32761
+"Sachibalaya, Kathmandu","Sachibalaya, Kathmandu",NP,26520,0.0,0.0
+"Manmaiju, Kathmandu","Manmaiju, Kathmandu",NP,26521,27.751292,85.31176
+"Balaju, Kathmandu","Balaju, Kathmandu",NP,26522,27.73333,85.3
+"Tribhuvan University, Kathmandu","Tribhuvan University, Kathmandu",NP,26523,27.68184,85.28646
+"Kalimati, Kathmandu","Kalimati, Kathmandu",NP,26524,27.701,85.289
+"Pharping, Kathmandu","Pharping, Kathmandu",NP,26525,27.70169,85.3206
+"Baluwatar, Kathmandu","Baluwatar, Kathmandu",NP,26526,27.72835,85.33037
+"Sarbochcha Adalat, Kathmandu","Sarbochcha Adalat, Kathmandu",NP,26527,52.476183,13.439607
+"Sarbochcha Adalat, Kathmandu","Sarbochcha Adalat, Kathmandu",NP,26527,27.911131,84.897089
+"Swayambhu, Kathmandu","Swayambhu, Kathmandu",NP,26530,27.71983,85.29553
+"Pashupati, Kathmandu","Pashupati, Kathmandu",NP,26531,27.702314,85.342042
+"Budhanilkantha, Kathmandu","Budhanilkantha, Kathmandu",NP,26532,27.778087,85.362324
+"Pokharinarayanshthan, Kaverpalanchok","Pokharinarayanshthan, Kaverpalanchok",NP,26533,0.0,0.0
+"Gumati Bhanjyang, Kaverpalanchok","Gumati Bhanjyang, Kaverpalanchok",NP,26534,-6.601394,106.792658
+"Gumati Bhanjyang, Kaverpalanchok","Gumati Bhanjyang, Kaverpalanchok",NP,26534,0.0,0.0
+"Khopasi, Kaverpalanchok","Khopasi, Kaverpalanchok",NP,26536,27.56737,85.5391
+Kavrepalanchok,Kavrepalanchok,NP,26537,27.58333,85.66667
+"Ghartichhap, Kavrepalanchok","Ghartichhap, Kavrepalanchok",NP,26538,27.36592,85.59768
+"Mangaltar, Kavrepalanchok","Mangaltar, Kavrepalanchok",NP,26539,27.46457,85.72154
+"Dapcha, Kavrepalanchok","Dapcha, Kavrepalanchok",NP,26540,27.55282,85.61242
+"Panauti, Kavrepalanchok","Panauti, Kavrepalanchok",NP,26541,27.58466,85.52122
+"Banepa, Kavrepalanchok","Banepa, Kavrepalanchok",NP,26542,27.62979,85.52138
+"Panchkhal, Kavrepalanchok","Panchkhal, Kavrepalanchok",NP,26543,27.6566,85.62745
+"Phalante, Kavrepalanchok","Phalante, Kavrepalanchok",NP,26544,0.0,0.0
+"Dolal Ghat, Kavrepalanchok","Dolal Ghat, Kavrepalanchok",NP,26545,27.24675,85.77578
+Khotang,Khotang,NP,26546,27.25,86.83333
+"Wakshila, Khotang","Wakshila, Khotang",NP,26547,27.25,86.83333
+"Aiselukharka, Khotang","Aiselukharka, Khotang",NP,26548,27.25,86.83333
+"Jalpa, Khotang","Jalpa, Khotang",NP,26549,27.25,86.83333
+"Lamidanda, Khotang","Lamidanda, Khotang",NP,26550,27.28716,86.93799
+"Halesi mahadevasthan, Khotang","Halesi mahadevasthan, Khotang",NP,26551,27.25,86.83333
+"Buipa, Khotang","Buipa, Khotang",NP,26552,27.21537,86.72529
+"Manebhanjyang, Khotang","Manebhanjyang, Khotang",NP,26553,27.21502,86.44503
+"Sapteshworichhitapokhari, Khotang","Sapteshworichhitapokhari, Khotang",NP,26554,27.25,86.83333
+Khotang,Khotang,NP,26555,27.25,86.83333
+"Chisapani, Khotang","Chisapani, Khotang",NP,26556,27.33817,86.62413
+"Simpani, Khotang","Simpani, Khotang",NP,26557,27.04497,86.80019
+Lalitpur,Lalitpur,NP,26558,27.67658,85.31417
+"Dhapakhel, Lalitpur","Dhapakhel, Lalitpur",NP,26559,27.64035,85.33385
+"Imadol, Lalitpur","Imadol, Lalitpur",NP,26560,27.66817,85.34436
+"Darabartole, Lalitpur","Darabartole, Lalitpur",NP,26561,0.0,0.0
+"Lubhu, Lalitpur","Lubhu, Lalitpur",NP,26562,27.64469,85.37413
+"Godawari, Lalitpur","Godawari, Lalitpur",NP,26563,27.59401,85.38083
+"Chapagaun, Lalitpur","Chapagaun, Lalitpur",NP,26564,27.593,85.326
+"Gotikhel, Lalitpur","Gotikhel, Lalitpur",NP,26565,27.49301,85.40112
+"Bhattedanda, Lalitpur","Bhattedanda, Lalitpur",NP,26566,27.67658,85.31417
+"Pyutar, Lalitpur","Pyutar, Lalitpur",NP,26567,27.46881,85.27736
+Lamjung,Lamjung,NP,26568,28.25,84.41667
+"Maling, Lamjung","Maling, Lamjung",NP,26569,28.25,84.41667
+"Sundar Bazar, Lamjung","Sundar Bazar, Lamjung",NP,26570,28.4298,84.32824
+"Sotipasal, Lamjung","Sotipasal, Lamjung",NP,26571,28.20992,84.3638
+"Kunchha, Lamjung","Kunchha, Lamjung",NP,26572,28.12995,84.34285
+"Gilung, Lamjung","Gilung, Lamjung",NP,26573,28.21927,84.23702
+"Khudi, Lamjung","Khudi, Lamjung",NP,26574,28.28216,84.35912
+"Phaliyasanghu, Lamjung","Phaliyasanghu, Lamjung",NP,26575,28.20992,84.3638
+"Bharate, Lamjung","Bharate, Lamjung",NP,26576,28.90814,81.92731
+"Gaunda, Lamjung","Gaunda, Lamjung",NP,26577,28.73873,81.17268
+"Tarkughat, Lamjung","Tarkughat, Lamjung",NP,26578,28.1026,84.44606
+Mahottari,Mahottari,NP,26579,26.91667,85.83333
+"Bardibash, Mahottari","Bardibash, Mahottari",NP,26580,26.91667,85.83333
+"Bhangaha, Mahottari","Bhangaha, Mahottari",NP,26581,26.8599,85.89187
+"Loharpatti, Mahottari","Loharpatti, Mahottari",NP,26582,26.79814,84.55145
+"Pipara, Mahottari","Pipara, Mahottari",NP,26583,26.84354,85.89508
+"Matihani, Mahottari","Matihani, Mahottari",NP,26584,26.61402,85.84942
+"Ramgopalpur, Mahottari","Ramgopalpur, Mahottari",NP,26585,26.81453,85.79901
+"Balawa, Mahottari","Balawa, Mahottari",NP,26586,26.74786,85.78779
+"Laxminiya, Mahottari","Laxminiya, Mahottari",NP,26587,26.91667,85.83333
+"Gaushala, Mahottari","Gaushala, Mahottari",NP,26588,26.94057,85.78002
+"Shreepur, Mahottari","Shreepur, Mahottari",NP,26589,26.91667,85.83333
+"Samsi, Mahottari","Samsi, Mahottari",NP,26590,26.81052,85.73442
+"Manara, Mahottari","Manara, Mahottari",NP,26591,26.72962,85.75414
+"Hatiya, Makabanpur","Hatiya, Makabanpur",NP,26592,27.92547,84.6631
+"Aambhanjyang, Makabanpur","Aambhanjyang, Makabanpur",NP,26593,27.15,85.9
+"Manahari, Makabanpur","Manahari, Makabanpur",NP,26594,27.54241,84.80919
+"Basamadi, Makabanpur","Basamadi, Makabanpur",NP,26595,27.45076,84.98335
+"Markhu, Makabanpur","Markhu, Makabanpur",NP,26596,35.48346,35.93104
+"Markhu, Makabanpur","Markhu, Makabanpur",NP,26596,27.61923,85.15079
+"Ritha Chhatibwn, Makawanpur","Ritha Chhatibwn, Makawanpur",NP,26599,29.67895,80.47581
+"Hetauda I.A., Makawanpur","Hetauda I.A., Makawanpur",NP,26600,27.42839,85.03219
+"Palung, Makawanpur","Palung, Makawanpur",NP,26601,27.84274,83.41169
+"Bhainse, Makawanpur","Bhainse, Makawanpur",NP,26602,27.34645,85.73367
+"Bhimphedi, Makawanpur","Bhimphedi, Makawanpur",NP,26603,27.5405,85.13546
+Manang,Manang,NP,26604,28.66667,84.25
+"Pisang, Manang","Pisang, Manang",NP,26605,28.61465,84.14721
+"Bhakra, Manang","Bhakra, Manang",NP,26606,28.65696,84.04508
+"Mathillo Manang, Manang","Mathillo Manang, Manang",NP,26607,28.66667,84.25
+"Nar, Manang","Nar, Manang",NP,26608,28.68219,84.20231
+"Dharapani, Manang","Dharapani, Manang",NP,26609,28.467983,84.372869
+Morang,Morang,NP,26610,26.66667,87.5
+"Chunimari, Morang","Chunimari, Morang",NP,26611,26.26914,87.91301
+"Rangeli, Morang","Rangeli, Morang",NP,26612,26.46262,87.48908
+"Sanischare, Morang","Sanischare, Morang",NP,26613,26.656357,87.5508
+"Urlabari, Morang","Urlabari, Morang",NP,26614,26.66996,87.63486
+"Madhumalla, Morang","Madhumalla, Morang",NP,26615,26.66667,87.5
+"Bayarban, Morang","Bayarban, Morang",NP,26616,26.59414,87.51083
+"Sorabhag, Morang","Sorabhag, Morang",NP,26617,26.44532,87.42639
+"Dadarberiya, Morang","Dadarberiya, Morang",NP,26618,26.66667,87.5
+"Letang, Morang","Letang, Morang",NP,26619,26.66667,87.5
+"Kerabari, Morang","Kerabari, Morang",NP,26620,28.70848,81.65068
+"Haraincha, Morang","Haraincha, Morang",NP,26621,26.61068,87.37237
+"Bhaudaha, Morang","Bhaudaha, Morang",NP,26622,26.49748,87.34778
+"Rani Sikiyahi, Morang","Rani Sikiyahi, Morang",NP,26624,26.40951,87.27025
+"Jhorahat, Morang","Jhorahat, Morang",NP,26625,26.52461,87.33715
+"Banigama, Morang","Banigama, Morang",NP,26626,26.6936,86.54047
+"Bansbari, Morang","Bansbari, Morang",NP,26627,26.53088,87.28596
+Mugu,Mugu,NP,26628,29.58333,82.41667
+"Rowa, Mugu","Rowa, Mugu",NP,26629,29.526546,82.191978
+"Pulu, Mugu","Pulu, Mugu",NP,26630,29.58027,82.4014
+"Sorubarma, Mugu","Sorubarma, Mugu",NP,26631,29.73015,82.51536
+"Rara, Mugu","Rara, Mugu",NP,26632,29.54909,82.0732
+"Sukhadhik, Mugu","Sukhadhik, Mugu",NP,26633,29.73015,82.51536
+"Gumtha, Mugu","Gumtha, Mugu",NP,26634,29.504038,81.891442
+"Dhainkot, Mugu","Dhainkot, Mugu",NP,26635,29.58333,82.41667
+Mustang,Mustang,NP,26636,35.391693,-97.72459
+Mustang,Mustang,NP,26636,28.91667,83.91667
+"Kagbeni, Mustang","Kagbeni, Mustang",NP,26638,28.84485,83.79809
+"Charang, Mustang","Charang, Mustang",NP,26639,29.08188,83.93699
+Mustang,Mustang,NP,26640,35.391693,-97.72459
+Mustang,Mustang,NP,26640,28.91667,83.91667
+"Muktinath, Mustang","Muktinath, Mustang",NP,26642,28.81499,83.87538
+"Lete, Mustang","Lete, Mustang",NP,26643,28.63111,83.6082
+"Thak Tukuche, Mustang","Thak Tukuche, Mustang",NP,26644,28.744953,83.557406
+Myagdi,Myagdi,NP,26645,28.58333,83.33333
+"Xyamarukot, Myagdi","Xyamarukot, Myagdi",NP,26646,28.58333,83.33333
+"Galeswor, Myagdi","Galeswor, Myagdi",NP,26647,28.182411,84.004442
+"Rakhu Bhagawati, Myagdi","Rakhu Bhagawati, Myagdi",NP,26648,28.39844,83.58097
+"Sikha, Myagdi","Sikha, Myagdi",NP,26649,28.4466,83.67179
+"Dana, Myagdi","Dana, Myagdi",NP,26650,28.53233,83.64181
+"Babiyachaur, Myagdi","Babiyachaur, Myagdi",NP,26651,28.39074,83.4534
+"Darbang, Myagdi","Darbang, Myagdi",NP,26652,28.41409,83.38763
+"Pakhapani, Myagdi","Pakhapani, Myagdi",NP,26653,28.44082,83.51087
+"Takam, Myagdi","Takam, Myagdi",NP,26654,28.47321,83.35934
+"Lulang, Myagdi","Lulang, Myagdi",NP,26655,28.52478,83.27708
+Nawalparasi,Nawalparasi,NP,26656,27.66667,83.91667
+"Rakuwa, Nawalparasi","Rakuwa, Nawalparasi",NP,26657,27.66667,83.91667
+"Bulingtar, Nawalparasi","Bulingtar, Nawalparasi",NP,26658,27.83595,84.18303
+"Gaindakot, Nawalparasi","Gaindakot, Nawalparasi",NP,26659,27.70817,84.4128
+"Dumkauli, Nawalparasi","Dumkauli, Nawalparasi",NP,26660,27.682,84.22168
+"Shergunj, Nawalparasi","Shergunj, Nawalparasi",NP,26661,27.66667,83.91667
+"Naya Belhani, Nawalparasi","Naya Belhani, Nawalparasi",NP,26662,27.59975,83.95247
+"Tribeni, Nawalparasi","Tribeni, Nawalparasi",NP,26663,27.470805,83.942282
+"Semari, Nawalparasi","Semari, Nawalparasi",NP,26664,27.50784,83.35342
+"Guthi persauni, Nawalparasi","Guthi persauni, Nawalparasi",NP,26665,27.609268,85.373815
+"Bhujahawa, Nawalparasi","Bhujahawa, Nawalparasi",NP,26666,27.41936,83.73325
+"Makar, Nawalparasi","Makar, Nawalparasi",NP,26667,27.52046,83.78335
+"Tilakpur, Nawalparasi","Tilakpur, Nawalparasi",NP,26668,27.55381,83.73506
+"Maheshpur, Nawalparasi","Maheshpur, Nawalparasi",NP,26669,27.43878,83.70326
+"Sunawal, Nawalparasi","Sunawal, Nawalparasi",NP,26670,27.60943,83.652703
+"Pithauli, Nawalparasi","Pithauli, Nawalparasi",NP,26671,27.64201,84.15286
+"Thansingh, Nuwakot","Thansingh, Nuwakot",NP,26673,27.91447,85.16478
+"Ranipauwa, Nuwakot","Ranipauwa, Nuwakot",NP,26674,27.91447,85.16478
+"Taruka, Nuwakot","Taruka, Nuwakot",NP,26675,27.91447,85.16478
+"Deurali, Nuwakot","Deurali, Nuwakot",NP,26676,27.86244,85.18414
+"Kahule, Nuwakot","Kahule, Nuwakot",NP,26677,27.91447,85.16478
+Nuwakot,Nuwakot,NP,26678,27.91447,85.16478
+"Chokade, Nuwakot","Chokade, Nuwakot",NP,26679,27.91447,85.16478
+"Kharanitar, Nuwakot","Kharanitar, Nuwakot",NP,26680,27.91447,85.16478
+"Bhadratar, Nuwakot","Bhadratar, Nuwakot",NP,26681,27.91447,85.16478
+"Ramabati, Nuwakot","Ramabati, Nuwakot",NP,26682,27.91447,85.16478
+"Rautbesi, Nuwakot","Rautbesi, Nuwakot",NP,26683,27.91999,85.42345
+"Pokharichapadanda, Nuwakot","Pokharichapadanda, Nuwakot",NP,26684,27.91447,85.16478
+"Devighat, Nuwakot","Devighat, Nuwakot",NP,26685,27.91447,85.16478
+Okhaldhunga,Okhaldhunga,NP,26686,27.33333,86.41667
+"Khani Bhanjyang, Okhaldhunga","Khani Bhanjyang, Okhaldhunga",NP,26687,27.32834,86.21973
+"Rumjatar, Okhaldhunga","Rumjatar, Okhaldhunga",NP,26688,27.3028,86.54669
+"Rampur, Okhaldhunga","Rampur, Okhaldhunga",NP,26689,27.24969,86.54467
+"Bigutar, Okhaldhunga","Bigutar, Okhaldhunga",NP,26690,27.36025,86.49595
+"Khiji Phalate, Okhaldhunga","Khiji Phalate, Okhaldhunga",NP,26691,27.12447,86.82985
+"Gamanangtar, Okhaldhunga","Gamanangtar, Okhaldhunga",NP,26692,27.31031,86.50502
+"Ghorakhori, Okhaldhunga","Ghorakhori, Okhaldhunga",NP,26693,27.33333,86.41667
+"Chyanam, Okhaldhunga","Chyanam, Okhaldhunga",NP,26694,27.29116,86.42086
+"Mane Bhanjyang, Okhaldhunga","Mane Bhanjyang, Okhaldhunga",NP,26695,27.20743,86.45869
+"Moli, Okhaldhunga","Moli, Okhaldhunga",NP,26696,27.23727,86.5569
+"Ragani, Okhaldhunga","Ragani, Okhaldhunga",NP,26697,27.45721,86.28469
+Palpa,Palpa,NP,26698,27.88924,83.4643
+"Sahalkot, Palpa","Sahalkot, Palpa",NP,26699,27.804,83.96177
+"Rampur, Palpa","Rampur, Palpa",NP,26700,28.08497,83.34606
+"Hungi, Palpa","Hungi, Palpa",NP,26701,27.88924,83.4643
+"Jalpa, Palpa","Jalpa, Palpa",NP,26702,27.88924,83.4643
+"Tahu, Palpa","Tahu, Palpa",NP,26703,27.88924,83.4643
+"Jhadewa, Palpa","Jhadewa, Palpa",NP,26704,27.78162,83.68068
+"Aryabhanjyang, Palpa","Aryabhanjyang, Palpa",NP,26705,27.88924,83.4643
+"Madanpokhara, Palpa","Madanpokhara, Palpa",NP,26706,27.82545,83.55452
+"Khasyauli, Palpa","Khasyauli, Palpa",NP,26707,27.70623,83.46523
+"Argali, Palpa","Argali, Palpa",NP,26708,27.88924,83.4643
+"Chhahara, Palpa","Chhahara, Palpa",NP,26709,27.87719,83.35929
+"Palungmainadi, Palpa","Palungmainadi, Palpa",NP,26710,27.88924,83.4643
+"Baldengadi, Palpa","Baldengadi, Palpa",NP,26711,27.88924,83.4643
+Panchthar,Panchthar,NP,26712,27.16667,87.83333
+"Chyangthapu, Panchthar","Chyangthapu, Panchthar",NP,26713,27.26202,87.94853
+"Ambarpur, Panchthar","Ambarpur, Panchthar",NP,26714,27.55479,81.01197
+"Namluwa, Panchthar","Namluwa, Panchthar",NP,26715,27.19318,87.91525
+"Yangnam, Panchthar","Yangnam, Panchthar",NP,26716,35.67769,129.46186
+"Yangnam, Panchthar","Yangnam, Panchthar",NP,26716,27.16667,87.83333
+"Mehelbote, Panchthar","Mehelbote, Panchthar",NP,26718,27.23145,87.61759
+"Yasok, Panchthar","Yasok, Panchthar",NP,26719,27.16667,87.83333
+"Mauwa, Panchthar","Mauwa, Panchthar",NP,26720,26.99344,87.58452
+"Rabi, Panchthar","Rabi, Panchthar",NP,26721,27.30373,87.99601
+"Limba, Panchthar","Limba, Panchthar",NP,26722,26.89934,87.595
+"Medibung, Panchthar","Medibung, Panchthar",NP,26723,27.29751,87.85087
+Parbat,Parbat,NP,26724,28.41667,83.66667
+"Salija, Parbat","Salija, Parbat",NP,26725,28.33935,83.6219
+"Khurkot, Parbat","Khurkot, Parbat",NP,26726,28.26107,83.66959
+"Deurali, Parbat","Deurali, Parbat",NP,26727,28.3453,83.61542
+"Thulipokhari, Parbat","Thulipokhari, Parbat",NP,26728,28.41667,83.66667
+"Karkineta, Parbat","Karkineta, Parbat",NP,26729,28.17734,83.74568
+"Devisthan, Parbat","Devisthan, Parbat",NP,26730,28.35336,83.58994
+"Bachchha, Parbat","Bachchha, Parbat",NP,26731,28.41667,83.66667
+"Lankhudeurali, Parbat","Lankhudeurali, Parbat",NP,26732,28.41667,83.66667
+"Hubas, Parbat","Hubas, Parbat",NP,26733,28.41667,83.66667
+"Khor Pokhara, Parbat","Khor Pokhara, Parbat",NP,26734,28.03739,83.62964
+"Setibeni, Parbat","Setibeni, Parbat",NP,26735,28.0,83.61667
+"Aadarshanagar, Parsa","Aadarshanagar, Parsa",NP,26737,27.33333,84.83333
+"Parbanipur, Parsa","Parbanipur, Parsa",NP,26738,0.0,0.0
+"Bindabasini, Parsa","Bindabasini, Parsa",NP,26739,27.04381,84.81758
+"Bahuari Pidari, Parsa","Bahuari Pidari, Parsa",NP,26740,27.10978,84.84291
+"Shirsiya Khalwatola, Parsa","Shirsiya Khalwatola, Parsa",NP,26741,0.0,0.0
+"Biruwaguthi, Parsa","Biruwaguthi, Parsa",NP,26742,0.0,0.0
+"Pakahamainpur, Parsa","Pakahamainpur, Parsa",NP,26743,27.02523,84.73609
+"Phokhariya, Parsa","Phokhariya, Parsa",NP,26744,27.33333,84.83333
+"Ranigunj, Parsa","Ranigunj, Parsa",NP,26745,27.05572,84.77186
+"Paterwa Sugauli, Parsa","Paterwa Sugauli, Parsa",NP,26746,27.17577,84.77206
+"Viswa, Parsa","Viswa, Parsa",NP,26747,12.137283,78.387396
+"Viswa, Parsa","Viswa, Parsa",NP,26747,12.137283,78.387396
+"Jeetpur, Parsa","Jeetpur, Parsa",NP,26749,27.33333,84.83333
+"Thori, Parsa","Thori, Parsa",NP,26750,27.34221,84.61261
+Pyuthan,Pyuthan,NP,26751,28.08333,82.83333
+"Dakhaquadi, Pyuthan","Dakhaquadi, Pyuthan",NP,26752,28.08333,82.83333
+"Bhingri, Pyuthan","Bhingri, Pyuthan",NP,26753,28.08333,82.83333
+"Wangesal, Pyuthan","Wangesal, Pyuthan",NP,26754,28.08333,82.83333
+"Baraula, Pyuthan","Baraula, Pyuthan",NP,26755,25.51631,81.26232
+"Majuwa, Pyuthan","Majuwa, Pyuthan",NP,26756,28.27827,83.05152
+"Machchhi, Pyuthan","Machchhi, Pyuthan",NP,26757,28.14139,82.96695
+"Thulabesi, Pyuthan","Thulabesi, Pyuthan",NP,26758,28.08333,82.83333
+"Lungbahane, Pyuthan","Lungbahane, Pyuthan",NP,26759,28.08333,82.83333
+"Bijuwar, Pyuthan","Bijuwar, Pyuthan",NP,26760,28.10681,82.85385
+"Naya Gaun, Pyuthan","Naya Gaun, Pyuthan",NP,26761,28.08333,82.83333
+Ramechhap,Ramechhap,NP,26762,27.41667,86.08333
+"Those, Ramechhap","Those, Ramechhap",NP,26763,27.56864,86.2679
+"Duragaun, Ramechhap","Duragaun, Ramechhap",NP,26764,27.35843,86.25515
+"Betali, Ramechhap","Betali, Ramechhap",NP,26765,27.53438,86.17017
+"Khimti, Ramechhap","Khimti, Ramechhap",NP,26766,27.53009,85.85043
+"Saghutar, Ramechhap","Saghutar, Ramechhap",NP,26767,27.35089,86.21645
+"Kathjor, Ramechhap","Kathjor, Ramechhap",NP,26768,27.4024,86.10545
+"Puranagaun, Ramechhap","Puranagaun, Ramechhap",NP,26769,27.44853,85.76648
+"Doramba, Ramechhap","Doramba, Ramechhap",NP,26770,27.51176,85.93942
+"Hiledevi, Ramechhap","Hiledevi, Ramechhap",NP,26771,27.49016,85.87668
+"Bhirpani, Ramechhap","Bhirpani, Ramechhap",NP,26772,27.75783,85.20937
+Rasuwa,Rasuwa,NP,26773,28.16667,85.33333
+"Dhaibung, Rasuwa","Dhaibung, Rasuwa",NP,26774,28.00222,85.2144
+"Ramkali, Rasuwa","Ramkali, Rasuwa",NP,26775,32.832827,77.158687
+"Ramkali, Rasuwa","Ramkali, Rasuwa",NP,26775,28.16667,85.33333
+"Syaphru Besi, Rasuwa","Syaphru Besi, Rasuwa",NP,26777,27.96308,85.09661
+Rautahat,Rautahat,NP,26778,27.0,85.33333
+"Saruatha, Rautahat","Saruatha, Rautahat",NP,26779,26.83126,85.29517
+"Pipra bazar, Rautahat","Pipra bazar, Rautahat",NP,26780,23.876867,78.543561
+"Pipra bazar, Rautahat","Pipra bazar, Rautahat",NP,26780,27.0,85.33333
+"Rajpurpharahadawa, Rautahat","Rajpurpharahadawa, Rautahat",NP,26782,27.0,85.33333
+"Patharabudhram, Rautahat","Patharabudhram, Rautahat",NP,26783,27.0,85.33333
+"Sitalpur, Rautahat","Sitalpur, Rautahat",NP,26784,26.95905,85.19541
+"Shivanagar, Rautahat","Shivanagar, Rautahat",NP,26785,26.93382,85.30675
+"Laxminiya, Rautahat","Laxminiya, Rautahat",NP,26786,27.0,85.33333
+"Katahariya, Rautahat","Katahariya, Rautahat",NP,26787,26.98056,85.24351
+"Samanpur, Rautahat","Samanpur, Rautahat",NP,26788,26.97067,85.38827
+"Chandra Nigahapur, Rautahat","Chandra Nigahapur, Rautahat",NP,26789,-12.195,44.46472
+"Chandra Nigahapur, Rautahat","Chandra Nigahapur, Rautahat",NP,26789,27.647369,85.628603
+"Khungri, Rolpa","Khungri, Rolpa",NP,26791,28.41667,82.75
+"Sirpa, Rolpa","Sirpa, Rolpa",NP,26792,28.24432,82.82839
+"Thawang, Rolpa","Thawang, Rolpa",NP,26793,28.41667,82.75
+"Himtakura, Rolpa","Himtakura, Rolpa",NP,26794,28.41667,82.75
+"Ghartigaun, Rolpa","Ghartigaun, Rolpa",NP,26795,28.39086,82.51054
+"Nerpa, Rolpa","Nerpa, Rolpa",NP,26796,28.31342,82.4333
+"Dahaban, Rolpa","Dahaban, Rolpa",NP,26797,29.14525,81.6336
+"Shulichaur, Rolpa","Shulichaur, Rolpa",NP,26798,28.41667,82.75
+"Jhenam (Holeri), Rolpa","Jhenam (Holeri), Rolpa",NP,26799,28.18796,82.508
+Rukum,Rukum,NP,26800,28.75,82.58333
+"Rukumkot, Rukum","Rukumkot, Rukum",NP,26801,28.62013,82.61745
+"Riwangchaur, Rukum","Riwangchaur, Rukum",NP,26802,28.75,82.58333
+"Kol, Rukum","Kol, Rukum",NP,26803,28.62598,82.45394
+"Peugha, Rukum","Peugha, Rukum",NP,26804,28.58267,82.3829
+"Chaurjahari, Rukum","Chaurjahari, Rukum",NP,26805,28.64094,82.20096
+"Simli, Rukum","Simli, Rukum",NP,26806,28.65649,82.35519
+"Radijyula, Rukum","Radijyula, Rukum",NP,26807,28.75,82.58333
+"Baphikot, Rukum","Baphikot, Rukum",NP,26808,28.68584,82.46764
+"Siktahan, Rupandehi","Siktahan, Rupandehi",NP,26810,27.5553,83.54769
+"Dhakadhai, Rupandehi","Dhakadhai, Rupandehi",NP,26811,27.51004,83.53863
+"Manigram, Rupandehi","Manigram, Rupandehi",NP,26812,27.63128,83.46143
+"Kotihawa, Rupandehi","Kotihawa, Rupandehi",NP,26813,27.57078,83.47076
+"Thutipipal, Rupandehi","Thutipipal, Rupandehi",NP,26814,27.54077,83.46321
+"Butwal, Rupandehi","Butwal, Rupandehi",NP,26815,27.70055,83.44836
+"Parroha, Rupandehi","Parroha, Rupandehi",NP,26816,27.66616,83.35693
+"Sauraha Pharsa, Rupandehi","Sauraha Pharsa, Rupandehi",NP,26817,27.63023,83.43048
+"Amuwa, Rupandehi","Amuwa, Rupandehi",NP,26818,25.25544,84.16168
+"Saljhandi, Rupandehi","Saljhandi, Rupandehi",NP,26819,27.7035,83.26391
+"Suryapura, Rupandehi","Suryapura, Rupandehi",NP,26820,27.62292,83.49535
+"Tenuhawa, Rupandehi","Tenuhawa, Rupandehi",NP,26821,27.48958,83.26315
+"Lumbini, Rupandehi","Lumbini, Rupandehi",NP,26822,27.48619,83.27714
+"Betkuiya, Rupandehi","Betkuiya, Rupandehi",NP,26823,27.42149,83.31121
+"Mahadehiya, Rupandehi","Mahadehiya, Rupandehi",NP,26824,27.66667,83.41667
+Salyan,Salyan,NP,26825,39.59362,48.98055
+Salyan,Salyan,NP,26825,28.37858,82.1703
+"Luham, Salyan","Luham, Salyan",NP,26827,28.29752,82.25991
+"Dhanbang, Salyan","Dhanbang, Salyan",NP,26828,28.14386,82.66236
+"Mahaneta, Salyan","Mahaneta, Salyan",NP,26829,28.44972,82.37898
+"Malneta, Salyan","Malneta, Salyan",NP,26830,0.0,0.0
+"Maidu, Salyan","Maidu, Salyan",NP,26831,28.48194,82.06393
+"Ragechour, Salyan","Ragechour, Salyan",NP,26832,39.59362,48.98055
+"Ragechour, Salyan","Ragechour, Salyan",NP,26832,28.37858,82.1703
+"Tharmare, Salyan","Tharmare, Salyan",NP,26834,28.45608,82.27961
+Sankhuwasabha,Sankhuwasabha,NP,26835,27.58333,87.33333
+"Hatiya, Sankhuwasabha","Hatiya, Sankhuwasabha",NP,26836,27.73866,87.34068
+"Hedangana, Sankhuwasabha","Hedangana, Sankhuwasabha",NP,26837,27.58333,87.33333
+"Tamku, Sankhuwasabha","Tamku, Sankhuwasabha",NP,26838,27.48842,87.10707
+"Chandanpur, Sankhuwasabha","Chandanpur, Sankhuwasabha",NP,26839,27.40849,87.15365
+"Bahrabishe, Sankhuwasabha","Bahrabishe, Sankhuwasabha",NP,26840,27.58333,87.33333
+"Tumlingtar, Sankhuwasabha","Tumlingtar, Sankhuwasabha",NP,26841,27.31833,87.19797
+"Wana, Sankhuwasabha","Wana, Sankhuwasabha",NP,26842,27.34344,87.31617
+"Shidhakali, Sankhuwasabha","Shidhakali, Sankhuwasabha",NP,26843,27.58333,87.33333
+"Madi, Sankhuwasabha","Madi, Sankhuwasabha",NP,26844,27.58333,87.33333
+"Ankhibhui, Sankhuwasabha","Ankhibhui, Sankhuwasabha",NP,26845,27.58333,87.33333
+"Mamling, Sankhuwasabha","Mamling, Sankhuwasabha",NP,26846,27.23397,87.33694
+"Manebhanjyang, Sankhuwasabha","Manebhanjyang, Sankhuwasabha",NP,26847,27.58333,87.33333
+"Chainpur, Sankhuwasabha","Chainpur, Sankhuwasabha",NP,26848,27.29104,87.31589
+Saptari,Saptari,NP,26849,26.58333,86.75
+"Hanuman Nagar, Saptari","Hanuman Nagar, Saptari",NP,26850,17.628784,78.085366
+"Hanuman Nagar, Saptari","Hanuman Nagar, Saptari",NP,26850,26.58333,86.75
+"Phattepur, Saptari","Phattepur, Saptari",NP,26852,26.73576,86.93231
+"Kanchanpur, Saptari","Kanchanpur, Saptari",NP,26853,26.64192,86.91261
+"Praswani, Saptari","Praswani, Saptari",NP,26854,26.58333,86.75
+"Bhagawatpur, Saptari","Bhagawatpur, Saptari",NP,26855,26.54018,86.8222
+"Koiladi, Saptari","Koiladi, Saptari",NP,26856,26.48618,86.81512
+"Chhinnamasta, Saptari","Chhinnamasta, Saptari",NP,26857,26.58333,86.75
+"Bishnupur, Saptari","Bishnupur, Saptari",NP,26858,26.52094,86.72169
+"Rupani, Saptari","Rupani, Saptari",NP,26859,26.628852,86.713342
+"Pato, Saptari","Pato, Saptari",NP,26860,26.51857,86.61166
+"Arnaha, Saptari","Arnaha, Saptari",NP,26861,26.57479,86.64132
+"Kalyanpur, Saptari","Kalyanpur, Saptari",NP,26862,26.64253,86.62648
+"Bodebarsain, Saptari","Bodebarsain, Saptari",NP,26863,26.58333,86.75
+"Sisawa, Saptari","Sisawa, Saptari",NP,26864,26.72458,86.3498
+"Kadarwona, Saptari","Kadarwona, Saptari",NP,26865,26.58333,86.75
+"Bhardaha, Saptari","Bhardaha, Saptari",NP,26866,26.54737,86.89227
+Sarlahi,Sarlahi,NP,26867,27.0,85.58333
+"Lalbandi, Sarlahi","Lalbandi, Sarlahi",NP,26868,27.05541,85.63913
+"Bayalbas, Sarlahi","Bayalbas, Sarlahi",NP,26869,27.47149,85.04739
+"Haripurwa, Sarlahi","Haripurwa, Sarlahi",NP,26870,26.90136,85.68448
+"Hariaun, Sarlahi","Hariaun, Sarlahi",NP,26871,27.09236,85.55792
+"Haripur, Sarlahi","Haripur, Sarlahi",NP,26872,27.02423,85.57739
+"Brahmapuri, Sarlahi","Brahmapuri, Sarlahi",NP,26873,27.0,85.58333
+"Kaudena, Sarlahi","Kaudena, Sarlahi",NP,26874,26.86451,85.51732
+"Barahathawa, Sarlahi","Barahathawa, Sarlahi",NP,26875,27.01953,85.45917
+"Sundarpur, Sarlahi","Sundarpur, Sarlahi",NP,26876,26.89039,85.49466
+"Dumariya, Sarlahi","Dumariya, Sarlahi",NP,26877,26.81879,85.40373
+"Karmaiya, Sarlahi","Karmaiya, Sarlahi",NP,26878,27.10835,85.47557
+"Harkathawa, Sarlahi","Harkathawa, Sarlahi",NP,26879,27.0,85.58333
+"Ramnagar(Bahuarwa), Sarlahi","Ramnagar(Bahuarwa), Sarlahi",NP,26880,26.63496,85.83683
+"Chhatauna, Sarlahi","Chhatauna, Sarlahi",NP,26881,27.0,85.58333
+Sindhuli,Sindhuli,NP,26882,27.25,86.0
+"Solpa, Sindhuli","Solpa, Sindhuli",NP,26883,27.25,86.0
+"Bahun Tilpung, Sindhuli","Bahun Tilpung, Sindhuli",NP,26884,45.779281,16.000596
+"Bahun Tilpung, Sindhuli","Bahun Tilpung, Sindhuli",NP,26884,27.25,86.0
+"Dakaha, Sindhuli","Dakaha, Sindhuli",NP,26886,27.02623,86.15407
+"Gwaltar, Sindhuli","Gwaltar, Sindhuli",NP,26887,27.28111,86.06709
+"Khurkot, Sindhuli","Khurkot, Sindhuli",NP,26888,27.3294,85.99147
+"Belghari, Sindhuli","Belghari, Sindhuli",NP,26889,27.13796,86.05641
+"Bhiman, Sindhuli","Bhiman, Sindhuli",NP,26890,27.16996,85.49694
+"Jhanga Jholi, Sindhuli","Jhanga Jholi, Sindhuli",NP,26891,26.77956,83.73253
+"Netrakali, Sindhuli","Netrakali, Sindhuli",NP,26892,27.35201,85.75481
+"Kapilakot, Sindhuli","Kapilakot, Sindhuli",NP,26893,27.30163,85.67111
+"Pipalmadhiratanpur, Sindhuli","Pipalmadhiratanpur, Sindhuli",NP,26894,27.25,86.0
+Sindhupalchok,Sindhupalchok,NP,26895,27.82936,85.54504
+"Kodari, Sindhupalchok","Kodari, Sindhupalchok",NP,26896,27.7141,85.76373
+"Barabise, Sindhupalchok","Barabise, Sindhupalchok",NP,26897,27.78873,85.89858
+"Atarpur, Sindhupalchok","Atarpur, Sindhupalchok",NP,26898,27.82936,85.54504
+"Lamosanghu, Sindhupalchok","Lamosanghu, Sindhupalchok",NP,26899,27.82936,85.54504
+"Nawalpur, Sindhupalchok","Nawalpur, Sindhupalchok",NP,26900,27.81797,85.63329
+"Pangtang, Sindhupalchok","Pangtang, Sindhupalchok",NP,26901,33.3027,118.161
+"Pangtang, Sindhupalchok","Pangtang, Sindhupalchok",NP,26901,27.82936,85.54504
+"Bhotsipa, Sindhupalchok","Bhotsipa, Sindhupalchok",NP,26903,27.75382,85.65038
+"Melamchi Bahunepati, Sindhupalchok","Melamchi Bahunepati, Sindhupalchok",NP,26904,27.79401,85.57543
+"Gyalthum, Sindhupalchok","Gyalthum, Sindhupalchok",NP,26905,27.82936,85.54504
+"Thangapaldhap, Sindhupalchok","Thangapaldhap, Sindhupalchok",NP,26906,27.82936,85.54504
+"Dubachaur, Sindhupalchok","Dubachaur, Sindhupalchok",NP,26907,27.82936,85.54504
+"Balephi, Sindhupalchok","Balephi, Sindhupalchok",NP,26908,27.73617,85.78606
+Siraha,Siraha,NP,26909,26.65411,86.2087
+"Bastipur, Siraha","Bastipur, Siraha",NP,26910,26.87104,86.19222
+"Lahan, Siraha","Lahan, Siraha",NP,26911,26.72958,86.49515
+"Bhagawanpur, Siraha","Bhagawanpur, Siraha",NP,26912,26.82316,86.27732
+"Dhanagadhi, Siraha","Dhanagadhi, Siraha",NP,26913,26.65411,86.2087
+"Maheshpur patari, Siraha","Maheshpur patari, Siraha",NP,26914,26.81453,86.26138
+"Bariyarpatti, Siraha","Bariyarpatti, Siraha",NP,26915,26.65411,86.2087
+"Golbazar (Asanpur), Siraha","Golbazar (Asanpur), Siraha",NP,26916,26.80322,86.3346
+"Sukhipur, Siraha","Sukhipur, Siraha",NP,26917,26.31165,82.92277
+"Bishnupur, Siraha","Bishnupur, Siraha",NP,26918,26.50379,86.73168
+"Belha, Siraha","Belha, Siraha",NP,26919,26.70418,86.21619
+"Madar, Siraha","Madar, Siraha",NP,26920,26.6324,86.19383
+"Mirchaiya, Siraha","Mirchaiya, Siraha",NP,26921,26.86015,86.17203
+"Bandipur, Siraha","Bandipur, Siraha",NP,26922,26.8818,86.16496
+"Kalyanpur, Siraha","Kalyanpur, Siraha",NP,26923,26.67317,86.44339
+Solukhumbu,Solukhumbu,NP,26924,27.75,86.75
+"Namche Bazar, Solukhumbu","Namche Bazar, Solukhumbu",NP,26925,27.80541,86.71363
+"Sotang, Solukhumbu","Sotang, Solukhumbu",NP,26926,27.49013,86.76396
+"Jubu, Solukhumbu","Jubu, Solukhumbu",NP,26927,27.41043,86.71184
+"Nele, Solukhumbu","Nele, Solukhumbu",NP,26928,27.44344,86.63036
+"Necha, Solukhumbu","Necha, Solukhumbu",NP,26929,27.35584,86.65169
+"Shishakhola, Solukhumbu","Shishakhola, Solukhumbu",NP,26930,27.75,86.75
+"Himaganga, Solukhumbu","Himaganga, Solukhumbu",NP,26931,27.525789,86.341782
+"Lukla, Solukhumbu","Lukla, Solukhumbu",NP,26932,27.68664,86.7314
+Sunsari,Sunsari,NP,26933,26.66667,87.16667
+"Mangalbare, Sunsari","Mangalbare, Sunsari",NP,26934,26.67452,87.60439
+"Chatara, Sunsari","Chatara, Sunsari",NP,26935,26.82746,87.16179
+"Bakalauri, Sunsari","Bakalauri, Sunsari",NP,26936,26.66667,87.16667
+"Itahari, Sunsari","Itahari, Sunsari",NP,26937,26.66667,87.28333
+"Simariya, Sunsari","Simariya, Sunsari",NP,26938,22.05646,79.52679
+"Simariya, Sunsari","Simariya, Sunsari",NP,26938,23.72002,79.25988
+"Chimadi, Sunsari","Chimadi, Sunsari",NP,26940,26.4892,87.19209
+"Jhumka, Sunsari","Jhumka, Sunsari",NP,26941,26.673,87.21128
+"Inarauwa, Sunsari","Inarauwa, Sunsari",NP,26942,26.66667,87.16667
+"Aurabari, Sunsari","Aurabari, Sunsari",NP,26943,24.87201,87.053062
+"Dewangunj, Sunsari","Dewangunj, Sunsari",NP,26944,26.66667,87.16667
+"Madhuvan, Sunsari","Madhuvan, Sunsari",NP,26945,19.171673,72.952384
+"Madhuvan, Sunsari","Madhuvan, Sunsari",NP,26945,26.66667,87.16667
+"Bhutaha, Sunsari","Bhutaha, Sunsari",NP,26947,27.55945,83.75218
+"Mahendra Nagar, Sunsari","Mahendra Nagar, Sunsari",NP,26948,21.118751,79.109871
+"Mahendra Nagar, Sunsari","Mahendra Nagar, Sunsari",NP,26948,26.66667,87.16667
+"Chhinchu, Surkhet","Chhinchu, Surkhet",NP,26951,28.45778,81.72385
+"Ramghat, Surkhet","Ramghat, Surkhet",NP,26952,28.48766,81.7432
+"Sahare, Surkhet","Sahare, Surkhet",NP,26953,28.39407,81.89634
+"Gumi, Surkhet","Gumi, Surkhet",NP,26954,28.49652,81.84589
+"Bheriganga, Surkhet","Bheriganga, Surkhet",NP,26955,28.51746,81.7787
+"Matela, Surkhet","Matela, Surkhet",NP,26956,28.78323,81.4616
+"Garpan, Surkhet","Garpan, Surkhet",NP,26957,28.62678,81.73718
+"Kunathari, Surkhet","Kunathari, Surkhet",NP,26958,28.69373,81.52364
+"Babiyachaur, Surkhet","Babiyachaur, Surkhet",NP,26959,28.79462,81.38773
+"Gutu, Surkhet","Gutu, Surkhet",NP,26960,28.84393,81.32289
+"Syangja, Syanja","Syangja, Syanja",NP,26961,27.975,83.75324
+"Kolma, Syanja","Kolma, Syanja",NP,26962,27.975,83.75324
+"Kichnas, Syanja","Kichnas, Syanja",NP,26963,27.975,83.75324
+"Jharkham, Syanja","Jharkham, Syanja",NP,26964,27.975,83.75324
+"Arjunchaupari, Syanja","Arjunchaupari, Syanja",NP,26965,27.975,83.75324
+"Panchamul, Syanja","Panchamul, Syanja",NP,26966,27.975,83.75324
+"Rangethanti, Syanja","Rangethanti, Syanja",NP,26967,27.975,83.75324
+"Fedikhola, Syanja","Fedikhola, Syanja",NP,26968,27.975,83.75324
+"Bhumare, Syanja","Bhumare, Syanja",NP,26969,27.05389,87.21817
+"Kyakmi, Syanja","Kyakmi, Syanja",NP,26970,27.975,83.75324
+"Waidha Bhanjhyang, Syanja","Waidha Bhanjhyang, Syanja",NP,26971,27.58253,86.14293
+"Chapakot, Syanja","Chapakot, Syanja",NP,26972,27.975,83.75324
+"Galyang, Syanja","Galyang, Syanja",NP,26973,27.94637,83.67925
+Tanahun,Tanahun,NP,26974,27.91667,84.25
+"Tuhure Pasal, Tanahun","Tuhure Pasal, Tanahun",NP,26975,28.12747,84.3769
+"Manechauka, Tanahun","Manechauka, Tanahun",NP,26976,28.12451,84.4022
+"Aanbu Khaireni, Tanahun","Aanbu Khaireni, Tanahun",NP,26978,27.85454,84.04811
+"Baidi, Tanahun","Baidi, Tanahun",NP,26979,28.30029,81.41061
+"Kahunshivapur, Tanahun","Kahunshivapur, Tanahun",NP,26980,27.91667,84.25
+"Rising Ranipokhari, Tanahun","Rising Ranipokhari, Tanahun",NP,26981,41.198605,-97.297412
+"Rising Ranipokhari, Tanahun","Rising Ranipokhari, Tanahun",NP,26981,27.709775,85.318582
+"Bhimad, Tanahun","Bhimad, Tanahun",NP,26983,27.91667,84.25
+"Lamagaun, Tanahun","Lamagaun, Tanahun",NP,26984,28.14309,84.52418
+"Khairenitar, Tanahun","Khairenitar, Tanahun",NP,26985,28.02969,84.09511
+"Shisha Ghat, Tanahun","Shisha Ghat, Tanahun",NP,26986,53.590103,19.567796
+"Shisha Ghat, Tanahun","Shisha Ghat, Tanahun",NP,26986,53.590103,19.567796
+"Devaghat, Tanahun","Devaghat, Tanahun",NP,26988,27.91667,84.25
+"Khewang, Taplajung","Khewang, Taplajung",NP,26989,28.10991,83.73096
+"Sadeba, Taplajung","Sadeba, Taplajung",NP,26990,0.0,0.0
+"Thokimba, Taplajung","Thokimba, Taplajung",NP,26991,0.0,0.0
+"Dobhan, Taplajung","Dobhan, Taplajung",NP,26992,28.56568,82.64961
+Taplejung,Taplejung,NP,26993,27.557564,87.81463
+"Sinam, Taplejung","Sinam, Taplejung",NP,26994,27.31194,87.83279
+"Pedang, Taplejung","Pedang, Taplejung",NP,26995,27.37803,87.86853
+"Thechambu, Taplejung","Thechambu, Taplejung",NP,26996,26.64364,87.80867
+"Siwang, Taplejung","Siwang, Taplejung",NP,26997,27.557564,87.81463
+"Khokling, Taplejung","Khokling, Taplejung",NP,26998,27.39442,87.64812
+"Olangchunggola, Taplejung","Olangchunggola, Taplejung",NP,26999,27.68044,87.78271
+"Change, Taplejung","Change, Taplejung",NP,27000,27.34894,87.60993
+"Hangpang, Taplejung","Hangpang, Taplejung",NP,27001,27.33089,87.62409
+Terhathum,Terhathum,NP,27002,27.19129,87.561208
+"Jirikhimti, Terhathum","Jirikhimti, Terhathum",NP,27003,26.65945,87.54261
+"Tinjure, Terhathum","Tinjure, Terhathum",NP,27004,27.17791,87.42725
+"Basantapur, Terhathum","Basantapur, Terhathum",NP,27005,27.13927,87.41214
+"Sudap, Terhathum","Sudap, Terhathum",NP,27006,27.08756,87.47818
+"Hamarjung, Terhathum","Hamarjung, Terhathum",NP,27007,27.19129,87.561208
+"Morahang, Terhathum","Morahang, Terhathum",NP,27008,27.21557,87.51614
+"Pokalawang, Terhathum","Pokalawang, Terhathum",NP,27009,27.15,87.55
+"Mulpani, Terhathum","Mulpani, Terhathum",NP,27010,27.21093,87.65323
+"Iwa, Terhathum","Iwa, Terhathum",NP,27011,27.19129,87.561208
+Udayapur,Udayapur,NP,27012,26.91667,86.66667
+"Ratapani (Thoksila), Udayapur","Ratapani (Thoksila), Udayapur",NP,27013,28.21067,82.3111
+"Beltar, Udayapur","Beltar, Udayapur",NP,27014,27.09731,86.41813
+"Hadiya, Udayapur","Hadiya, Udayapur",NP,27015,26.78303,86.8361
+"Pokhari, Udayapur","Pokhari, Udayapur",NP,27016,27.08321,86.58016
+"Baraha, Udayapur","Baraha, Udayapur",NP,27017,24.4992,84.48821
+"Bhutar, Udayapur","Bhutar, Udayapur",NP,27018,30.09126,67.06798
+"Bhutar, Udayapur","Bhutar, Udayapur",NP,27018,26.91667,86.66667
+"Udayapur Gadhi, Udayapur","Udayapur Gadhi, Udayapur",NP,27020,26.91667,86.66667
+"Katari, Udayapur","Katari, Udayapur",NP,27021,26.82094,87.03036
+"Sorung Chhabise, Udayapur","Sorung Chhabise, Udayapur",NP,27022,27.09128,86.44263
+"Rauta Murkuchi, Udayapur","Rauta Murkuchi, Udayapur",NP,27023,26.89672,86.62497

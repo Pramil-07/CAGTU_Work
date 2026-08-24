@@ -1,0 +1,11 @@
+export * from './lib/Routes/DashboardRoutes';
+export { default as ResetPassword } from './lib/ResetPassword/ResetPassword';
+export { default as Login } from './lib/Login/Login';
+export { default as ForgotPassword } from './lib/ForgotPassword/ForgotPassword';
+export { default as Dashboard } from './lib/Dashboard/Dashboard';
+export { default as Admin } from './lib/Admin/Admin';
+export { default as Newsletter } from './newsletter/Newsletter';
+export { default as Contacts } from './contact/contactList/ContactList';
+export { default as CareerList } from './career/careerList/CareerList';
+export { default as CareerCreate } from './career/createCareer/CreateCareer';
+export { default as Candidates } from './career/candidates/Candidates';

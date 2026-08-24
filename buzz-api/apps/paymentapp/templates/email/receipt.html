@@ -1,0 +1,132 @@
+{% load i18n %}
+
+{% autoescape off %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MithoSweets Payment Receipt</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .header img {
+      max-width: 150px;
+    }
+    h1 {
+      color: #d35400;
+      font-size: 24px;
+      text-align: center;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    .details-table, .items-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    .details-table td, .details-table th, .items-table td, .items-table th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    .details-table th, .items-table th {
+      background-color: #f5f5f5;
+    }
+    .total {
+      font-weight: bold;
+      text-align: right;
+      font-size: 18px;
+    }
+    .footer {
+      font-size: 14px;
+      color: #888;
+      text-align: center;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://mithosweets-bucket.s3.amazonaws.com/media/tmedia/carousel/logo1.png" alt="MithoSweets Logo">
+    </div>
+
+    <h1>Payment Receipt</h1>
+
+    <p>Hello {{ user.get_full_name|default:user.get_username }},</p>
+
+    <p>Thank you for your purchase at MithoSweets.com! Here are your payment details:</p>
+
+    <table class="details-table">
+      <tr>
+        <th>Transaction ID</th>
+        <td>{{ txn.id }}</td>
+      </tr>
+      <tr>
+        <th>Payment Method</th>
+        <td>{{ txn.provider }}</td>
+      </tr>
+      <tr>
+        <th>Payment Status</th>
+        <td>{{ payment.status }}</td>
+      </tr>
+      <tr>
+        <th>Payment Date</th>
+        <td>{{ txn.created_at|date:"F j, Y, g:i a" }}</td>
+      </tr>
+    </table>
+
+    <h2>Items Purchased</h2>
+    <table class="items-table">
+      <tr>
+        <th>Product</th>
+        <th>Qty</th>
+        <th>Price ({{ txn.currency }})</th>
+        <th>Total ({{ txn.currency }})</th>
+      </tr>
+      {% for item in order_items %}
+      <tr>
+        <td>{{ item.product_name }}</td>
+        <td>{{ item.quantity }}</td>
+        <td>{{ item.product_price }}</td>
+        <td>{{ item.sub_total }}</td>
+      </tr>
+      {% endfor %}
+      <tr>
+        <td colspan="3" class="total">Grand Total</td>
+        <td class="total">{{ txn.amount }}</td>
+      </tr>
+    </table>
+
+    <p>If you have any questions about your order, feel free to <a href="{{ domain }}/contact">contact us</a>.</p>
+
+    <p>We appreciate your business and hope you enjoy your sweets!</p>
+
+    <div class="footer">
+      &copy; {{ now|date:"Y" }} MithoSweets.com. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
+
+{% endautoescape %}

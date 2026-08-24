@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Title</title>
+</head>
+<body>
+<center style="font-family: Inter, Roboto, Arial, sans-serif;">
+	<div style="max-width: 600px; background-color: #F3F9FF; box-shadow: #c2c2c2 3px 3px 10px; ">
+		{% include "email/header.html" %}
+		<center style="max-width: 540px; margin-top: 30px; margin-bottom: 30px; padding: 20px;">
+			<div style="padding: 24px; background-color: white; max-width: 540px; border-radius: 5px; text-align: left">
+				{% block content %}{% endblock content %}
+			</div>
+		</center>
+		{% include "email/footer.html" %}
+
+	</div>
+</center>
+</body>
+</html>

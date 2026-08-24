@@ -1,0 +1,173 @@
+code,name,minor,symbol,supports_stripe
+AFN,Afghani,100,$,TRUE
+EUR,Euro,100,€,TRUE
+ALL,Lek,100,$,TRUE
+DZD,Algerian Dinar,100,$,TRUE
+USD,US Dollar,100,$,TRUE
+AOA,Kwanza,100,$,TRUE
+XCD,East Caribbean Dollar,100,$,TRUE
+ARS,Argentine Peso,100,$,TRUE
+AMD,Armenian Dram,100,$,TRUE
+AWG,Aruban Florin,100,$,TRUE
+AUD,Australian Dollar,100,A$,TRUE
+AZN,Azerbaijan Manat,100,$,TRUE
+BSD,Bahamian Dollar,100,$,TRUE
+BHD,Bahraini Dinar,1000,$,TRUE
+BDT,Taka,100,$,TRUE
+BBD,Barbados Dollar,100,$,TRUE
+BYN,Belarusian Ruble,100,$,TRUE
+BZD,Belize Dollar,100,$,TRUE
+XOF,CFA Franc BCEAO,1,$,TRUE
+BMD,Bermudian Dollar,100,$,TRUE
+INR,Indian Rupee,100,₹,TRUE
+BTN,Ngultrum,100,$,TRUE
+BOB,Boliviano,100,$,TRUE
+BOV,Mvdol,100,$,FALSE
+BAM,Convertible Mark,100,$,TRUE
+BWP,Pula,100,$,TRUE
+NOK,Norwegian Krone,100,$,TRUE
+BRL,Brazilian Real,100,$,TRUE
+BND,Brunei Dollar,100,$,TRUE
+BGN,Bulgarian Lev,100,$,TRUE
+BIF,Burundi Franc,1,$,TRUE
+CVE,Cabo Verde Escudo,100,$,TRUE
+KHR,Riel,100,$,TRUE
+XAF,CFA Franc BEAC,1,$,TRUE
+CAD,Canadian Dollar,100,$,TRUE
+KYD,Cayman Islands Dollar,100,$,TRUE
+CLP,Chilean Peso,1,$,TRUE
+CLF,Unidad de Fomento,10000,$,FALSE
+CNY,Yuan Renminbi,100,$,TRUE
+COP,Colombian Peso,100,$,TRUE
+COU,Unidad de Valor Real,100,$,FALSE
+KMF,Comorian Franc,1,$,TRUE
+CDF,Congolese Franc,100,$,TRUE
+NZD,New Zealand Dollar,100,$,TRUE
+CRC,Costa Rican Colon,100,$,TRUE
+HRK,Kuna,100,$,TRUE
+CUP,Cuban Peso,100,$,FALSE
+CUC,Peso Convertible,100,$,FALSE
+ANG,Netherlands Antillean Guilder,100,$,TRUE
+CZK,Czech Koruna,100,$,TRUE
+DKK,Danish Krone,100,$,TRUE
+DJF,Djibouti Franc,1,$,TRUE
+DOP,Dominican Peso,100,$,TRUE
+EGP,Egyptian Pound,100,$,TRUE
+SVC,El Salvador Colon,100,$,TRUE
+ERN,Nakfa,100,$,FALSE
+SZL,Lilangeni,100,$,TRUE
+ETB,Ethiopian Birr,100,$,TRUE
+FKP,Falkland Islands Pound,100,$,TRUE
+FJD,Fiji Dollar,100,$,TRUE
+XPF,CFP Franc,1,$,TRUE
+GMD,Dalasi,100,$,TRUE
+GEL,Lari,100,$,TRUE
+GHS,Ghana Cedi,100,$,TRUE
+GIP,Gibraltar Pound,100,$,TRUE
+GTQ,Quetzal,100,$,TRUE
+GBP,Pound Sterling,100,£,TRUE
+GNF,Guinean Franc,1,$,TRUE
+GYD,Guyana Dollar,100,$,TRUE
+HTG,Gourde,100,$,TRUE
+HNL,Lempira,100,$,TRUE
+HKD,Hong Kong Dollar,100,$,TRUE
+HUF,Forint,100,$,TRUE
+ISK,Iceland Krona,1,$,TRUE
+IDR,Rupiah,100,$,TRUE
+XDR,SDR (Special Drawing Right),1,$,FALSE
+IRR,Iranian Rial,100,$,FALSE
+IQD,Iraqi Dinar,1000,$,FALSE
+ILS,New Israeli Sheqel,100,$,TRUE
+JMD,Jamaican Dollar,100,$,TRUE
+JPY,Yen,1,¥,TRUE
+JOD,Jordanian Dinar,1000,$,TRUE
+KZT,Tenge,100,$,TRUE
+KES,Kenyan Shilling,100,$,TRUE
+KPW,North Korean Won,100,$,FALSE
+KRW,Won,1,$,TRUE
+KWD,Kuwaiti Dinar,1000,$,TRUE
+KGS,Som,100,$,TRUE
+LAK,Lao Kip,100,$,TRUE
+LBP,Lebanese Pound,100,$,TRUE
+LSL,Loti,100,$,TRUE
+ZAR,Rand,100,$,TRUE
+LRD,Liberian Dollar,100,$,TRUE
+LYD,Libyan Dinar,1000,$,FALSE
+CHF,Swiss Franc,100,$,TRUE
+MOP,Pataca,100,$,TRUE
+MKD,Denar,100,$,TRUE
+MGA,Malagasy Ariary,100,$,TRUE
+MWK,Malawi Kwacha,100,$,TRUE
+MYR,Malaysian Ringgit,100,$,TRUE
+MVR,Rufiyaa,100,$,TRUE
+MRU,Ouguiya,100,$,FALSE
+MUR,Mauritius Rupee,100,$,TRUE
+XUA,ADB Unit of Account,1,$,FALSE
+MXN,Mexican Peso,100,$,TRUE
+MXV,Mexican Unidad de Inversion (UDI),100,$,FALSE
+MDL,Moldovan Leu,100,$,TRUE
+MNT,Tugrik,100,$,TRUE
+MAD,Moroccan Dirham,100,$,TRUE
+MZN,Mozambique Metical,100,$,TRUE
+MMK,Kyat,100,$,TRUE
+NAD,Namibia Dollar,100,$,TRUE
+NPR,Nepalese Rupee,100,रु,TRUE
+NIO,Cordoba Oro,100,$,TRUE
+NGN,Naira,100,$,TRUE
+OMR,Rial Omani,1000,$,TRUE
+PKR,Pakistan Rupee,100,$,TRUE
+PAB,Balboa,100,$,TRUE
+PGK,Kina,100,$,TRUE
+PYG,Guarani,1,$,TRUE
+PEN,Sol,100,$,TRUE
+PHP,Philippine Peso,100,$,TRUE
+PLN,Zloty,100,$,TRUE
+QAR,Qatari Rial,100,$,TRUE
+RON,Romanian Leu,100,$,TRUE
+RUB,Russian Ruble,100,$,TRUE
+RWF,Rwanda Franc,1,$,TRUE
+SHP,Saint Helena Pound,100,$,TRUE
+WST,Tala,100,$,TRUE
+STN,Dobra,100,$,FALSE
+SAR,Saudi Riyal,100,$,TRUE
+RSD,Serbian Dinar,100,$,TRUE
+SCR,Seychelles Rupee,100,$,TRUE
+SLL,Leone,100,$,TRUE
+SGD,Singapore Dollar,100,$,TRUE
+XSU,Sucre,1,$,FALSE
+SBD,Solomon Islands Dollar,100,$,TRUE
+SOS,Somali Shilling,100,$,TRUE
+SSP,South Sudanese Pound,100,$,FALSE
+LKR,Sri Lanka Rupee,100,$,TRUE
+SDG,Sudanese Pound,100,$,FALSE
+SRD,Surinam Dollar,100,$,TRUE
+SEK,Swedish Krona,100,$,TRUE
+CHE,WIR Euro,100,$,FALSE
+CHW,WIR Franc,100,$,FALSE
+SYP,Syrian Pound,100,$,FALSE
+TWD,New Taiwan Dollar,100,$,TRUE
+TJS,Somoni,100,$,TRUE
+TZS,Tanzanian Shilling,100,$,TRUE
+THB,Baht,100,$,TRUE
+TOP,Pa'anga,100,$,TRUE
+TTD,Trinidad and Tobago Dollar,100,$,TRUE
+TND,Tunisian Dinar,1000,$,TRUE
+TRY,Turkish Lira,100,$,TRUE
+TMT,Turkmenistan New Manat,100,$,FALSE
+UGX,Uganda Shilling,1,$,TRUE
+UAH,Hryvnia,100,$,TRUE
+AED,UAE Dirham,100,$,TRUE
+USN,US Dollar (Next day),100,$,FALSE
+UYU,Peso Uruguayo,100,$,TRUE
+UYI,Uruguay Peso en Unidades Indexadas (UI),1,$,FALSE
+UYW,Unidad Previsional,10000,$,FALSE
+UZS,Uzbekistan Sum,100,$,TRUE
+VUV,Vatu,1,$,TRUE
+VES,Bolívar Soberano,100,$,FALSE
+VND,Dong,1,$,TRUE
+YER,Yemeni Rial,100,$,TRUE
+ZMW,Zambian Kwacha,100,$,TRUE
+ZWL,Zimbabwe Dollar,100,$,FALSE
+XPD,Palladium,1,$,FALSE
+XPT,Platinum,1,$,FALSE
+XAG,Silver,1,$,FALSE

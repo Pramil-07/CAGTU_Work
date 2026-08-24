@@ -1,0 +1,100 @@
+import {
+    Button,
+    Container,
+    createStyles,
+    Group,
+    Text,
+    Title,
+} from "@mantine/core";
+import { useRouter } from "next/router";
+
+import Layout from "@/components/Layout/Layout";
+import { Illustration503 } from "@/public/svgs/ServerError";
+
+const useStyles = createStyles((theme) => ({
+    root: {
+        paddingTop: 80,
+        paddingBottom: 80,
+    },
+
+    inner: {
+        position: "relative",
+    },
+
+    image: {
+        position: "absolute",
+        top: 0,
+        right: 0,
+        left: 0,
+        zIndex: 0,
+        opacity: 0.75,
+    },
+
+    content: {
+        paddingTop: 220,
+        position: "relative",
+        zIndex: 1,
+
+        [theme.fn.smallerThan("sm")]: {
+            paddingTop: 120,
+        },
+    },
+
+    title: {
+        color:
+            theme.colorScheme === "dark"
+                ? theme.colors.dark[0]
+                : theme.colors.secondary[4],
+        textAlign: "center",
+        fontWeight: 900,
+        fontSize: 38,
+
+        [theme.fn.smallerThan("sm")]: {
+            fontSize: 32,
+        },
+    },
+
+    description: {
+        maxWidth: 620,
+        margin: "auto",
+        marginTop: theme.spacing.xl,
+        marginBottom: theme.spacing.xl,
+        //  * 1.5
+    },
+}));
+
+const ServerOverload = () => {
+    const { classes } = useStyles();
+    const router = useRouter();
+    return (
+        <Layout>
+            <Container className={classes.root}>
+                <div className={classes.inner}>
+                    <Illustration503 className={classes.image} />
+                    <div className={classes.content}>
+                        <Title className={classes.title}>
+                            All of our servers are busy
+                        </Title>
+                        <Text
+                            color="dimmed"
+                            size="lg"
+                            align="center"
+                            className={classes.description}
+                        >
+                            We cannot handle your request right now, please wait
+                            for a couple of minutes and refresh the page. Our
+                            team is already working on this issue.
+                        </Text>
+                        <Group position="center">
+                            <Button size="md" onClick={() => router.reload()}>
+                                Refresh the page
+                            </Button>
+                        </Group>
+                    </div>
+                </div>
+            </Container>
+        </Layout>
+    );
+};
+
+export default ServerOverload;

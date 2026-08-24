@@ -1,0 +1,16 @@
+{% load i18n %}
+
+{% autoescape off %}
+
+{% blocktrans %}
+{% endblocktrans %}
+{% block reset_link %}
+     ticket: {{ticket_id}}
+
+{% endblock %}
+
+{% trans "Thankyou for using our site!" %}
+
+{% blocktrans %}The Cagtu Nepal {% endblocktrans %}
+
+{% endautoescape %}

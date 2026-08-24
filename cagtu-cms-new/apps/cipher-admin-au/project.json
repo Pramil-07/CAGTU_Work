@@ -1,0 +1,80 @@
+{
+    "$schema": "../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "apps/cipher-admin-au/src",
+    "projectType": "application",
+    "targets": {
+        "build": {
+            "executor": "@nrwl/web:webpack",
+            "outputs": ["{options.outputPath}"],
+            "defaultConfiguration": "production",
+            "options": {
+                "compiler": "babel",
+                "outputPath": "dist/apps/cipher-admin-au",
+                "index": "apps/cipher-admin-au/src/index.html",
+                "baseHref": "/",
+                "main": "apps/cipher-admin-au/src/main.tsx",
+                "polyfills": "apps/cipher-admin-au/src/polyfills.ts",
+                "tsConfig": "apps/cipher-admin-au/tsconfig.app.json",
+                "assets": ["apps/cipher-admin-au/src/favicon.ico", "apps/cipher-admin-au/src/assets"],
+                "styles": ["apps/cipher-admin-au/src/styles.scss"],
+                "scripts": [],
+                "webpackConfig": "@nrwl/react/plugins/webpack"
+            },
+            "configurations": {
+                "development": {
+                    "extractLicenses": false,
+                    "optimization": false,
+                    "sourceMap": true,
+                    "vendorChunk": true
+                },
+                "production": {
+                    "fileReplacements": [
+                        {
+                            "replace": "apps/cipher-admin-au/src/environments/environment.ts",
+                            "with": "apps/cipher-admin-au/src/environments/environment.prod.ts"
+                        }
+                    ],
+                    "optimization": true,
+                    "outputHashing": "all",
+                    "sourceMap": false,
+                    "namedChunks": false,
+                    "extractLicenses": true,
+                    "vendorChunk": false
+                }
+            }
+        },
+        "serve": {
+            "executor": "@nrwl/web:dev-server",
+            "defaultConfiguration": "development",
+            "options": {
+                "buildTarget": "cipher-admin-au:build",
+                "hmr": true
+            },
+            "configurations": {
+                "development": {
+                    "buildTarget": "cipher-admin-au:build:development"
+                },
+                "production": {
+                    "buildTarget": "cipher-admin-au:build:production",
+                    "hmr": false
+                }
+            }
+        },
+        "lint": {
+            "executor": "@nrwl/linter:eslint",
+            "outputs": ["{options.outputFile}"],
+            "options": {
+                "lintFilePatterns": ["apps/cipher-admin-au/**/*.{ts,tsx,js,jsx}"]
+            }
+        },
+        "test": {
+            "executor": "@nrwl/jest:jest",
+            "outputs": ["coverage/apps/cipher-admin-au"],
+            "options": {
+                "jestConfig": "apps/cipher-admin-au/jest.config.ts",
+                "passWithNoTests": true
+            }
+        }
+    },
+    "tags": []
+}

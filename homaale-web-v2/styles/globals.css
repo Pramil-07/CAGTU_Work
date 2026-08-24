@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.editor-dark .ql-editor p {
+    @apply text-white;
+}
+
+.editor-light .ql-editor p {
+    @apply text-gray-500;
+}
+
+/* Add any custom CSS here */

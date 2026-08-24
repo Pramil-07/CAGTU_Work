@@ -1,0 +1,96 @@
+{% load i18n %}
+
+{% autoescape off %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MithoSweets Account Verification</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff8f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      padding: 20px;
+    }
+    .header {
+      text-align: center;
+      padding-bottom: 20px;
+    }
+    .header img {
+      max-width: 150px;
+    }
+    h1 {
+      color: #d35400;
+      font-size: 24px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    .button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #e67e22;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 20px 0;
+      font-weight: bold;
+    }
+    .footer {
+      font-size: 14px;
+      color: #888;
+      text-align: center;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://mithosweets-bucket.s3.amazonaws.com/media/tmedia/carousel/logo1.png" alt="MithoSweets Logo">
+    </div>
+
+    <h1>Verify Your MithoSweets Account</h1>
+
+    <p>
+      Hello {{ user.get_full_name|default:user.get_username }},
+    </p>
+
+    <p>
+      You requested to verify your account at MithoSweets.com. Click the button below to complete your account verification:
+    </p>
+
+    <p style="text-align:center;">
+      <a href="{{ domain }}/verify?u={{ uid }}&t={{ token }}" class="button">Verify Account</a>
+    </p>
+
+    <p>
+      If you did not request this, please ignore this email. Your username is: <strong>{{ user.get_username }}</strong>
+    </p>
+
+    <p>
+      Thank you for choosing MithoSweets.com! We’re excited to have you with us.
+    </p>
+
+    <div class="footer">
+      &copy; {{ now|date:"Y" }} MithoSweets.com. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
+
+{% endautoescape %}

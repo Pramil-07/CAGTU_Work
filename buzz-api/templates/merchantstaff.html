@@ -1,0 +1,24 @@
+{% load i18n %}
+
+{% autoescape off %}
+
+{% blocktrans %}
+You are invited as a staff for  {{ merchant }}.
+{% endblocktrans %}
+
+
+{% trans "Please login to the system at:" %}
+
+{% block reset_link %}
+	{{domain}}/merchant/login
+{% endblock %}
+
+{% trans "Your username:" %} {{ user.get_username }}
+{% trans "Your email:" %} {{ user.get_email }}
+{% trans "Your password:" %} {{password }}
+	
+{% trans "Thankyou for using our site!" %}
+
+{% blocktrans %}Project Buzz.... {% endblocktrans %}
+
+{% endautoescape %}

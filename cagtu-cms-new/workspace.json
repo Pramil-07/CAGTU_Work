@@ -1,0 +1,22 @@
+{
+    "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+    "version": 2,
+    "projects": {
+        "buzz-admin": "apps/buzz-admin",
+        "buzz-admin-e2e": "apps/buzz-admin-e2e",
+        "buzz-admin-views": "libs/buzz-admin/views",
+        "cagtu-site": "apps/cagtu-site",
+        "cagtu-site-views": "libs/cagtu-site/views",
+        "cagtu-site-e2e": "apps/cagtu-site-e2e",
+        "cipher-admin": "apps/cipher-admin",
+        "cipher-admin-au": "apps/cipher-admin-au",
+        "cipher-admin-au-views": "libs/cipher-admin-au/views",
+        "cipher-admin-e2e": "apps/cipher-admin-e2e",
+        "cipher-admin-views": "libs/cipher-admin/views",
+        "data-access": "libs/data-access",
+        "ui-shared": "libs/ui-shared",
+        "ui-shared-views": "libs/ui-shared/views",
+        "ui-styles": "libs/ui-styles",
+        "util-formatter": "libs/util-formatter"
+    }
+}

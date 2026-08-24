@@ -1,0 +1,22 @@
+{% load i18n %}
+
+{% autoescape off %}
+
+{% blocktrans %}
+You're receiving this email because you have registered to our website at {{ domain }}. Please verify your email for successfull login.
+{% endblocktrans %}
+
+
+{% trans "Your verification link is:" %}
+
+{% block reset_link %}
+	{{domain}}/verify-account?u={{uid}}&t={{token}}
+{% endblock %}
+
+{% trans "Your username, in case you've forgotten:" %} {{ user.get_username }}
+	
+{% trans "Thankyou for using our site!" %}
+
+{% blocktrans %}The Cagtu Nepal {% endblocktrans %}
+
+{% endautoescape %}

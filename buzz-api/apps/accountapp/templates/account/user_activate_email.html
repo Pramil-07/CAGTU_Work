@@ -1,0 +1,131 @@
+{% load static %}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+		"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<title>Title</title>
+</head>
+<body style="font-family: sans-serif; background-color: #E5E5E5">
+<center>
+	<div style="max-width: 570px; margin: 20px;">
+		<div style="text-align: left; padding: 20px; background-color: #211D4F; color: #FFD56B; padding-left: 40px;">
+			<span style="font-size: 24px; font-weight: bolder">Homaale</span>
+		</div>
+		<div style="text-align: left; padding: 20px; background-color: #F3F9FF">
+
+			<div style="margin: 20px; padding: 20px; background-color: white; margin-bottom: 0;">
+				<div style="margin: 20px; padding: 20px; text-align:center; ">
+					<img alt="waving_hand" src="{{ app_domain }}/static/email_res/email_hand.png">
+				</div>
+				<div style="font-weight: 600;font-size: 24px; margin-bottom: 20px;">Welcome to Homaale!</div>
+				Hi <span style="font-weight: bold">{{ user.email }}</span>,
+				A account for <a href="{{ web_url }}">{{ web_url }}</a> has been created for you. Please Click the link
+				below to activate your account.<br>
+				<center style="padding:30px">
+					<a
+							href="{{ link }}"
+							style="text-decoration: none;"
+
+					>
+				<span
+						style="background-color: #211D4F; color: white; min-height: 40px; padding: 10px; padding-left: 20px; padding-right: 20px; font-weight: bold; border-radius: 5px">
+
+				Activate your account
+				</span>
+					</a>
+					<br><br><br>
+					or click the link below:<br>
+					<a href="{{ link }}" style="margin: 40px;">{{ link }}</a>
+				</center>
+			</div>
+			<table width="100%">
+				<tbody>
+				<tr>
+					<td style="width: 50%;">
+						<center>
+							<div style="background-color: white; margin: 20px; padding: 20px;">
+								<img alt="bookmark_logo" src="{{ domain }}static/email_res/bookmark.png"><br>
+								<a href="{{ app_domain }}/services/book">Book Services</a>
+							</div>
+
+						</center>
+					</td>
+					<td style="width: 50%">
+						<center>
+							<div style="background-color: white; margin: 20px; padding: 20px;">
+
+								<img alt="add_service_logo" src="{{ domain }}static/email_res/add_service.png"><br>
+								<a href="{{ app_domain }}/services/add">Add Services</a>
+							</div>
+
+						</center>
+					</td>
+				</tr>
+				</tbody>
+			</table>
+
+		</div>
+		<div style="background-color: white; padding: 20px;">
+			<span style="font-weight: bold">Join Our Pack</span>
+			<table style="border-spacing: 20px;">
+				<tbody>
+				<tr>
+					<td>
+						<button
+								style="font-weight: bold; background-color: #3B5998; width: 30px; height: 30px; padding: 5px; border-radius: 15px; color: white; border: none;font-size: 24px">
+							f
+						</button>
+					</td>
+					<td>
+						<button
+								style="font-weight: bold; background-color: #DB4437; width: 30px; height: 30px; padding: 5px; border-radius: 15px; color: white; border: none;font-size: 24px">
+							G
+						</button>
+					</td>
+					<td>
+						<button
+								style="font-weight: bold; background-color: #00ACEE; width: 30px; height: 30px; padding: 5px; border-radius: 15px; color: white; border: none;font-size: 24px">
+							t
+						</button>
+					</td>
+					<td>
+						<button
+								style="font-weight: bold; background-color: #0072B1; width: 30px; height: 30px; padding: 5px; border-radius: 15px; color: white; border: none;font-size: 24px">
+							in
+						</button>
+					</td>
+				</tr>
+				</tbody>
+			</table>
+			<div style="color: #bcc2c9; margin-bottom: 20px">
+				Your home for helpful products, news and Malesuad a tellus tincidunt fringilla enim, id mauris. Id
+			</div>
+
+			<div style="color: #bcc2c9; font-size: small; margin-bottom: 20px">
+				Please add email@homaale.com to your address book to make sure our emails are delivered to your inbox.
+			</div>
+			<div style="color: #bcc2c9; font-size: small; margin-bottom: 20px">
+				homaale.com | 2101 4th Ave #400 | Seattle, WA 98121
+			</div>
+			<div style="color: #bcc2c9; font-size: small; margin-bottom: 20px">
+				<a href="{{ app_domain }}privacy_policy">Privacy Policy</a>
+			</div>
+
+		</div>
+		<div style="color: #a4a8ad; padding: 20px; font-size: smaller;">
+			This email and any attachments may contain privileged and confidential information
+			and are intended for the named addressee only. If you have received this email in
+			error, please notify the sender and delete this e-mail immediately. Any confidentiality,
+			privilege or copyright is not waived or lost because this email has been sent to you in
+			error. It is your responsibility to check this email and any attachments for viruses.
+			No warranty is made that this material is free from computer virus or any other defect
+			or error. Any loss/damage incurred by using this material is not the sender's
+			responsibility. The sender's entire liability will be limited to resupplying the material.
+			Please consider the environment before printing this email.
+		</div>
+	</div>
+
+</center>
+
+</body>
+</html>

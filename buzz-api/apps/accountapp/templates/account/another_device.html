@@ -1,0 +1,60 @@
+{% extends "email/base.html" %}
+{% block content %}
+	<div class="welcome-content" style="background-color: #FFFFFF; margin: 16px;">
+		<center style="margin-bottom: 16px;"><img
+			src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/mobile.png" alt="success-image"
+			style=" width: 64px"></center>
+		<h4 style="font-size: 16px; font-family: sans-serif; text-align: left; margin-bottom: 16px;">New sign-in on an
+			unrecognized device</h4>
+		<table style="font-size: 12px; font-family: sans-serif; margin-bottom: 20px; color: #868E96;">
+			<td style="display: table-cell; vertical-align: middle;"><img
+				src={{ user.user_profile.profile_image.url }} alt="profile-image"
+				style="height:24px; width: 24px; border-radius: 50%; margin-right: 8px;"></td>
+			<td> {{ user.email }}</td>
+		</table>
+		<p style="font-size: 14px; font-family: sans-serif; text-align: justify; margin-bottom: 24px; color: #495057;">We
+			noticed an unusual login from a device that we don't recognize. <a
+				href="https://homaale.com/settings/account/individual" style="color: #3EAEFF; text-decoration: none;"> Check
+				activity</a></p>
+		<div style="border-bottom: 1px solid #454546; margin-bottom: 25px;">
+			<table style="font-size: 12px; color: #495057;">
+				<td><img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/unknown_mobile.png"
+								 alt="profile-image" style=" width: 18px; margin-right: 15px;"></td>
+				<td>Unrecognized device</td>
+			</table>
+			<table style="font-size: 12px; color: #495057;">
+				<td><img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/clock.png"
+								 alt="profile-image" style=" width: 18px; margin-right: 15px;"></td>
+				<td>1 hour ago</td>
+			</table>
+			<table style="font-size: 12px; margin-bottom: 15px; color: #495057;">
+				<td><img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/map_pin.png"
+								 alt="profile-image" style=" width: 18px; margin-right: 15px;"></td>
+				<td>Near Buddhanagar, Nepal</td>
+			</table>
+
+			<table style="margin-left: 37px; margin-bottom: 8px; font-size: 12px; color: #495057;">
+				<td>172.217.14 (IP address)</td>
+				<td><img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/info.png" alt="profile-image"
+								 style=" width: 18px;  margin-left: 8px;"></td>
+			</table>
+		</div>
+
+		<p
+			style="font-size: 14px; color: #495057; margin-bottom: 16px; font-family: sans-serif; font-weight: 400;  margin-top: 20px;  margin-bottom:4px; margin-right: 26px;">
+			Do you recognize this activity?</p>
+		<table style="margin-top: 20px;">
+			<td
+				style="border: 1px solid rgba(0, 0, 0, 0.45); cursor: pointer; padding: 8px 20px; margin:0 10px 10px 0;   font-size: 12px; font-weight: 600;">
+				<a href="https://homaale.com/" style=" text-decoration: none; color: rgba(0, 0, 0, 0.4);"><img
+					src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/cross.png" alt=""
+					style="height: 10px; margin-right: 6px;"> No, secure account</a></td>
+			<td
+				style="border: 1px solid rgba(0, 0, 0, 0.45); cursor: pointer; padding: 8px 40px; margin:0 10px 10px 0;   font-size: 12px; font-weight: 600;">
+				<a href="https://homaale.com/" style=" text-decoration: none; color: rgba(0, 0, 0, 0.4);"><img
+					src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/check.png" alt=""
+					style="height: 10px; margin-right: 6px;"> Yes</a></td>
+		</table>
+	</div>
+
+{% endblock %}

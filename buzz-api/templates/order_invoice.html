@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.customers tr:nth-child(even){background-color: #f2f2f2;}
+
+
+
+.customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  text-align: left;
+  background-color: #24A19C;
+  color: white;
+}
+
+.order_id{
+    background: #fef4ea;
+    padding: 16px;
+}
+.order_id div{
+    margin-bottom: 20px;
+}
+.thank-head{
+    color: #c7630d;
+    font-weight: 600;
+    font-size: 34px;
+}
+.regards{
+    font-weight: 600;
+}
+.signature-message{
+color: darkslategrey;
+font-style: italic;
+}
+.bold{
+    font-weight: 600;
+}
+</style>
+</head>
+<body>
+
+
+<div class="thank-head">Thanks for your order</div>
+<p>Hi {{user}}, please review your invoice. I look forward to our next meeting.</p>
+
+<div class="order_id">
+    <div>Your order ID is #{{my_order.order_id}}</div>
+    <div>A summary of your order is shown below.</div>
+</div>
+
+<h2 class="legend delivery">Order Summary</h2>
+<table class="customers">
+    <tr>
+        <th >Product Name</th>
+        <th >SKU</th>
+        <th >Model No</th>
+        <th >Quantity</th>
+        <th >Unit Price</th>
+        <th >Total</th>
+    </tr>
+
+
+        {% for order_item in my_order.order_items.all %}
+    <tr>
+        <td >{{ order_item.product_name }}
+        </td>
+        <td >{{ order_item.stock.sku }}
+        </td>
+        <td >
+            {% if order_item.stock.product.model_no %}
+            {{ order_item.stock.product.model_no }}</td>
+            {% else %}
+            N/A
+            {% endif %}
+        <td >{{ order_item.quantity }}</td>
+        <td><span class="current-price">Nrs. {{order_item.product_price}}</span>
+    </td>
+        <td class="text-right"><span>Nrs. {{ order_item.sub_total}}</span></td>
+    </tr>
+
+    {% endfor %}
+
+    <tr>
+        <td colspan="5" class="text-right"><strong>Flat Shipping
+                Rate:</strong></td>
+        <td class="text-right">Free (Inside Valley Only)</td>
+    </tr>
+
+    <tr>
+        <td colspan="5" class="text-right"><strong>Grand Total:</strong></td>
+        <td class="text-right">Nrs. {{my_order.total_price }}</td>
+    </tr>
+  
+</table>
+
+
+<div class="signature">
+    <div class="regards">
+        <p>Thanks,</p>
+        <p>Buzz</p>
+    </div>
+    <div class="signature-message">
+    <p>This is an automated notification. To protect the confidentiality of these communications, <span class="bold">please do not reply to this email.</span></p>
+<p>This mail was sent to you by The Buzz Team.</p></div>
+</div>
+
+  
+</body>
+</html>

@@ -1,0 +1,10 @@
+# Linter configuruation.
+[tool.isort]
+profile = "black"
+atomic = true
+extend_skip_glob = "migrations,scripts, .vscode, __pycache__, venv, .idea"
+line_length = 88
+
+
+[tool.black]
+extend-exclude = "migrations,scripts, .vscode, __pycache__, venv, .idea"

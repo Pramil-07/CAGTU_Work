@@ -1,0 +1,58 @@
+.root {
+    position: relative;
+}
+
+.label {
+    position: absolute;
+    z-index: 2;
+    padding-left: 2px;
+    padding-right: 2px;
+    top: 7px;
+    left: var(--mantine-spacing-sm);
+    pointer-events: none;
+    color: var(--mantine-color-gray-5); /* Default to light theme color */
+    transition:
+            transform 150ms ease,
+            font-size 150ms ease,
+            color 150ms ease;
+
+    &[data-floating] {
+        transform: translate(0, -16px); /* Adjusted to move label to the right */
+        background-color: #ffffff;
+        font-size: var(--mantine-font-size-xs);
+        font-weight: 500;
+        color: var(--mantine-color-black); /* Default to light theme floating color */
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .label {
+        color: var(--mantine-color-dark-3); /* Dark theme color */
+    }
+
+    .label[data-floating] {
+        color: var(--mantine-color-black); /* Dark theme floating color */
+    }
+}
+
+.required {
+    transition: opacity 150ms ease;
+    opacity: 0;
+
+    [data-floating] & {
+        opacity: 1;
+    }
+}
+
+.input {
+    &::placeholder {
+        transition: color 150ms ease;
+        color: transparent;
+    }
+
+    &[data-floating] {
+        &::placeholder {
+            color: var(--mantine-color-placeholder);
+        }
+    }
+}

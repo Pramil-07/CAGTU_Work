@@ -1,0 +1,30 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "rootDir": ".",
+        "sourceMap": true,
+        "declaration": false,
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "importHelpers": true,
+        "target": "es2015",
+        "module": "esnext",
+        "lib": ["es2017", "dom"],
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "baseUrl": ".",
+        "paths": {
+            "@cagtu-cms/buzz-admin/views": ["libs/buzz-admin/views/src/index.ts"],
+            "@cagtu-cms/cipher-admin-au/views": ["libs/cipher-admin-au/views/src/index.ts"],
+            "@cagtu-cms/cipher-admin/views": ["libs/cipher-admin/views/src/index.ts"],
+            "@cagtu-cms/cagtu-site/views": ["libs/cagtu-site/views/src/index.ts"],
+            "@cagtu-cms/data-access": ["libs/data-access/src/index.ts"],
+            "@cagtu-cms/ui-shared": ["libs/ui-shared/src/index.ts"],
+            "@cagtu-cms/ui-shared/views": ["libs/ui-shared/views/src/index.ts"],
+            "@cagtu-cms/ui-styles": ["libs/ui-styles/src/index.ts"],
+            "@cagtu-cms/util-formatter": ["libs/util-formatter/src/index.ts"]
+        }
+    },
+    "exclude": ["node_modules", "tmp"]
+}

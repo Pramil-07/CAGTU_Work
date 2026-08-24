@@ -1,0 +1,72 @@
+{
+    "type": "daily/weekly/custom",
+    "extra_data": [
+        {
+            "day": "Sun",
+            "shifts": [
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                }
+            ]
+        },
+        {
+            "day": "Mon",
+            "shifts": [
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                }
+            ]
+        },
+        {
+            "date": "2022-08-31",
+            "shifts": [
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                }
+            ]
+        },
+        {
+            "shifts": [
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                },
+                {
+                    "from": "value",
+                    "to": "value"
+                }
+            ]
+        }
+    ]
+}

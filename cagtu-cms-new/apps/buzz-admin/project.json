@@ -1,0 +1,82 @@
+{
+    "$schema": "../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "apps/buzz-admin/src",
+    "projectType": "application",
+    "targets": {
+        "build": {
+            "executor": "@nrwl/web:webpack",
+            "outputs": ["{options.outputPath}"],
+            "defaultConfiguration": "production",
+            "options": {
+                "compiler": "babel",
+                "outputPath": "dist/apps/buzz-admin",
+                "index": "apps/buzz-admin/src/index.html",
+                "baseHref": "/",
+                "main": "apps/buzz-admin/src/main.tsx",
+                "polyfills": "apps/buzz-admin/src/polyfills.ts",
+                "tsConfig": "apps/buzz-admin/tsconfig.app.json",
+                "assets": ["apps/buzz-admin/src/favicon.ico", "apps/buzz-admin/src/assets"],
+                "styles": ["apps/buzz-admin/src/styles.scss"],
+                "scripts": [],
+                "webpackConfig": "@nrwl/react/plugins/webpack"
+            },
+            "configurations": {
+                "development": {
+                    "extractLicenses": false,
+                    "optimization": false,
+                    "sourceMap": true,
+                    "vendorChunk": true
+                },
+                "production": {
+                    "fileReplacements": [
+                        {
+                            "replace": "apps/buzz-admin/src/environments/environment.ts",
+                            "with": "apps/buzz-admin/src/environments/environment.prod.ts"
+                        }
+                    ],
+                    "optimization": true,
+                    "outputHashing": "all",
+                    "sourceMap": false,
+                    "namedChunks": false,
+                    "extractLicenses": true,
+                    "vendorChunk": false
+                }
+            }
+        },
+        "serve": {
+            "executor": "@nrwl/web:dev-server",
+            "defaultConfiguration": "development",
+            "options": {
+                "buildTarget": "buzz-admin:build",
+                "hmr": true,
+                "port": 3011,
+                "host": "0.0.0.0"
+            },
+            "configurations": {
+                "development": {
+                    "buildTarget": "buzz-admin:build:development"
+                },
+                "production": {
+                    "buildTarget": "buzz-admin:build:production",
+                    "hmr": false
+                }
+            }
+        },
+        "lint": {
+            "executor": "@nrwl/linter:eslint",
+            "outputs": ["{options.outputFile}"],
+            "options": {
+                "lintFilePatterns": ["apps/buzz-admin/**/*.{ts,tsx,js,jsx}"]
+            }
+        },
+        "test": {
+            "executor": "@nrwl/jest:jest",
+            "outputs": ["coverage/apps/buzz-admin"],
+            "options": {
+                "jestConfig": "apps/buzz-admin/jest.config.ts",
+                "passWithNoTests": true
+            }
+        }
+    },
+    "tags": []
+}

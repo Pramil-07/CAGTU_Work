@@ -1,0 +1,66 @@
+[
+ {
+  "id": "1",
+  "created_at": "2022-10-16 12:10:12.317647+00",
+  "updated_at": "2022-10-16 12:10:12.317673+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Account and  Profile"
+ },
+ {
+  "id": "2",
+  "created_at": "2022-10-16 12:10:29.809512+00",
+  "updated_at": "2022-10-16 12:10:29.809534+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Payment"
+ },
+ {
+  "id": "3",
+  "created_at": "2022-10-16 12:10:47.369192+00",
+  "updated_at": "2022-10-16 12:10:47.369215+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Understanding HOMAALE"
+ },
+ {
+  "id": "4",
+  "created_at": "2022-10-16 12:11:24.039175+00",
+  "updated_at": "2022-10-16 12:11:24.039199+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Categories"
+ },
+ {
+  "id": "5",
+  "created_at": "2022-10-17 06:28:06.147738+00",
+  "updated_at": "2022-10-17 06:28:06.147761+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Homaale Registration"
+ },
+ {
+  "id": "6",
+  "created_at": "2022-10-17 06:28:21.430084+00",
+  "updated_at": "2022-10-17 06:28:21.430107+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Profile"
+ },
+ {
+  "id": "7",
+  "created_at": "2022-10-17 06:28:36.06334+00",
+  "updated_at": "2022-10-17 06:28:36.063362+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "KYC"
+ },
+ {
+  "id": "8",
+  "created_at": "2022-10-17 06:29:24.047228+00",
+  "updated_at": "2022-10-17 06:42:00.930949+00",
+  "deleted_at": null,
+  "status": "Active",
+  "topic": "Password and Security"
+ }
+]

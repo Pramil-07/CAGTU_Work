@@ -1,0 +1,72 @@
+<div style="background-color: white; padding: 20px;">
+            <span style="font-weight: bold; font-weight: bold;color: #54595E;font-size: 14px;
+    text-transform: uppercase;">Join Our Pack</span>
+	<table style="border-spacing: 20px;">
+		<tbody>
+		<tr>
+			<td>
+				<a href="https://www.facebook.com/profile.php?id=100086263383456" target="_blank"
+					 style="text-decoration: none;">
+					<img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/facebook.png"
+							 alt="homaale-facebook" style="height: 32px; width: 32px;">
+				</a>
+			</td>
+			<td>
+				<a href="https://www.youtube.com/channel/UC34GcuH4VgI7oebYJAhEpWg" target="_blank"
+					 style="text-decoration: none; ">
+					<img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/youtube.png"
+							 alt="homaale-google" style="height: 32px; width: 32px;">
+				</a>
+			</td>
+			<td>
+				<a href="https://www.instagram.com/homaaleservices/" target="_blank"
+					 style="text-decoration: none; ">
+					<img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/instagram.png"
+							 alt="homaale-instagram" style="height: 32px; width: 32px;">
+				</a>
+			</td>
+			<td>
+				<a href="https://www.tiktok.com/@homaaleservices" target="_blank"
+					 style="text-decoration: none; ">
+					<img src="https://cipher-media-files.s3.ap-southeast-2.amazonaws.com/res/email/tik-tok.png"
+							 alt="homaale-linkedin" style="height: 32px; width: 32px;">
+				</a>
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	<div style="color: #868E96; margin-bottom: 20px; font-size: 14px">
+		We hope you enjoy receiving emails from Homaale.
+	</div>
+
+	{% if unsubscribe %}
+	<div style="color: #ADB5BD; font-size: 12px; margin-bottom: 12px; font-weight: 400">
+		If you prefer not to receive our emails, please click
+		<a href="{{ app_domain }}/api/v1/support/newsletter/unsubscribe/{{ email }}"
+			 style="color: #ADB5BD; text-decoration: underline;"
+		>unsubscribe</a>.
+	</div>
+	{% endif %}
+	<center style="margin-bottom: 12px;">
+		<a style="color: #ADB5BD; font-size: 12px; ">https://www.homaale.com</a>
+	</center>
+	<table style="margin-bottom: 8px">
+		<tbody>
+		<tr style="color: #54595E99; font-size: 12px; font-weight: 600; ">
+			<td style="padding: 0px 10px;">
+				<a href="{{ web_url }}/help"
+					 style="color: #54595E99; text-decoration: underline;">Help Center</a>
+			</td>
+			<td style="padding: 0px 10px;">|</td>
+			<td style="padding: 0px 10px;">
+				<a href="{{ web_url }}/privacy-policy"
+					 style="color: #54595E99; text-decoration: underline;">Privacy Policy</a>
+
+			</td>
+		</tr>
+		</tbody>
+	</table>
+
+
+</div>
+

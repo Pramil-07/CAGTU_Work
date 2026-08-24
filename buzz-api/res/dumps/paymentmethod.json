@@ -1,0 +1,134 @@
+[
+ {
+  "model": "payment.paymentmethod",
+  "pk": 1,
+  "fields": {
+   "name": "Khalti",
+   "description": null,
+   "slug": "khalti",
+   "country": "NP",
+   "is_partner": true,
+   "logo": "payment_methods/khalti_rmcyF4Z.jpg",
+   "is_active": true,
+   "allow_withdraw": false,
+   "allow_deposit": true,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "wallet"
+  }
+ },
+ {
+  "model": "payment.paymentmethod",
+  "pk": 2,
+  "fields": {
+   "name": "Esewa",
+   "description": null,
+   "slug": "esewa",
+   "country": "NP",
+   "is_partner": false,
+   "logo": "payment_methods/esewa.png",
+   "is_active": true,
+   "allow_withdraw": true,
+   "allow_deposit": false,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "wallet"
+  }
+ },
+ {
+  "model": "payment.paymentmethod",
+  "pk": 3,
+  "fields": {
+   "name": "Stripe",
+   "description": null,
+   "slug": "stripe",
+   "country": null,
+   "is_partner": true,
+   "logo": "payment_methods/stripe_gAuRYBS.png",
+   "is_active": true,
+   "allow_withdraw": false,
+   "allow_deposit": true,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "card"
+  }
+ },
+ {
+  "model": "payment.paymentmethod",
+  "pk": 4,
+  "fields": {
+   "name": "Wallet Transfer",
+   "description": null,
+   "slug": "wallet",
+   "country": null,
+   "is_partner": true,
+   "logo": "payment_methods/homaale_512x512.png",
+   "is_active": true,
+   "allow_withdraw": true,
+   "allow_deposit": true,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "wallet"
+  }
+ },
+ {
+  "model": "payment.paymentmethod",
+  "pk": 5,
+  "fields": {
+   "name": "Paypal",
+   "description": null,
+   "slug": "paypal",
+   "country": null,
+   "is_partner": false,
+   "logo": "payment_methods/paypal.png",
+   "is_active": true,
+   "allow_withdraw": true,
+   "allow_deposit": true,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "card"
+  }
+ },
+ {
+  "model": "payment.paymentmethod",
+  "pk": 6,
+  "fields": {
+   "name": "Connect IPS",
+   "description": "Connect IPS",
+   "slug": "connect_ips",
+   "country": "NP",
+   "is_partner": true,
+   "logo": "payment_methods/cips.png",
+   "is_active": true,
+   "allow_withdraw": true,
+   "allow_deposit": true,
+   "client_id": null,
+   "public_key": null,
+   "secret_key": null,
+   "extra_args": {
+    "key": "value"
+   },
+   "type": "wallet"
+  }
+ }
+]

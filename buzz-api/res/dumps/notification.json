@@ -1,0 +1,158 @@
+[
+ {
+  "model": "notification.notificationpreference",
+  "pk": 3,
+  "fields": {
+   "user": "82b193ed-7acd-484d-8fea-6b6c5649eac1",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 4,
+  "fields": {
+   "user": "d3ce173e-eaf5-42d2-b353-ae65aa8da63e",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 5,
+  "fields": {
+   "user": "addc7448-9129-431c-b14c-d6d66e3ea7a4",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 6,
+  "fields": {
+   "user": "30864a16-c371-4abc-abd7-85f5686165d2",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 7,
+  "fields": {
+   "user": "ea32d949-d7a7-46a7-bbcb-dff5c861acec",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 8,
+  "fields": {
+   "user": "afd85237-4c6d-46f2-8ff2-ac9a68513717",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 10,
+  "fields": {
+   "user": "00000000-0000-0000-0000-000000000001",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 11,
+  "fields": {
+   "user": "5f7987b6-bc8b-4cd7-9919-734fb6e41e06",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 12,
+  "fields": {
+   "user": "66895b5d-30cf-4c45-a4cd-8833922b054a",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 13,
+  "fields": {
+   "user": "773ae929-deb3-4d64-9430-f5c26d82e004",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 14,
+  "fields": {
+   "user": "d3009c53-cc1b-4674-814e-edb325c57809",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 16,
+  "fields": {
+   "user": "8f7e3a26-7bf9-4b8d-b371-8eae289d2052",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ },
+ {
+  "model": "notification.notificationpreference",
+  "pk": 23,
+  "fields": {
+   "user": "b0c4d93e-f005-48d3-b711-892a045cfcff",
+   "promotional_notification": true,
+   "reminder_notification": true,
+   "alert_notification": true,
+   "geolocation_notification": true,
+   "muted": false
+  }
+ }
+]

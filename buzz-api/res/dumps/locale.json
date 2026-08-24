@@ -1,0 +1,4880 @@
+[
+  {
+    "model": "locale.currency",
+    "pk": "AED",
+    "fields": {
+      "name": "UAE Dirham",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AFN",
+    "fields": {
+      "name": "Afghani",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ALL",
+    "fields": {
+      "name": "Lek",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AMD",
+    "fields": {
+      "name": "Armenian Dram",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ANG",
+    "fields": {
+      "name": "Netherlands Antillean Guilder",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AOA",
+    "fields": {
+      "name": "Kwanza",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ARS",
+    "fields": {
+      "name": "Argentine Peso",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AUD",
+    "fields": {
+      "name": "Australian Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "A$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AWG",
+    "fields": {
+      "name": "Aruban Florin",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "AZN",
+    "fields": {
+      "name": "Azerbaijan Manat",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BAM",
+    "fields": {
+      "name": "Convertible Mark",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BBD",
+    "fields": {
+      "name": "Barbados Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BDT",
+    "fields": {
+      "name": "Taka",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BGN",
+    "fields": {
+      "name": "Bulgarian Lev",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BHD",
+    "fields": {
+      "name": "Bahraini Dinar",
+      "minor": 1000,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BIF",
+    "fields": {
+      "name": "Burundi Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BMD",
+    "fields": {
+      "name": "Bermudian Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BND",
+    "fields": {
+      "name": "Brunei Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BOB",
+    "fields": {
+      "name": "Boliviano",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BOV",
+    "fields": {
+      "name": "Mvdol",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BRL",
+    "fields": {
+      "name": "Brazilian Real",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BSD",
+    "fields": {
+      "name": "Bahamian Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BTN",
+    "fields": {
+      "name": "Ngultrum",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BWP",
+    "fields": {
+      "name": "Pula",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BYN",
+    "fields": {
+      "name": "Belarusian Ruble",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "BZD",
+    "fields": {
+      "name": "Belize Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CAD",
+    "fields": {
+      "name": "Canadian Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CDF",
+    "fields": {
+      "name": "Congolese Franc",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CHE",
+    "fields": {
+      "name": "WIR Euro",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CHF",
+    "fields": {
+      "name": "Swiss Franc",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CHW",
+    "fields": {
+      "name": "WIR Franc",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CLF",
+    "fields": {
+      "name": "Unidad de Fomento",
+      "minor": 10000,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CLP",
+    "fields": {
+      "name": "Chilean Peso",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CNY",
+    "fields": {
+      "name": "Yuan Renminbi",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "COP",
+    "fields": {
+      "name": "Colombian Peso",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "COU",
+    "fields": {
+      "name": "Unidad de Valor Real",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CRC",
+    "fields": {
+      "name": "Costa Rican Colon",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CUC",
+    "fields": {
+      "name": "Peso Convertible",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CUP",
+    "fields": {
+      "name": "Cuban Peso",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CVE",
+    "fields": {
+      "name": "Cabo Verde Escudo",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "CZK",
+    "fields": {
+      "name": "Czech Koruna",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "DJF",
+    "fields": {
+      "name": "Djibouti Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "DKK",
+    "fields": {
+      "name": "Danish Krone",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "DOP",
+    "fields": {
+      "name": "Dominican Peso",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "DZD",
+    "fields": {
+      "name": "Algerian Dinar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "EGP",
+    "fields": {
+      "name": "Egyptian Pound",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ERN",
+    "fields": {
+      "name": "Nakfa",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ETB",
+    "fields": {
+      "name": "Ethiopian Birr",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "EUR",
+    "fields": {
+      "name": "Euro",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "€"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "FJD",
+    "fields": {
+      "name": "Fiji Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "FKP",
+    "fields": {
+      "name": "Falkland Islands Pound",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GBP",
+    "fields": {
+      "name": "Pound Sterling",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "£"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GEL",
+    "fields": {
+      "name": "Lari",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GHS",
+    "fields": {
+      "name": "Ghana Cedi",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GIP",
+    "fields": {
+      "name": "Gibraltar Pound",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GMD",
+    "fields": {
+      "name": "Dalasi",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GNF",
+    "fields": {
+      "name": "Guinean Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GTQ",
+    "fields": {
+      "name": "Quetzal",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "GYD",
+    "fields": {
+      "name": "Guyana Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "HKD",
+    "fields": {
+      "name": "Hong Kong Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "HNL",
+    "fields": {
+      "name": "Lempira",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "HRK",
+    "fields": {
+      "name": "Kuna",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "HTG",
+    "fields": {
+      "name": "Gourde",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "HUF",
+    "fields": {
+      "name": "Forint",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "IDR",
+    "fields": {
+      "name": "Rupiah",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ILS",
+    "fields": {
+      "name": "New Israeli Sheqel",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "INR",
+    "fields": {
+      "name": "Indian Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "₹"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "IQD",
+    "fields": {
+      "name": "Iraqi Dinar",
+      "minor": 1000,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "IRR",
+    "fields": {
+      "name": "Iranian Rial",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ISK",
+    "fields": {
+      "name": "Iceland Krona",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "JMD",
+    "fields": {
+      "name": "Jamaican Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "JOD",
+    "fields": {
+      "name": "Jordanian Dinar",
+      "minor": 1000,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "JPY",
+    "fields": {
+      "name": "Yen",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "¥"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KES",
+    "fields": {
+      "name": "Kenyan Shilling",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KGS",
+    "fields": {
+      "name": "Som",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KHR",
+    "fields": {
+      "name": "Riel",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KMF",
+    "fields": {
+      "name": "Comorian Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KPW",
+    "fields": {
+      "name": "North Korean Won",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KRW",
+    "fields": {
+      "name": "Won",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KWD",
+    "fields": {
+      "name": "Kuwaiti Dinar",
+      "minor": 1000,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KYD",
+    "fields": {
+      "name": "Cayman Islands Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "KZT",
+    "fields": {
+      "name": "Tenge",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LAK",
+    "fields": {
+      "name": "Lao Kip",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LBP",
+    "fields": {
+      "name": "Lebanese Pound",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LKR",
+    "fields": {
+      "name": "Sri Lanka Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LRD",
+    "fields": {
+      "name": "Liberian Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LSL",
+    "fields": {
+      "name": "Loti",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "LYD",
+    "fields": {
+      "name": "Libyan Dinar",
+      "minor": 1000,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MAD",
+    "fields": {
+      "name": "Moroccan Dirham",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MDL",
+    "fields": {
+      "name": "Moldovan Leu",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MGA",
+    "fields": {
+      "name": "Malagasy Ariary",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MKD",
+    "fields": {
+      "name": "Denar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MMK",
+    "fields": {
+      "name": "Kyat",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MNT",
+    "fields": {
+      "name": "Tugrik",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MOP",
+    "fields": {
+      "name": "Pataca",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MRU",
+    "fields": {
+      "name": "Ouguiya",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MUR",
+    "fields": {
+      "name": "Mauritius Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MVR",
+    "fields": {
+      "name": "Rufiyaa",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MWK",
+    "fields": {
+      "name": "Malawi Kwacha",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MXN",
+    "fields": {
+      "name": "Mexican Peso",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MXV",
+    "fields": {
+      "name": "Mexican Unidad de Inversion (UDI)",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MYR",
+    "fields": {
+      "name": "Malaysian Ringgit",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "MZN",
+    "fields": {
+      "name": "Mozambique Metical",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NAD",
+    "fields": {
+      "name": "Namibia Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NGN",
+    "fields": {
+      "name": "Naira",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NIO",
+    "fields": {
+      "name": "Cordoba Oro",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NOK",
+    "fields": {
+      "name": "Norwegian Krone",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NPR",
+    "fields": {
+      "name": "Nepalese Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "रु"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "NZD",
+    "fields": {
+      "name": "New Zealand Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "OMR",
+    "fields": {
+      "name": "Rial Omani",
+      "minor": 1000,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PAB",
+    "fields": {
+      "name": "Balboa",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PEN",
+    "fields": {
+      "name": "Sol",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PGK",
+    "fields": {
+      "name": "Kina",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PHP",
+    "fields": {
+      "name": "Philippine Peso",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PKR",
+    "fields": {
+      "name": "Pakistan Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PLN",
+    "fields": {
+      "name": "Zloty",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "PYG",
+    "fields": {
+      "name": "Guarani",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "QAR",
+    "fields": {
+      "name": "Qatari Rial",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "RON",
+    "fields": {
+      "name": "Romanian Leu",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "RSD",
+    "fields": {
+      "name": "Serbian Dinar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "RUB",
+    "fields": {
+      "name": "Russian Ruble",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "RWF",
+    "fields": {
+      "name": "Rwanda Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SAR",
+    "fields": {
+      "name": "Saudi Riyal",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SBD",
+    "fields": {
+      "name": "Solomon Islands Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SCR",
+    "fields": {
+      "name": "Seychelles Rupee",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SDG",
+    "fields": {
+      "name": "Sudanese Pound",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SEK",
+    "fields": {
+      "name": "Swedish Krona",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SGD",
+    "fields": {
+      "name": "Singapore Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SHP",
+    "fields": {
+      "name": "Saint Helena Pound",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SLL",
+    "fields": {
+      "name": "Leone",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SOS",
+    "fields": {
+      "name": "Somali Shilling",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SRD",
+    "fields": {
+      "name": "Surinam Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SSP",
+    "fields": {
+      "name": "South Sudanese Pound",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "STN",
+    "fields": {
+      "name": "Dobra",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SVC",
+    "fields": {
+      "name": "El Salvador Colon",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SYP",
+    "fields": {
+      "name": "Syrian Pound",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "SZL",
+    "fields": {
+      "name": "Lilangeni",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TestD",
+    "fields": {
+      "name": "Test Dollars",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": true,
+      "current_value": 100.0,
+      "is_default": true,
+      "enable_currency_configuration": false,
+      "symbol": null
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "THB",
+    "fields": {
+      "name": "Baht",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TJS",
+    "fields": {
+      "name": "Somoni",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TMT",
+    "fields": {
+      "name": "Turkmenistan New Manat",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TND",
+    "fields": {
+      "name": "Tunisian Dinar",
+      "minor": 1000,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TOP",
+    "fields": {
+      "name": "Pa'anga",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TRY",
+    "fields": {
+      "name": "Turkish Lira",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TTD",
+    "fields": {
+      "name": "Trinidad and Tobago Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TWD",
+    "fields": {
+      "name": "New Taiwan Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "TZS",
+    "fields": {
+      "name": "Tanzanian Shilling",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UAH",
+    "fields": {
+      "name": "Hryvnia",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UGX",
+    "fields": {
+      "name": "Uganda Shilling",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "USD",
+    "fields": {
+      "name": "United States Dollar",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 11.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "USN",
+    "fields": {
+      "name": "US Dollar (Next day)",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UYI",
+    "fields": {
+      "name": "Uruguay Peso en Unidades Indexadas (UI)",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UYU",
+    "fields": {
+      "name": "Peso Uruguayo",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UYW",
+    "fields": {
+      "name": "Unidad Previsional",
+      "minor": 10000,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "UZS",
+    "fields": {
+      "name": "Uzbekistan Sum",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "VES",
+    "fields": {
+      "name": "Bolívar Soberano",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "VND",
+    "fields": {
+      "name": "Dong",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "VUV",
+    "fields": {
+      "name": "Vatu",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "WST",
+    "fields": {
+      "name": "Tala",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XAF",
+    "fields": {
+      "name": "CFA Franc BEAC",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XAG",
+    "fields": {
+      "name": "Silver",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XCD",
+    "fields": {
+      "name": "East Caribbean Dollar",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XDR",
+    "fields": {
+      "name": "SDR (Special Drawing Right)",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XOF",
+    "fields": {
+      "name": "CFA Franc BCEAO",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XPD",
+    "fields": {
+      "name": "Palladium",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XPF",
+    "fields": {
+      "name": "CFP Franc",
+      "minor": 1,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XPT",
+    "fields": {
+      "name": "Platinum",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XSU",
+    "fields": {
+      "name": "Sucre",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "XUA",
+    "fields": {
+      "name": "ADB Unit of Account",
+      "minor": 1,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "YER",
+    "fields": {
+      "name": "Yemeni Rial",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ZAR",
+    "fields": {
+      "name": "Rand",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ZMW",
+    "fields": {
+      "name": "Zambian Kwacha",
+      "minor": 100,
+      "supports_stripe": true,
+      "is_active": true,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.currency",
+    "pk": "ZWL",
+    "fields": {
+      "name": "Zimbabwe Dollar",
+      "minor": 100,
+      "supports_stripe": false,
+      "is_active": false,
+      "current_value": 1.0,
+      "is_default": false,
+      "enable_currency_configuration": false,
+      "symbol": "$"
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "",
+    "fields": {
+      "name": "Australian English",
+      "is_active": true,
+      "is_default": true,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "af",
+    "fields": {
+      "name": "Afrikaans",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ak",
+    "fields": {
+      "name": "Akan",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "am",
+    "fields": {
+      "name": "Amharic",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ar",
+    "fields": {
+      "name": "Arabic",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "as",
+    "fields": {
+      "name": "Assamese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "az",
+    "fields": {
+      "name": "Azerbaijani",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "be",
+    "fields": {
+      "name": "Belarusian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "bg",
+    "fields": {
+      "name": "Bulgarian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "bm",
+    "fields": {
+      "name": "Bambara",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "bn",
+    "fields": {
+      "name": "Bengali",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "bo",
+    "fields": {
+      "name": "Tibetan",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "br",
+    "fields": {
+      "name": "Breton",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "bs",
+    "fields": {
+      "name": "Bosnian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ca",
+    "fields": {
+      "name": "Catalan",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "cs",
+    "fields": {
+      "name": "Czech",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "cy",
+    "fields": {
+      "name": "Welsh",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "da",
+    "fields": {
+      "name": "Danish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "de",
+    "fields": {
+      "name": "German",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "dz",
+    "fields": {
+      "name": "Dzongkha",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ee",
+    "fields": {
+      "name": "Ewe",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "el",
+    "fields": {
+      "name": "Greek",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "en",
+    "fields": {
+      "name": "English",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "eo",
+    "fields": {
+      "name": "Esperanto",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "es",
+    "fields": {
+      "name": "Spanish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "et",
+    "fields": {
+      "name": "Estonian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "eu",
+    "fields": {
+      "name": "Basque",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "fa",
+    "fields": {
+      "name": "Persian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ff",
+    "fields": {
+      "name": "Fulah",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "fi",
+    "fields": {
+      "name": "Finnish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "fo",
+    "fields": {
+      "name": "Faroese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "fr",
+    "fields": {
+      "name": "French",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "fy",
+    "fields": {
+      "name": "Western Frisian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ga",
+    "fields": {
+      "name": "Irish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "gd",
+    "fields": {
+      "name": "Scottish Gaelic",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "gl",
+    "fields": {
+      "name": "Galician",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "gu",
+    "fields": {
+      "name": "Gujarati",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "gv",
+    "fields": {
+      "name": "Manx",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ha",
+    "fields": {
+      "name": "Hausa",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "he",
+    "fields": {
+      "name": "Hebrew",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "hi",
+    "fields": {
+      "name": "Hindi",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "hr",
+    "fields": {
+      "name": "Croatian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "hu",
+    "fields": {
+      "name": "Hungarian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "hy",
+    "fields": {
+      "name": "Armenian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "id",
+    "fields": {
+      "name": "Indonesian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ig",
+    "fields": {
+      "name": "Igbo",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ii",
+    "fields": {
+      "name": "Sichuan Yi",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "is",
+    "fields": {
+      "name": "Icelandic",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "it",
+    "fields": {
+      "name": "Italian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ja",
+    "fields": {
+      "name": "Japanese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ka",
+    "fields": {
+      "name": "Georgian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ki",
+    "fields": {
+      "name": "Kikuyu",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "kk",
+    "fields": {
+      "name": "Kazakh",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "kl",
+    "fields": {
+      "name": "Kalaallisut",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "km",
+    "fields": {
+      "name": "Khmer",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "kn",
+    "fields": {
+      "name": "Kannada",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ko",
+    "fields": {
+      "name": "Korean",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ks",
+    "fields": {
+      "name": "Kashmiri",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "kw",
+    "fields": {
+      "name": "Cornish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ky",
+    "fields": {
+      "name": "Kyrgyz",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lb",
+    "fields": {
+      "name": "Luxembourgish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lg",
+    "fields": {
+      "name": "Ganda",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ln",
+    "fields": {
+      "name": "Lingala",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lo",
+    "fields": {
+      "name": "Lao",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lt",
+    "fields": {
+      "name": "Lithuanian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lu",
+    "fields": {
+      "name": "Luba-Katanga",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "lv",
+    "fields": {
+      "name": "Latvian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "mg",
+    "fields": {
+      "name": "Malagasy",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "mk",
+    "fields": {
+      "name": "Macedonian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ml",
+    "fields": {
+      "name": "Malayalam",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "mn",
+    "fields": {
+      "name": "Mongolian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "mr",
+    "fields": {
+      "name": "Marathi",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ms",
+    "fields": {
+      "name": "Malay",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "mt",
+    "fields": {
+      "name": "Maltese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "my",
+    "fields": {
+      "name": "Burmese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "nb",
+    "fields": {
+      "name": "Norwegian Bokmål",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "nd",
+    "fields": {
+      "name": "North Ndebele",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ne",
+    "fields": {
+      "name": "Nepali",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "nl",
+    "fields": {
+      "name": "Dutch",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "nn",
+    "fields": {
+      "name": "Norwegian Nynorsk",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "no",
+    "fields": {
+      "name": "Norwegian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "om",
+    "fields": {
+      "name": "Oromo",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "or",
+    "fields": {
+      "name": "Oriya",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "os",
+    "fields": {
+      "name": "Ossetic",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "pa",
+    "fields": {
+      "name": "Punjabi",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "pl",
+    "fields": {
+      "name": "Polish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ps",
+    "fields": {
+      "name": "Pashto",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "pt",
+    "fields": {
+      "name": "Portuguese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "qu",
+    "fields": {
+      "name": "Quechua",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "rm",
+    "fields": {
+      "name": "Romansh",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "rn",
+    "fields": {
+      "name": "Rundi",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ro",
+    "fields": {
+      "name": "Romanian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ru",
+    "fields": {
+      "name": "Russian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "rw",
+    "fields": {
+      "name": "Kinyarwanda",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "se",
+    "fields": {
+      "name": "Northern Sami",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sg",
+    "fields": {
+      "name": "Sango",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sh",
+    "fields": {
+      "name": "Serbo-Croatian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "si",
+    "fields": {
+      "name": "Sinhala",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sk",
+    "fields": {
+      "name": "Slovak",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sl",
+    "fields": {
+      "name": "Slovenian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sn",
+    "fields": {
+      "name": "Shona",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "so",
+    "fields": {
+      "name": "Somali",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sq",
+    "fields": {
+      "name": "Albanian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sr",
+    "fields": {
+      "name": "Serbian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sv",
+    "fields": {
+      "name": "Swedish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "sw",
+    "fields": {
+      "name": "Swahili",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ta",
+    "fields": {
+      "name": "Tamil",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "te",
+    "fields": {
+      "name": "Telugu",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "th",
+    "fields": {
+      "name": "Thai",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ti",
+    "fields": {
+      "name": "Tigrinya",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "tl",
+    "fields": {
+      "name": "Tagalog",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "to",
+    "fields": {
+      "name": "Tongan",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "tr",
+    "fields": {
+      "name": "Turkish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ug",
+    "fields": {
+      "name": "Uyghur",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "uk",
+    "fields": {
+      "name": "Ukrainian",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "ur",
+    "fields": {
+      "name": "Urdu",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "uz",
+    "fields": {
+      "name": "Uzbek",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "vi",
+    "fields": {
+      "name": "Vietnamese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "yi",
+    "fields": {
+      "name": "Yiddish",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "yo",
+    "fields": {
+      "name": "Yoruba",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "zh",
+    "fields": {
+      "name": "Chinese",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.language",
+    "pk": "zu",
+    "fields": {
+      "name": "Zulu",
+      "is_active": true,
+      "is_default": false,
+      "enable_language_configuration": false
+    }
+  },
+  {
+    "model": "locale.country",
+    "pk": "AU",
+    "fields": {
+      "is_active": false,
+      "name": "Australia",
+      "local_name": "Australia",
+      "phone_code": "61",
+      "currency": "NPR",
+      "language": "en"
+    }
+  },
+  {
+    "model": "locale.country",
+    "pk": "NP",
+    "fields": {
+      "is_active": true,
+      "name": "Nepal",
+      "local_name": "Nepal",
+      "phone_code": "977",
+      "currency": "NPR",
+      "language": "en"
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 1,
+    "fields": {
+      "name": "Sydney",
+      "local_name": "sid",
+      "country": "AU",
+      "zip_code": "123",
+      "latitude": 0.0,
+      "longitude": 0.0
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26064,
+    "fields": {
+      "name": "Kathmandu",
+      "local_name": "Kathmandu",
+      "country": "NP",
+      "zip_code": "-40547111",
+      "latitude": 27.7167,
+      "longitude": 85.3667
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26065,
+    "fields": {
+      "name": "Pokhara",
+      "local_name": "Pokhara",
+      "country": "NP",
+      "zip_code": "-551257",
+      "latitude": 28.2097,
+      "longitude": 83.9853
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26066,
+    "fields": {
+      "name": "Jitpur",
+      "local_name": "Jitpur",
+      "country": "NP",
+      "zip_code": "-349453",
+      "latitude": 27.6666,
+      "longitude": 85.3333
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26067,
+    "fields": {
+      "name": "Biratnagar",
+      "local_name": "Birāṭnagar",
+      "country": "NP",
+      "zip_code": "-532048",
+      "latitude": 26.4833,
+      "longitude": 87.2833
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26068,
+    "fields": {
+      "name": "Ghorahi",
+      "local_name": "Ghorāhī",
+      "country": "NP",
+      "zip_code": "-594516",
+      "latitude": 28.0408,
+      "longitude": 82.4861
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26069,
+    "fields": {
+      "name": "Bharatpur",
+      "local_name": "Bharatpur",
+      "country": "NP",
+      "zip_code": "-431154",
+      "latitude": 27.6833,
+      "longitude": 84.4333
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26070,
+    "fields": {
+      "name": "Birganj",
+      "local_name": "Birgañj",
+      "country": "NP",
+      "zip_code": "-816047",
+      "latitude": 27.0,
+      "longitude": 84.8667
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26071,
+    "fields": {
+      "name": "Butwal",
+      "local_name": "Butwāl",
+      "country": "NP",
+      "zip_code": "-798064",
+      "latitude": 27.7,
+      "longitude": 83.45
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26072,
+    "fields": {
+      "name": "Dharan",
+      "local_name": "Dharān",
+      "country": "NP",
+      "zip_code": "-511587",
+      "latitude": 26.8167,
+      "longitude": 87.2667
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26073,
+    "fields": {
+      "name": "Dhangadhi",
+      "local_name": "Dhangaḍhi̇̄",
+      "country": "NP",
+      "zip_code": "-128394",
+      "latitude": 28.7056,
+      "longitude": 80.575
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26074,
+    "fields": {
+      "name": "Janakpur",
+      "local_name": "Janakpur",
+      "country": "NP",
+      "zip_code": "-817538",
+      "latitude": 26.7122,
+      "longitude": 85.9217
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26075,
+    "fields": {
+      "name": "Hetauda",
+      "local_name": "Heṭauḍā",
+      "country": "NP",
+      "zip_code": "-540166",
+      "latitude": 27.4167,
+      "longitude": 85.0333
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26076,
+    "fields": {
+      "name": "Kirtipur",
+      "local_name": "Kirtipur",
+      "country": "NP",
+      "zip_code": "-630233",
+      "latitude": 27.6667,
+      "longitude": 85.2833
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26077,
+    "fields": {
+      "name": "Godawari",
+      "local_name": "Godāwari̇̄",
+      "country": "NP",
+      "zip_code": "-911165",
+      "latitude": 28.91,
+      "longitude": 80.59
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26078,
+    "fields": {
+      "name": "Birendranagar",
+      "local_name": "Birendranagar",
+      "country": "NP",
+      "zip_code": "-904486",
+      "latitude": 28.6,
+      "longitude": 81.6333
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26079,
+    "fields": {
+      "name": "Siraha",
+      "local_name": "Siraha",
+      "country": "NP",
+      "zip_code": "-191849",
+      "latitude": 26.6528,
+      "longitude": 86.2069
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26080,
+    "fields": {
+      "name": "Bhaktapur",
+      "local_name": "Bhaktapur",
+      "country": "NP",
+      "zip_code": "-449063",
+      "latitude": 27.6722,
+      "longitude": 85.4278
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26081,
+    "fields": {
+      "name": "Itahari",
+      "local_name": "Īṭahari̇̄",
+      "country": "NP",
+      "zip_code": "-164901",
+      "latitude": 26.6667,
+      "longitude": 87.2833
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26082,
+    "fields": {
+      "name": "Nepalganj",
+      "local_name": "Nepālgañj",
+      "country": "NP",
+      "zip_code": "-32655",
+      "latitude": 28.05,
+      "longitude": 81.6167
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26083,
+    "fields": {
+      "name": "Bhairahawa",
+      "local_name": "Bhairāhawā",
+      "country": "NP",
+      "zip_code": "-973699",
+      "latitude": 27.5,
+      "longitude": 83.45
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26084,
+    "fields": {
+      "name": "Tilakpur",
+      "local_name": "Tilakpur",
+      "country": "NP",
+      "zip_code": "-140103",
+      "latitude": 28.5278,
+      "longitude": 81.1189
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26085,
+    "fields": {
+      "name": "Gulariya",
+      "local_name": "Gulariyā",
+      "country": "NP",
+      "zip_code": "-664304",
+      "latitude": 28.2056,
+      "longitude": 81.3472
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26086,
+    "fields": {
+      "name": "Tulsipur",
+      "local_name": "Tulsīpur",
+      "country": "NP",
+      "zip_code": "-223210",
+      "latitude": 28.1278,
+      "longitude": 82.2956
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26087,
+    "fields": {
+      "name": "Kalaiya",
+      "local_name": "Kalaiyā",
+      "country": "NP",
+      "zip_code": "-981741",
+      "latitude": 27.0333,
+      "longitude": 85.0
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26088,
+    "fields": {
+      "name": "Hanumannagar",
+      "local_name": "Hanumānnagar",
+      "country": "NP",
+      "zip_code": "-965291",
+      "latitude": 26.5394,
+      "longitude": 86.7483
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26089,
+    "fields": {
+      "name": "Baglung",
+      "local_name": "Bāglung",
+      "country": "NP",
+      "zip_code": "-824084",
+      "latitude": 28.2667,
+      "longitude": 83.6
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26090,
+    "fields": {
+      "name": "Palpa",
+      "local_name": "Pālpā",
+      "country": "NP",
+      "zip_code": "-825074",
+      "latitude": 27.8667,
+      "longitude": 83.55
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26091,
+    "fields": {
+      "name": "Bidur",
+      "local_name": "Bidur",
+      "country": "NP",
+      "zip_code": "-429297",
+      "latitude": 27.8961,
+      "longitude": 85.1456
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26092,
+    "fields": {
+      "name": "Panauti",
+      "local_name": "Panauti",
+      "country": "NP",
+      "zip_code": "-445359",
+      "latitude": 27.5844,
+      "longitude": 85.5147
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26093,
+    "fields": {
+      "name": "Khadbari",
+      "local_name": "Khā̃dbāri̇̄",
+      "country": "NP",
+      "zip_code": "-988778",
+      "latitude": 27.3667,
+      "longitude": 87.2167
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26094,
+    "fields": {
+      "name": "Malangawa",
+      "local_name": "Malaṅgawā",
+      "country": "NP",
+      "zip_code": "-134625",
+      "latitude": 26.8667,
+      "longitude": 85.5667
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26095,
+    "fields": {
+      "name": "Jaleshwar",
+      "local_name": "Jaleshwar",
+      "country": "NP",
+      "zip_code": "-782842",
+      "latitude": 26.65,
+      "longitude": 85.8
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26096,
+    "fields": {
+      "name": "Daksinkali",
+      "local_name": "Dakṣiṇkāli̇̄",
+      "country": "NP",
+      "zip_code": "-92962",
+      "latitude": 27.6089,
+      "longitude": 85.2672
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26097,
+    "fields": {
+      "name": "Dadeldhura",
+      "local_name": "Dadeldhurā",
+      "country": "NP",
+      "zip_code": "-828963",
+      "latitude": 29.3,
+      "longitude": 80.6
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26098,
+    "fields": {
+      "name": "Ilam",
+      "local_name": "Īlām",
+      "country": "NP",
+      "zip_code": "-500786",
+      "latitude": 26.908,
+      "longitude": 87.926
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26099,
+    "fields": {
+      "name": "Salyan",
+      "local_name": "Salyan",
+      "country": "NP",
+      "zip_code": "-496199",
+      "latitude": 28.35,
+      "longitude": 82.1833
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26100,
+    "fields": {
+      "name": "Bhimphedi",
+      "local_name": "Bhimphedi",
+      "country": "NP",
+      "zip_code": "-155601",
+      "latitude": 27.551,
+      "longitude": 85.13
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26101,
+    "fields": {
+      "name": "Ramechhap",
+      "local_name": "Rāmechhāp",
+      "country": "NP",
+      "zip_code": "-441267",
+      "latitude": 27.326,
+      "longitude": 86.087
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26102,
+    "fields": {
+      "name": "Bandipur",
+      "local_name": "Bandipur",
+      "country": "NP",
+      "zip_code": "-273578",
+      "latitude": 27.9381,
+      "longitude": 84.4069
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26103,
+    "fields": {
+      "name": "Kisanpur",
+      "local_name": "Kisanpur",
+      "country": "NP",
+      "zip_code": "-615996",
+      "latitude": 26.9333,
+      "longitude": 85.5833
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26104,
+    "fields": {
+      "name": "Chainpur",
+      "local_name": "Chainpur",
+      "country": "NP",
+      "zip_code": "-496931",
+      "latitude": 29.55,
+      "longitude": 81.2
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26105,
+    "fields": {
+      "name": "Manakamana",
+      "local_name": "Manakāmanā",
+      "country": "NP",
+      "zip_code": "-35860",
+      "latitude": 27.9039,
+      "longitude": 84.5842
+    }
+  },
+  {
+    "model": "locale.city",
+    "pk": 26106,
+    "fields": {
+      "name": "Jumla",
+      "local_name": "Jumlā",
+      "country": "NP",
+      "zip_code": "-309745",
+      "latitude": 29.25,
+      "longitude": 82.2167
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 1,
+    "fields": {
+      "title": "मेष",
+      "sub_title": "मेष ( चु, चे, चो, ला, लि, लु, ले, लो, अ )",
+      "image": "cipher/user/media/mesh.jpeg"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 2,
+    "fields": {
+      "title": "वृष",
+      "sub_title": "वृष ( इ, उ, ए, ओ, वा, वि, वु, वे, वो )",
+      "image": "cipher/user/media/brish.jpeg"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 3,
+    "fields": {
+      "title": "मिथुन",
+      "sub_title": "मिथुन ( का, कि, कु, घ, ङ, छ, के, को, हा )",
+      "image": "cipher/user/media/mithun.jpeg"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 4,
+    "fields": {
+      "title": "कर्कट",
+      "sub_title": "कर्कट ( हि, हु, हे, हो, डा, डि, डु, डे, डो )",
+      "image": "cipher/user/media/karkat.jpeg"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 5,
+    "fields": {
+      "title": "सिंह",
+      "sub_title": "सिंह ( मा, मि, मु, मे, मो, टा, टि, टु, टे )",
+      "image": "cipher/user/media/singha.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 6,
+    "fields": {
+      "title": "कन्या",
+      "sub_title": "कन्या ( टो, पा, पि, पु, ष, ण, ठ, पे, पो )",
+      "image": "cipher/user/media/kanya.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 7,
+    "fields": {
+      "title": "तुला",
+      "sub_title": "तुला ( रा, रि, रु, रे, रो, ता, ति, तु, ते )",
+      "image": "cipher/user/media/tula.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 8,
+    "fields": {
+      "title": "वृश्चिक",
+      "sub_title": "वृश्चिक ( तो, ना, नि, नु, ने, नो, या, यि, यु )",
+      "image": "cipher/user/media/brishik.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 9,
+    "fields": {
+      "title": "धनु",
+      "sub_title": "धनु ( ये, यो, भा, भि, भु, धा, फा, ढा, भे )",
+      "image": "cipher/user/media/dhanu.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 10,
+    "fields": {
+      "title": "मकर",
+      "sub_title": "मकर ( भो,जा,जि,जु,जे,जो,ख,खि,खु,खे,खो,गा,गि )",
+      "image": "cipher/user/media/makar.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 11,
+    "fields": {
+      "title": "कुम्भ",
+      "sub_title": "कुम्भ ( गु, गे, गो, सा, सि, सु, से, सो, दा )",
+      "image": "cipher/user/media/kumbha.png"
+    }
+  },
+  {
+    "model": "locale.horoscope",
+    "pk": 12,
+    "fields": {
+      "title": "मीन",
+      "sub_title": "मीन ( दि, दु, थ, झ, ञ, दे, दो, चा, चि )",
+      "image": "cipher/user/media/min.png"
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 1,
+    "fields": {
+      "horoscope": 1,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "आज बजार घुम्ने अवसर मिल्नेछ । केही नयाँ कुरा खरीद गर्न सकिनेछ । धर्मकर्ममा मन लाग्ने र रमाइलो यात्रा गर्ने अवसर प्राप्त हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 2,
+    "fields": {
+      "horoscope": 1,
+      "type": "weekly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-07",
+      "description": "यो साता मन खिन्न हुने स्थिति आउनेछ । स्वास्थ्यमा समस्या आउन सक्छ । कार्य सम्पादनमा पनि समस्या आउला । सोमबारबाट सामाजिक कार्यमा रुचि जाग्नुका साथै सफल यात्राको योग पनि देखिन्छ । शुभ कार्यमा सहभागी भइएला । धार्मिक तथा समाजसेवामा मन लाग्नेछ । यो साताका लागि शुभ अङ्क १,९ र शुभ रङ्ग पहेँलो वा हरियो हो । कुनै शुभकर्म गर्नु पूर्व विष्णु भगवानको स्मरण गरि कार्य आरम्भ गर्दा अधिक लाभ प्राप्त हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 3,
+    "fields": {
+      "horoscope": 1,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "भाद्र महिनामा सूर्य मेष राशिबाट पाँचौं घरमा गोचर भएको छ । आफ्नै दक्षतामा विभिन्न कार्यहरू सम्पन्न हुनेछन् । आर्थिक र व्यवसायिक समस्या समाधान हुनेछन् । प्रेम र मित्रताको बन्धन कसिनुका साथै दाम्पत्य सुखमा रमाउने समय छ । विशिष्ट व्यक्तिको भेटघाटले मन प्रसन्न हुनेछ । लामो समयदेखि रोकिएका अधुरा कामहरू पुरा हुनेछन् । यो महिनाको लागि शुभ अङ्क ४,५ र शुभ रङ्ग रातो हो । कुनै शुभकर्म गर्नु पूर्व विष्णु भगवानको दर्शन गरि कार्य आरम्भ गर्दा अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 4,
+    "fields": {
+      "horoscope": 1,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "मेष राशि हुनेहरूका लागि २०७९ साल मध्यम रहनेछ । पद प्रतिष्ठा र आर्थिक पक्ष राम्रो हुनेछ, तर शनि, बृहस्पति, राहु तथा केतुले गर्दा दुख, कष्ट भोग्नुपर्ने, मानसिक चिन्ता, इज्जत र प्रतिष्ठामा ह्रास आउनसक्छ । शत्रु बढ्ने र अनावश्यक झमेलामा पर्न सकिनेछ, तर राम्रो कर्म गरे अनावश्यक शुभ फल पाइनेछ । माघ महिनबाट शुभ फल मिल्ने र आकस्मिक लाभ, सन्तान सुख, घरमा शुभकार्य हुने र धार्मिक यात्रा समेत हुनेछ ।  व्यापार/व्यवसाय मेष राशिको लागि यो वर्ष आर्थिक धन फस्न सक्छ भने सेयरबजार, शिक्षाक्षेत्र तथा बिमा क्षेत्रमा गरिएको लगानी मौलाउनेछ भने धातु र स्वास्थ्यमा गरेको लगानीबाट त्यति राम्रै प्रतिफल पाइनेछैन । आर्थिक दृष्टिले असार, असोज र माघ महिना शुभ रहनेछ ।  प्रेम/सम्बन्ध प्रेम सम्बन्ध र दाम्पत्य जीवनमा मतभेद र विश्वासमा कमी देखिनसक्छ । पैसाको कारणले आफन्त र नजिकका व्यक्तिबाट टाढिनु पर्ला । वर्षको अन्त्यमा भने प्रेम सम्बन्ध सुमधुर हुनेछ र घरपरिवारबाट टाढिएकाहरू नजिकिनेछन् । सन्तानको रहर गर्नेहरूले सन्तान सुख मिल्ने सम्भावना पनि रहेको छ ।  शिक्षा अध्ययन अध्यापनमा सामान्य नै रहनेछ, तर शनि बृहस्पति, राहु तथा केतुले गर्दा कतै नाम निकाल्न गारो पर्नेछ । व्याक लागेका विद्यार्थीहरूले सम्बन्धित विषयमा उत्तीर्ण गर्न पनि समस्या आउला । शोध र टेक्निकल क्षेत्रका विद्यार्थीहरूलाई विशेष सफलता मिल्नेछ । पढाईको सिलसिलामा विदेश जानेले भने राम्रो सफलता पाउनेछन् ।  पेशा/रोजगार य",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 5,
+    "fields": {
+      "horoscope": 2,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "मनमा उत्पन्न शंका तथा डरका कारण बनिसकेको काममा दुबिधा उत्पन्न हुन सक्छ । भोजभतेरमा सामेल हुँदा स्वास्थ्यको ख्याल गर्नुहोला ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 6,
+    "fields": {
+      "horoscope": 3,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "दैनिक कार्यमा प्रगति हुनेछ । परीक्षा आदि प्रतिस्पर्धामा उत्तीर्ण हुनसकिने छ । परिवारका सदस्यहरूबाट सहयोग पाइने र वैदेशिक कार्य अघि बढ्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 7,
+    "fields": {
+      "horoscope": 4,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "अध्ययनअध्यापनको क्षेत्रमा प्रगतिको खबर सुन्न पाउनु हुनेछ । मित्रबाट विशेष सहयोग मिल्नेछ । परिवारका सदस्यहरूसित भेटघाट हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 8,
+    "fields": {
+      "horoscope": 5,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "मनमा हर्ष, उमङ्ग र उत्साह छाउनेछ । आदर्श व्यक्तित्व सँगको सहकार्यले नयाँ अनुभव मिल्नेछ । रमणीय, सुखद् र धार्मिक यात्राको योग छ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 9,
+    "fields": {
+      "horoscope": 6,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "कार्य सम्पादनमा समस्या आउला । चोटपटकको भय छ सचेत रहनुहोला । साँझमा पैसा खर्च हुने योग छ । शेयर बजरमा नोक्सानी हुन सक्छ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 10,
+    "fields": {
+      "horoscope": 7,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "एउटै कामबाट दोहोरो लाभ मिल्नेछ बन्धुबान्धवबाट सहयोग मिल्नेछ । मनमा हर्ष, उमङ्ग र उत्साह रहला । रमाइलो यात्राको योग रहेको छ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 11,
+    "fields": {
+      "horoscope": 8,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "रमणीय र सुखद् यात्राको योग छ । मनमा सहयोग भाव आउला । सन्तान तथा परिवारमा मेलमिलाप हुनेछ । कुनै कुराले मनमा प्रसन्नता छाउनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 12,
+    "fields": {
+      "horoscope": 9,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "रोकिए काम दोहोर्याएर गर्दा फाइदा हुन सक्नेछ । जीवनसाथीको सल्लाहमा गरिएको कार्यबाट सफलता मिल्नेछ । नयाँ ज्ञान सिक्ने मौका मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 13,
+    "fields": {
+      "horoscope": 10,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "गरेको काम बिग्रने सम्भावना छ । जताबाट पनि खर्चमात्रै ज्यादा हुने सम्भावना रहेको हुनाले सतर्क हुनैपर्छ, तर सामाजिक काम गर्ने मिल्छ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 14,
+    "fields": {
+      "horoscope": 11,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "मन अध्यात्म र दर्शनतर्फ आकर्षित बन्नेछ । पेसा र व्यवसायबाट लाभ हुनेछ अतः धन प्राप्त हुनेछ । कसैकसैका लागि सन्तान प्राप्तिको योग छ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 15,
+    "fields": {
+      "horoscope": 12,
+      "type": "daily",
+      "start_date": null,
+      "end_date": "2022-09-05",
+      "description": "आज पारिवारिक भेटघाटमा रमाइने छ । धनार्जनका नयाँ स्रोतहरू पत्ता लाग्नेछन् । माया प्रेममा आत्मियताको बढोत्तरी पनि हुनेछ । राशिफल जे जस्तो भएपनि तपाईंको दिन शुभ रहोस् । - ज्यो.प. नारायणप्रसाद दुलाल",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 16,
+    "fields": {
+      "horoscope": 2,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो हप्ता मन पर्ने व्यक्तिलाई सहयोग गर्न पनि पाइनेछ । नयाँ कार्यको अवसर मिल्नेछ । मन पर्ने वस्त्र, अलंकार आदि उपहार पाइने योग छ । धर्मकर्म तथा समाजसेवामा मन लाग्नेछ । व्यवसायको सन्दर्भमा आदर्श व्यक्तित्व सँगको सहकार्यले नयाँ अनुभव मिल्नेछ । प्रेम सम्बन्ध पनि कसिलो हुनेछ । यो साताका लागि शुभ अङ्क १,७ र शुभ रङ्ग बैजनी वा घिउ रङ्ग हो । कुनै शुभकर्म गर्नु पूर्व भैरवजीको स्मरण गर्नाले अधिक सफलता हात पर्नेछ । राशिफल जे जस्तो भएपनि तपाईंको दिन शुभ रहोस् । - ज्यो.प. नारायणप्रसाद दुलाल 977-9849559502 (अधिक जानकारीका लागि )",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 17,
+    "fields": {
+      "horoscope": 3,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता शुभकार्यको चर्चा चल्नेछ । प्रेमीको सहयोग प्राप्त हुनेछ । रमणीय र सुखद् यात्राको योग छ । धार्मिक, सामाजिक र अरुको हित हुने काममा समय व्यतीत हुनसक्छ । व्यावसायिक काममा राम्रै फड्को मार्न सकिनेछ । शुभकार्यको चर्चा पनि चल्नेछ । यो साताका लागि शुभ अङ्क ३,५ र शुभ रङ्ग नीलो वा रातो हो । शुभकर्म गर्नु पूर्व महाकालीजीको स्मरण गरि कार्य गर्दा अधिक सफलता प्राप्त हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 18,
+    "fields": {
+      "horoscope": 4,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता कुनै कुराले मनमा शान्ति छाउनेछ । पुनर्मिलनको विशेष योग रहेको छ । साथी भाइको भेटघाटले मन प्रफुल्ल रहला । प्रेम प्रस्तावपनि आउन सक्छ । मध्य सातबाट आफूलाई कमजोर भएको अनुभूति हुनेछ । गरेका काममा ढिलासुस्ती हुनेछ । यो साताका लागि शुभ अङ्क ४,८ र शुभ रङ्ग निलो हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि गणेशजीको ध्यान गरि कार्य आरम्भ गर्दा शुभ फल मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 19,
+    "fields": {
+      "horoscope": 5,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "साताको मनमा दुबिधा उत्पन्न हुनेछ । सुरुका दिनमा महत्वपूर्ण कार्यमा व्यवधान आइपर्ला । सोमबारबाट भने एकपछि अर्को अवसर आउनाले मन प्रसन्न रहनेछ । आँटेको र ताकेको कार्य पुरा होला । नजिकका व्यक्तिबाट कार्यमा सहयोग मिल्नेछ । वैदेशिक कामहरू पूरा हुनेछन् । यो साताका लागि शुभ अङ्क ५,६ र शुभ रङ्ग गुलाबी वा हरियो हो । कुनै शुभकर्म गर्नु पूर्व गणेशजीको दर्शन गरे अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 20,
+    "fields": {
+      "horoscope": 6,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो हप्ता नयाँ कार्य वा रोजगारको अवसर मिल्नेछ । प्रेममा सफलता पनि प्राप्त हुनेछ । धर्मकर्म तथा समाजसेवामा मन लाग्नेछ । भोज भतेरमा सहभागिता हुने अवसर आउनेछ । साताको अन्त्यमा स्वास्थ्यको ख्याल गर्नु पर्नेछ । चुनौतीको सामना गर्नुपर्ला । अनावश्यक ठाउँमा धन खर्च होला । यो साताका लागि शुभ अङ्क ७,९ र शुभ रङ्ग सेतो वा रातो हो । कुनै शुभकर्म गर्नु पूर्व नवग्रहको ध्यान गरि कार्य आरम्भ गर्दा अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 21,
+    "fields": {
+      "horoscope": 7,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता रोकिएको धन हात पर्ला । नयाँ ज्ञान सिक्ने मौका मिल्नेछ । स्वादिष्ट भोजनको आनन्द समेत पाइएला । धनार्जनका नयाँ स्रोतहरू पत्ता लाग्नेछन् । नजिकको मित्रसँग भेटघाट पनि हुनेछ । साताको उत्तरार्धबाट आर्थिक कारोबारमा मन्दी आउनेछ । सामान हराउने योग पनि छ । यो साताका लागि शुभ अङ्क २,८ र शुभ रङ्ग आकाशे वा गुलाबी हो । शुभकर्म गर्नु पूर्व भैरवजीको दर्शन गरि कार्य आरम्भ गर्दा शुभ फल प्राप्त हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 22,
+    "fields": {
+      "horoscope": 8,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो शिक्षामा सफलता मिल्नेछ । रमणीय र सुखद् यात्राको योग छ । धनार्जनका नयाँ स्रोतहरू पत्ता लाग्नेछन् । मनोरञ्जनको क्षेत्रमा सफलता मिल्नेछ । मनमा उत्साह र उमङ्ग छाउनेछ । पुनर्मिलनको योग रहेको छ । लाभदायक यात्रा पनि हुनेछ । यो साताका लागि शुभ अङ्क २,६ र शुभ रङ्ग गुलाबी वा घिउ रङ्ग हो । कुनै शुभकर्म गर्नु पूर्व दुर्गाजीको स्मरण गरि कार्य आरम्भ गर्दा बढी राम्रो हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 23,
+    "fields": {
+      "horoscope": 9,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता अल्छि गर्नाले समस्या आउला । व्यस्तता बढ्नुका साथै सामान हराउन सक्छ । साताको अन्त्यमा दान पुण्यजस्ता कार्यमा सहभागी भइनेछ । रोकिएको काम दोहोर्याएर प्रयत्न गर्दा सफलता मिल्नेछ । प्रेमसम्बन्ध बढेर जानेछ । शेयर बजार या पुँजी बजारले पनि साथ दिनेछ । यो साताका लागि शुभ अङ्क ४,९ र शुभ रङ्ग सेतो वा खैरो हो । कुनै शुभकर्म गर्नु पूर्व शिवजीको स्मरण गर्नाले अधिक राम्रो हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 24,
+    "fields": {
+      "horoscope": 10,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता न्यायिक कार्यमा सफलता मिल्नेछ । अधुरो काम पूरा हुनसक्छ । मित्रसँग भेटघाट हुने योग छ । व्यवसायको सन्दर्भमा आदर्श व्यक्तित्व सँगको सहकार्यले नयाँ अनुभव मिल्नेछ । साताको मध्यमा सरकारी निकायको भय रहला । नियमित खर्चसमेत बढ्ने योग छ । यो साताका लागि शुभ अङ्क ५,८ र शुभ रङ्ग सिन्दुरे वा पहेँलो हो । कुनै शुभकर्म गर्नु पूर्व विघ्नहर्ता गणेशजीको दर्शन गरि कार्य गर्दा अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 25,
+    "fields": {
+      "horoscope": 11,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो साता शुभ समाचार सुन्न पाइएला । वैदेशिक कार्य अघि बढ्नेछ । सामाजिक र राजनीतिक कार्यमा सफलता मिल्नेछ । नयाँ काममा हात हाल्ने समय छ । शेयर बजारको लगानीले साथ दिनेछ र नसोचेको ठाउँबाट धनागम हुनसक्छ । यो साताका लागि शुभ अङ्क ३,६ र शुभ रङ्ग सुन्तला वा कालो हो । कुनै शुभकर्म गर्नु अघि हनुमानजीको आरधना गरि यात्रा गर्नाले अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 26,
+    "fields": {
+      "horoscope": 12,
+      "type": "weekly",
+      "start_date": "2022-09-04",
+      "end_date": "2022-09-10",
+      "description": "यो हप्ता मन पर्ने व्यक्तिलाई सहयोग गर्न पनि पाइनेछ । नयाँ कार्यको अवसर मिल्नेछ । मन पर्ने वस्त्र, अलंकार आदि उपहार पाइने योग छ । धर्मकर्म तथा समाजसेवामा मन लाग्नेछ । व्यवसायको सन्दर्भमा आदर्श व्यक्तित्व सँगको सहकार्यले नयाँ अनुभव मिल्नेछ । प्रेम सम्बन्ध पनि कसिलो हुनेछ । यो साताका लागि शुभ अङ्क १,७ र शुभ रङ्ग बैजनी वा घिउ रङ्ग हो । कुनै शुभकर्म गर्नु पूर्व भैरवजीको स्मरण गर्नाले अधिक सफलता हात पर्नेछ । राशिफल जे जस्तो भएपनि तपाईंको दिन शुभ रहोस् । - ज्यो.प. नारायणप्रसाद दुलाल 977-9849559502 (अधिक जानकारीका लागि )",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 27,
+    "fields": {
+      "horoscope": 2,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "भाद्र महिनामा सूर्य मेष राशिबाट पाँचौं घरमा गोचर भएको छ । आफ्नै दक्षतामा विभिन्न कार्यहरू सम्पन्न हुनेछन् । आर्थिक र व्यवसायिक समस्या समाधान हुनेछन् । प्रेम र मित्रताको बन्धन कसिनुका साथै दाम्पत्य सुखमा रमाउने समय छ । विशिष्ट व्यक्तिको भेटघाटले मन प्रसन्न हुनेछ । लामो समयदेखि रोकिएका अधुरा कामहरू पुरा हुनेछन् । यो महिनाको लागि शुभ अङ्क ४,५ र शुभ रङ्ग रातो हो । कुनै शुभकर्म गर्नु पूर्व विष्णु भगवानको दर्शन गरि कार्य आरम्भ गर्दा अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 28,
+    "fields": {
+      "horoscope": 3,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "मिथुन राशिलाई यो महिनामा एकपछि अर्को अवसर आउनाले मन प्रसन्न रहनेछ । नोकरी गर्नेले मानसम्मान पाउनेछन् । लगनशीलताले कामहरू अगाडि बढ्नेछन् । रमाइलो यात्राको सम्भावना छ र त्यसबाट दीर्घकालिक फाइदा पुग्नेछ । आत्मबल बढाएर काम गरेमा असफल भने भइँदैन तर महत्त्वाकाङ्क्षी योजना गोप्य राखेर अघि बढ्नुपर्छ । यो महिनाको लागि शुभ अङ्क १,३ र शुभ रङ्गे कालो वा पहेँलो हो । कुनै शुभकर्म गर्नु अघि महालक्ष्मीजीको स्मरण गरि कार्य गर्नाले अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 29,
+    "fields": {
+      "horoscope": 4,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा कुनै कुराले मनमा शान्ति छाउनेछ । अधुरा या नयाँ कार्यको थालनी हुनेछ । राजनैतिक र सामाजिक कार्यमा सफलता मिल्नेछ । सजिलै अरुको विश्वास जित्न सकिने र लाभ हुनेछ । प्रेमसम्बन्ध र प्रणयप्रसङ्गका लागि पनि श्रेष्ठ समय छ । शेयर बजार र व्यापार व्यवसायमा भने औसत लाभ हुनेछ । यो महिनाको लागि शुभ अङ्क २,६ र शुभ रङ्ग हरियो वा खैरो हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि आफ्नो कूल देवताको स्मरण गरि कार्य आरम्भ गर्दा अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 30,
+    "fields": {
+      "horoscope": 5,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा सूर्य तपाईंकै राशिमा छ । रोकिएका काम पुनः सुरु हुन सक्छन् । प्रेम र मित्रताको बन्धन कसिनुका साथै दाम्पत्य सुखमा रमाउने समय छ । व्यवसायिक काममा राम्रै फड्को मार्न सकिनेछ । शैक्षिक क्षेत्रमा सफलता मिल्नेछ । लामो यात्रा सुखद् र सफल हुनेछ । कसैकसैका लागि सन्तान प्राप्तिको समेत योग छ । यो महिनाको लागि शुभ अङ्क ५,९ र शुभ रङ्ग पहेँलो वा पर्पल हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि शिवजीको ध्यान गरि कार्य आरम्भ गर्दा अधिक लाभ हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 31,
+    "fields": {
+      "horoscope": 6,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा कन्या राशिलाई त्यति राम्रो फल मिल्नेछैन । सरकारी निकायको भय रहला । घर परिवारमा झैझमेलाको अवस्था आउला । मध्य महिनाबाट सद्विचारले अभिप्रेरित हुनेहरूलाई बिस्तारै लाभ हुनेछ । कुटुम्बबाट विशेष सहयोग मिल्नेछ । शेयर बजारबाट राम्रो सफलता मिल्नेछ । वैदेशिक कार्यहरू सहजै सम्पादन हुनेछन् । यो महिनाको लागि शुभ अङ्क ३,५ र शुभ रङ्ग सेतो वा गुलाबी हो । कुनै शुभकर्म गर्नु अघि हनुमानजीको आरधना गरि यात्रा गर्नाले अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 32,
+    "fields": {
+      "horoscope": 7,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "भाद्र महिनामा शैक्षिक क्षेत्रमा सफलता मिल्नेछ । छरछिमेकमा सम्पन्न हुने धार्मिक तथा सांस्कृतिक गतिविधिमा संलग्न हुनु पर्नेछ । विपरीत वर्ग प्रति आकर्षण बढ्नेछ । वैदेशिक क्षेत्रबाट पनि सफलता मिल्नेछ । मध्य महिनाबाट बाटो काट्दा वा यात्रा गर्दा सचेत हुनुपर्छ । आफ्नो विचार विपरित निर्णय हुनेछ । अनावश्यक खर्च पनि बढ्न सक्छ । यो महिनाको लागि शुभ अङ्क ६,९ र शुभ रङ्ग हरियो वा गुलाबी हो । कुनै शुभकर्म गर्नु पूर्व श्रीकृष्ण भगवानको स्मरण गरि कार्य आरम्भ गर्दा राम्रो हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 33,
+    "fields": {
+      "horoscope": 8,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा सूर्यको गोचर दशौं घरमा भइरहेको छ, यसले शक्तिशाली बनाउनेछ । नयाँ उद्योग वा रचनात्मक काममा जुट्ने समय छ । ठूला व्यक्तिले तपाईंको मेहनतको प्रशंसा गर्नेछन् । कला र गलाको प्रभाव बढ्नेछ । २२ गतेबाट सामाजिक र राजनैतिक कार्यमा बाधा आउनसक्छ । भ्रमण, स्वास्थ्यमा तथा सौन्दर्यतामा धन खर्च हुनेछ । यो महिनाको लागि शुभ अङ्क १,६ र शुभ रङ्ग निलो वा रातो हो । कुनै शुभकर्म गर्नु पूर्व विघ्नहर्ता गणेशजीको पूजा अर्चना गरि गरेको कार्यबाट अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 34,
+    "fields": {
+      "horoscope": 9,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "भाद्र महिनामा कला र गलाको प्रभाव बढ्दै जानेछ । नयाँ वस्त्र, उपहार र अलङ्कारको प्राप्ति हुनेछ । राजनैतिक कार्यमा सफलता मिल्नेछ । ठूला व्यक्तिले तपाईंको मेहनतको प्रशंसा गर्नेछन् । रोकिएको वैदेशिक कार्य अघि बढ्नेछ । ब्यापार व्यवसायबाट आम्दानी हुनेछ । सम्मान समेत पाइनेछ । यो महिनाको लागि शुभ अङ्क ४,८ र शुभ रङ्ग हरियो वा घ्यूरङ्ग हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि विघ्नहर्ता गणेशजीको पूजा अर्चना गरि गरेको कार्यबाट अधिक सफलता मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 35,
+    "fields": {
+      "horoscope": 10,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा मिश्रित फल मिल्नेछ । व्यर्थको हैरानी पनि खेप्नु पर्नेछ । आफ्नो अधिकार प्राप्तिको लागि संघर्ष गर्नु पर्नेछ । १६ गतेबाट चलाखीपूर्ण बोलीले सङ्कल्प सिद्घ हुनेछ । ठीक समयमा सही निर्णय लिन सकिनेछ । लाभदायक यात्राको सम्भावनालाई नकार्न सकिँदैन । परिश्रमअनुसार उपलब्धि पनि राम्रै पाइनेछ । यो महिनाको लागि शुभ अङ्क १,७ र शुभ रङ्ग पहेँलो वा रातो हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि नवग्रहको स्मरण गरि कार्य आरम्भ गर्दा शुभ फल प्राप्त हुनेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 36,
+    "fields": {
+      "horoscope": 11,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "भाद्र महिना तपाईंको लागि समग्रमा सकारात्मक महिना रहेको छ । नयाँ व्यक्ति बिच सामीप्यता बढ्नेछ । परिवारसँग रमाइलो भेटघाट हुनेछ । इच्छा र आकाङ्क्षा पूर्ण हुने भएको छ । महिनाको उत्तरार्धबाट मानसिक चिन्ता बढ्ला । महत्त्वपूर्ण अवसर गुम्न सक्नेछ । शेयर बजारबाट नोक्सानी पनि हुनसक्छ । यो महिनाको लागि शुभ अङ्क २,८ र शुभ रङ्ग खरानी वा सेतो हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि आफ्नो पितृदेवताको स्मरण गरि कार्य आरम्भ गर्दा अधिक लाभ मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 37,
+    "fields": {
+      "horoscope": 12,
+      "type": "monthly",
+      "start_date": "2022-09-01",
+      "end_date": "2022-09-30",
+      "description": "यो महिनामा मनमा फूर्ति र उत्साह बढेकै हुनेछ । रमाइलो यात्रा गर्ने अवसर प्राप्त हुनेछ । विद्यार्थीहरूको सफलताको राम्रो सम्भावना छ । हर्ष र प्रसन्नताका बीचमा समय व्यतीत हुनेछ । सम्पत्ति लाभ गर्न अनुकूल प्रयास हुनेछन् । नजिकको व्यक्तिको सहयोगबाट कार्य पुरा हुनेछ । पुँजी बजारबाट पनि राम्रो सफलता मिल्नेछ । यो महिनाको लागि शुभ अङ्क ४,९ र शुभ रङ्ग सेतो वा निलो हो । कुनै शुभकर्म गर्नु पूर्व वा यात्रामा जानु अघि लक्ष्मी नारायणको स्मरण गरि कार्य आरम्भ गर्दा अधिक लाभ मिल्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 38,
+    "fields": {
+      "horoscope": 2,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "वृष राशिलाई यो वर्ष मिश्रित फल नै मिल्नेछ । देवगुरु बृहस्पतिको प्रभावले शुभ फल मिल्नेछ । सुख सुविधामा बढोत्तरी हुने, शिक्षाक्षेत्र र न्यायिक कार्यमा विशेष सफलता मिल्नेछ भने राहु र शनिको प्रभावले भने हानी नोक्सानी, चोटपटकको भय, सम्पत्तिमा विवाद, शत्रु बढ्ने जस्ता नराम्रा फलको सामना गर्नु पर्ला । जन्म कुण्डलीमा शनिग्रह बलवान हुने हरूले भने शनि ग्रहको नराम्रा फलको सामना गर्नु पर्दैन ।  व्यापार/व्यवसाय यसवर्ष व्यापार व्यवसायमा विशेष गरि कृषि, पशु, शिक्षाक्षेत्र, सूचनाप्रविधि लगायतका विषयमा लाभ मिल्नेछ, तर आफन्त सँगको आर्थिक लेनदेनको कारणले दूरी बढ्न सक्छ । शेयर बजारको लगानी पनि निकै राम्रो रहन सक्छ । घरजग्गा र निर्माणको क्षेत्रमा गरिएको लगानीबाट राम्रो प्रतिफल पाइनेछ । आर्थिक दृष्टिले साउन, कार्तिक, कार्तिक र फाल्गुन महिना बढी राम्रो रहनेछ ।  प्रेम/सम्बन्ध प्रेमी वा प्रेमीकाको सम्बन्ध कायम राख्न सहनशीलता हुन आवश्यक रहन्छ, नत्र चाँडो निर्णय लिने र फुर्सदमा पछुताउनु पर्ला । विपरीत वर्ग प्रति आकर्षण पनि बढ्नेछ । आफ्नो कामको सिलसिलामा घर परिवारबाट टाढा हुनु पर्ने बाध्यता आउनसक्छ ।  शिक्षा यो वर्ष विद्यार्थीहरूले परीक्षामा राम्रै अङ्कले सफलता हासिल गर्न सक्छन् । अनुसन्धान र अध्यात्म क्षेत्रका विद्यार्थीले उच्च सफलता पाउनेछन् । गणित र व्यवस्थापन विषय भने कमजोर रहन सक्छ ।  पेशा/रोजगार यो वर्षको ग्रह गोचर हेर्दा धेरै मिहिनेत र सङ्घर्ष गर्नु परे पन",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 39,
+    "fields": {
+      "horoscope": 3,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "२०७९ साल मिथुन राशि भएका व्यक्तिहरूलाई यो वर्ष सामान्य नै रहनेछ । राहुको गोचरले राम्रो फल दिने र नयाँ कार्यको थालनी र जागिर पाइनेछ । रोकिएका वैदेशिक क्षेत्रका कामहरू सहजै अघि बढ्नेछ । शनिको अढैया दशा, केतु र बृहस्पतिको नकारात्मक प्रभावले झुटा आरोप, वादविवाद, डर र चिन्ता बढ्न सक्छ, स्वास्थ्य प्रतिकूल रहनसक्छ तर जन्म कुण्डलीमा बृहस्पति र शनिग्रह राम्रो पोजिसन रहेमा शुभ फल पाइनेछ ।  व्यापार/व्यवसाय यो वर्ष मिथुन राशिका जातकहरूलाई व्यापार / व्यवसायबाट लाभ नै मिल्नेछ । नयाँ ठाउँमा लगानीको अवसर मिल्नेछ । प्राविधिक, फेन्सी तथा सजावटका क्षेत्रमा गरिएको लगानी फस्टाएर जानेछ । सेयर बजार अन्तर्गत वाणिज्य क्षेत्र बढी राम्रो रहला । यदि जन्म कुण्डलीमा शनि ग्रह स्वगृही, उच्च, मित्रगृही छ भने शनिको कृपाले निर्माण, धातु, मेसिनरी, इलेक्ट्रोनिक र टेक्नोलोजी क्षेत्रबाट शुभ फल मिल्नेछ । आर्थिक दृष्टिले वैशाख, भाद्र, र मंसिर महिना शुभ रहनेछ ।  प्रेम/सम्बन्ध यसपालि नयाँ सम्बन्ध नजोडेकै राम्रो हुन्छ । प्रेम र मित्रताको बन्धमा दूरी बढ्न सक्छ, साथै पुरानो र नयाँ सम्बन्धमा मनमुटाव आउने र आफन्त पनि टाढिन्छन्, तर जन्मकुण्डलीमा सप्तम भावको पोजिसन राम्रो भएमा आफ्नो अनुकूलताको शुभ फल पाइनेछ ।  शिक्षा अध्ययन र अध्यापनमा रूचि घट्नेछ । विद्या र बुद्धिको विकास नहुन सक्छ । विदेशिएका विद्यार्थीहरूले भने स्वदेश भन्दा बढी सफलता हासिल गर्नेछन् । आर्किटेक्चर, विज्ञान र स्वास्थ",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 40,
+    "fields": {
+      "horoscope": 4,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "२०७९ सालमा कर्कट राशि हुनेहरूका लागि सुखदायी नै रहनेछ । बृहस्पतिको अनुकूलताले वर्ष भरिनै भाग्यमा वृद्धि हुनेछ । सन्तान सुख मिल्नेछ । शुभ, धार्मिक यात्रा र मङ्गल कार्यको योग पनि रहनेछ । व्यवसायीक सन्दर्भमा नयाँ व्यक्ति र नयाँ कम्पनीसँग आवद्ध भइनेछ । वैदेशिक यात्रा हुनेछ, तर विश्वासिलो व्यक्तिसँगको सम्बन्धमा नचाहँदा नचाहँदै चिसोपना आउनसक्छ ।  व्यापार/व्यवसाय यो वर्ष व्यापार व्यवसायमा लगानी गर्नु फलदायी नै रहने छ । प्रविधि, शैक्षिक क्षेत्र, खानेकुरा, पर्यटक र शेयर कारोबार राम्रो रहने छैन । घर जग्गामा लागेकाहरूलाई भने त्यति राम्रो नरहन सक्छ । आर्थिक दृष्टिले वैशाख, जेठ, असोज महिना बलियो रहनेछ भने असार र पुष महिना कमजोर रहनेछ ।  प्रेम/सम्बन्ध यो वर्ष प्रेममा परेका व्यक्तिहरूले आफ्नो सम्बन्धलाई विवाहमा परिणत गर्न सक्ने र घर परिवारको समर्थन पनि लिन सक्छन् । वैशाख र साउन महिनामा तपाईंलाई कसैले मन पराउन सक्छन् र टाढिएका मित्रसँग पुन: सम्बन्ध गाँसिन सक्छ घरपरिवारसँग सम्बन्ध पनि बलियो नै हुनेछ ।  शिक्षा यो वर्ष अध्ययन र अध्यापनको लागि राम्रो रहेको छ । अड्कीएका विषय उत्तीर्ण गर्न सकिनेछ । वैदेशिक क्षेत्रका शिक्षार्थीहरूलाई पनि राम्रै सफलता मिल्नेछ । स्वस्थ, प्राविधिक र इन्जिनियरिङका शिक्षार्थीहरूलाई अधिक राम्रो हुने र देश विदेशको यात्रा तय हुनेछन् ।  पेशा/रोजगार स्वास्थ्य, सेवा र निर्माणका विषयमा आवद्ध व्यक्तिहरूलाई राम्रो लाभ मिल्नेछ । सामाजिक क्",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 41,
+    "fields": {
+      "horoscope": 5,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "सिंह राशि हुनेहरूका लागि २०७९ साल सुखदायी नै रहनेछ, वर्ष भरीनै शनिको कारणले भौतिक सुख मिल्ने र वैदेशिक कार्य राम्रो हुनेछ, तर स्वदेशको कमाईले व्यवहार धान्न गारो पर्ला । कसै कसैलाई सन्तान सुख मिल्ने र भाग्यमा वृद्धि हुनेछ । बृहस्पति र राहुको कारणले गरेको कार्यमा ढिलासुस्ती हुने, चोटपटकको भय रहने, विद्या र बुद्धि पनि ह्रास आउनेछ ।  व्यापार/व्यवसाय यो वर्ष आर्थिक पक्ष सबल नै रहने देखिन्छ । पर्यटन, निर्माण र घरजग्गाको कारोबार फस्टाउनेछ । पुरानो ऋण तिर्न सकिनेछ, तर आय भन्दा व्यय बढ्नेछ । सेयर बजारको कारोबार भने सुझबुझमा भर पर्छ । प्राविधिक क्षेत्रमा गरेको लगानीबाट पनि राम्रो प्रतिफल पाइनेछ, तर खाद्यान्न र तरल पदार्थको व्यवसायबाट नोक्सानी हुन सक्छ । जेठ, असार र असोज महिना शुभ छ ।  प्रेम/सम्बन्ध सबैसँगको सम्बन्ध सामान्य नै रहनेछ । पतिपत्नी या प्रेमी प्रेमिकाका बिच समझदारी बढ्ने र सम्बन्ध अझै प्रगाढ हुनेछ । शत्रुबाट छुटकारा पनि मिल्नेछ । वर्षको उत्तरार्धमा नयाँ प्रेम प्रसङ्गमा नपरेकै राम्रो हुनेछ, अत: विवाद बढ्न सक्छ र आफ्नो कार्य क्षेत्रका सहकर्मीसँग भने मनमुटाव पनि बढ्नसक्छ ।  शिक्षा यो वर्ष पठनपाठनमा जाँगर घट्नेछ । विशेषगरि कला, साहित्य र मनोरञ्जन विषयका विद्यार्थीहरूले उत्कृष्ट नतिजा पाउनेछन् । रोकिएका अधुरा विषयमा पनि उत्तीर्ण हुन सकिनेछ । वैदेशिक विद्यार्थीहरूले भने अलि बढी मिहिनेत र संघर्ष गर्नु पर्ला । शैक्षिक क्षेत्रबाट साउन, असोज र",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 42,
+    "fields": {
+      "horoscope": 6,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "कन्या राशि भएका व्यक्तिहरूका लागि यो वर्ष माध्यम फलदायी रहनेछ । देवगुरु बृहस्पति शुभ रहने हुनाले समस्याहरूको हाल हुन सक्नेछ । सामाजिक र राजनैतिक कार्यमा मन जानेछ । भौतिक सम्पत्तिमा बढोत्तरी हुनेछ र अनुहारमा कान्ति र मनमा शान्ति छाउनेछ । राहु र केतु अशुभ फल दिन सक्छ भने शनिले गर्दा सन्तान सुख नमिल्ला । वर्षको अन्त्य तिर अधुरा कामहरू पूरा हुन सक्छ ।  व्यापार/व्यवसाय यो वर्ष व्यापार तथा व्यवसायबाट अपेक्षित लाभ लिन सकिएला । घरजग्गाको कारोबारबाट फाइदा मिल्नेछ भने वर्षको उत्तरार्धमा कृषि, पशु र पर्यटकीय क्षेत्रको लगानी फलदायक हुनेछ । सेयरबजारमा लगानी गर्नेहरू भने सचेत रहनुपर्छ । वैशाख र भाद्र महिनामा धनमाल हराउन सक्छ सजग रहनु होला । आर्थिक दृष्टिकोणले असार, साउन, र फाल्गुन महिना शुभ रहनेछन् ।  प्रेम/सम्बन्ध प्रेम सम्बन्धमा सफलता मिल्नेछ । प्रेम सम्बन्धलाई अगाडि बढाउनु राम्रै हुनेछ । साउन महिनामा नयाँ व्यक्तिसँग नयाँ सम्बन्धको सुरुवात हुन सक्छ । असार महिनामा प्रेमी र प्रेमिकाका घर परिवारबाट केही अप्ठ्यारा परिस्थितिहरू पनि सिर्जना हुनसक्छ । आफन्त, दाजुभाइ तथा घरपरिवारसँगको विवाद भने समाप्त हुनेछ ।  शिक्षा वर्षको सुरुमा शिक्षाक्षेत्र त्यति राम्रो नरहला मङ्सिरबाट भने राम्रै रहन सक्छ । आई. टी. र वाणिज्य विषयका विद्यार्थीहरूलाई विशेष लाभ मिल्नेछ । व्यवस्थापन र भाषाका शिक्षार्थीहरूलाई भने यो वर्ष कमजोर सावित हुनसक्छ । शैक्षिक क्षेत्रबाट साउन र कार्",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 43,
+    "fields": {
+      "horoscope": 7,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "तुला राशि भएका व्यक्तिहरू का लागि २०७९ साल मिश्रित फलदायी वर्ष रहनेछ । बृहस्पति, शनि, राहु र केतुको प्रभावले वर्ष भरिनै त्यति राम्रो फल नमिल्ला र गरेको कार्यमा उल्झन र चोटपटकको भए पनि रहनेछ, तर भौतिक सुख भने मिल्नेछ । बृहस्पति, शनि, राहु र केतुको ग्रह शान्ति गर्दा भने शुभ फल मिल्नेछ । यदि जन्म कुण्डलीमा बृहस्पति र शनि उच्च, स्वगृह तथा मित्रगृह ग्रहहरू भए अधिक शुभ फल मिल्ने निश्चित छ ।  व्यापार/व्यवसाय व्यापार वा व्यावसायिक दृष्टिले एस वर्ष नयाँ ठाउँमा लगानी नगरेकै जाती हुनेछ । सामूहिक रूपमा नयाँ व्यक्तिसँग व्यवसाय सुरु गर्न सकिनेछ । शेयर बजारमा गरेको लगानीले पनि सफलता दिलाउनेछ । मेसिनरी वस्तुमा गरेको लगानीले सफलता नमिल्न सक्छ । नगद सापटी लिनेहरू पनि टाडीन सक्छन् । व्यवसायीक दृष्टिले श्रावण, भाद्र र पुष महिना राम्रो हुनेछ ।  प्रेम/सम्बन्ध दाम्पत्य जीवन तथा प्रेमी / प्रेमिकाका सम्बन्धमा सामान्य उतारचढाव आउनसक्छ । प्रेमी जोडीको सम्बन्धलाई विवाहमा परिणत गर्न पनि गाह्रो होला, तर जन्मकुण्डलीमा सप्तम भाव बलियो भएका व्यक्तिहरूलाई भने कुनैपनि सम्बन्ध नराम्रो हुँदैन ।  शिक्षा यो वर्ष शैक्षिक क्षेत्रबाट त्यति राम्रो प्रतिफल नमिल्ला । मनमा चञ्चलता बढ्नाले पढाईमा ध्यान दिन नसकिएला । गणित र व्यवस्थापन विषयका विद्यार्थीहरू बढी कमजोर हुनसक्छन् । इन्जिनियरिङ् विषयका विद्यार्थीहरूलाई भने विशेष सफलता मिल्नेछ । भाद्र र फागुन महिनामा रोकिएको परीक्षा उत्तीर",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 44,
+    "fields": {
+      "horoscope": 8,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "वृश्चिक राशिका जातकका लागि समग्रमा २०७९ साल शुभ फलदायी रहनेछ । बृहस्पति र राहुको प्रभावले वर्षभरी नै राम्रो फल दिने र भाग्यमा वृद्धि हुनेछ । आँटेको र गरेको कार्यबाट सफलता मिल्नेछ । नसोचेको ठाउँबाट चमत्कारी लाभ पनि मिल्नेछ । माघ २७ गते सम्म जन्म कुण्डलीमा शनि कमजोर हुनेलाई भने शनि अढैयाको प्रभावले आरोपप्रत्यारोप, धन हानी, कार्यमा ढिलासुस्ती, आर्थिक नोक्सानी जस्ता फल भोग्नु पर्ला ।  व्यापार/व्यवसाय वैदेशिक लगानी र वित्तीय संस्थामा गरेको लगानीबाट निकै सफलता मिल्नेछ । स्वास्थ्य व्यवसाय, घर जग्गामा गरेको लगानीबाट पनि राम्रो प्रतिफल पाइनेछ, तर सेयरबजार र धातु जन्य सामानको व्यवसायबाट नोक्सानी हुन सक्छ । असोज र पुष महिनामा धन हानी हुनेछ भने वैशाख र माघ महिनामा अधिक लाभ मिल्नेछ ।  प्रेम/सम्बन्ध यो वर्ष प्रेम प्रसंगका लागि सामान्य रहेको छ अतः प्रेममा सफलता प्राप्त गर्न धैर्य र सत्यताको आवश्यक पर्दछ । कसै कसैको जन्मकुण्डलीमा गण गुण राम्रो हुन गाएमा प्रेम सम्बन्धलाई विवाहमा परिणत गर्न सकिन्छ ।  शिक्षा स्वदेश तथा विदेश पढ्न गएका विद्यार्थीहरूलाई शैक्षिक क्षेत्रबाट मिहिनेत अनुसार सफलता मिल्नेछ । विज्ञान र गणित विषयका विद्यार्थीहरूलाई विशेष सफलता मिल्नेछ, तर वैशाख र जेठ महिनामा विद्यामा ह्रास आउनसक्छ ।  पेशा/रोजगार नयाँ जागिरको अवसर मिल्नेछ र वैदेशिक रोजगारको सम्भावना पनि रहेको छ । पर्यटन र प्राविधिक क्षेत्रका पेशाकर्मीहरूले राम्रो सफलता हात पर्नेछ ।",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 45,
+    "fields": {
+      "horoscope": 9,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "धनु राशि हुनेहरूका लागि यो वर्ष सामान्य रहने देखिन्छ । केतुको प्रभावले कीर्ति बढेर जाने, धनलाभ हुने र बेलाबेलामा सुखको अनुभूति मिल्नेछ । शनिको साढेसाती, बृहस्पति र राहुको गोचरले भने चिन्ता, हानी, वाधा, नोक्सानी र कार्यसम्पादनमा उल्झन, बेलाबेलामा मनमा दुबिधा हुनेछ, तर घरपरिवारमा माङ्गलिक कार्य आयोजना हुनेछ, अत: मिश्रित फल पाइनेछ ।  व्यापार/व्यवसाय यो वर्ष आर्थिक स्तर पनि मिश्रित रहनेछ । मदिरा, प्रेस, तथा स्वास्थ्य व्यवसायीलाई राम्रो फाइदा हुनेछ । घरजग्गा, गाडी तथा मेटलका व्यवसायमा उल्झन र नोक्सानी पनि हुनसक्छ । शेयर बजार भने सुझबुझ र अनुभवमा भर पर्ने हुन्छ । पार्टनरसिपमा गरेको कार्यमा पनि विवाद उत्पन्न हुन सक्छ अत: विचार पुर्याउनु पर्नेछ । आर्थिक दृष्टिले असार, साउन र मंसिर महिना राम्रो हुनेछ ।  प्रेम/सम्बन्ध यो वर्ष नयाँ प्रेम सम्बन्ध जोडिनेछ साथै प्रेम र मित्रताको बन्धन कसिलो हुने र प्रेम सम्बन्धलाई विवाहमा परिणत समेत हुन सक्छ, तर जन्मकुण्डलीमा सप्तमेस कमजोर हुनेहरूलाई विवाद उत्पन्न हुन सक्छ र पारिवारिक मन मुटाब समेत बढ्न सक्छ साथै दाम्पत्य जीवनमा पनि मतभेद बढ्ने सम्भावना रहन्छ ।  शिक्षा वर्षको सुरुको महिनामा शैक्षिक क्षेत्र कमजोर रहन सक्छ । जति पढे पनि स्मरण गर्न गाह्रो हुने र पढाईमा ध्यानाकर्षण नहोला, तर मध्यबाट भने शैक्षिक क्षेत्र राम्रो हुनेछ । आई. टी. र शोध विषयका विद्यार्थीहरूले पढाईमा उत्कृष्ट नतिजा पाउनेछन् । कानून र वाणिज्य व",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 46,
+    "fields": {
+      "horoscope": 10,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "मकर राशिका जातकहरूका लागि यो वर्ष मध्यम नै रहनेछ । माघ २७ सम्म शनिग्रहको साढेसातीले सकारात्मक फल नदेला । बृहस्पति र राहु पनि अशुभ स्थानमा गोचर गर्नाले पनि मनमा डर, आर्थिक उतारचढाव हुनसक्छ र नजिकका व्यक्तिसँग वादविवाद तथा दूरी बढ्न सक्छ, वर्षको मध्यमा मनमा राम्रै भएपनि अनेकौं तर्क र खुलदुली उत्पन्न हुनेछ र ठोस निर्णय लिन नसकिएला । असार, भाद्र, कार्तिक र चैत्र महिनामा बढी शुभ फल मिल्नेछ ।  व्यापार/व्यवसाय व्यापारीका दृष्टिले यो वर्ष सामान्य उतारचढाव हुनसक्छ, अत: धैर्यता आवश्यक छ । आस मारिसकेको र रोकिएका धन हात पर्न सक्छ । तरल पदार्थ, घरजग्गा, शृंगार र सेयरबजारबाट राम्रो सफलता मिल्नेछ । कृषि र खाद्यान्नको कारोबारमा भने मन्दी आउनेछ । आर्थिक दृष्टिले वैशाख, साउन, भाद्र र मंसिर महिना लाभदायक रहनेछ ।  प्रेम/सम्बन्ध यो वर्षको ग्रह गोचर हेर्दा तपाईंको प्रेम प्रसङ्गका लागि मध्यम नै रहनेछ । पुराना प्रेमी जोडीहरूको सम्बन्ध सुमधुर हुँदै पारिवारिक समर्थन मिल्नेछ । दाम्पत्य जीवनमा भने आर्थिक असमझदारीले दूरी बढ्न सक्नेछ, तर पुराना सम्बन्ध र टाढिएका व्यक्ति नजिकै हुनसक्छन् ।  शिक्षा यो वर्ष अध्ययन अध्यापनको क्षेत्रमा सुधार आउनेछ र मिहिनेत गरे अनुसार बढी सफलता मिल्नेछ । वर्षको पूर्वार्द्धमा रिजल्ट राम्रो नहोला, तर उत्तरार्धमा रिजल्ट राम्रै हुन सक्नेछ । भाषा, प्राविधिक तथा टेक्निकल विषयका विद्यार्थीहरूलाई अधिक सफलता मिल्नेछ । विदेश गएका विद्यार्थीहरूलाई",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 47,
+    "fields": {
+      "horoscope": 11,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "कुम्भ राशि हुनेहरूको लागि यो शुभ नै रहनेछ । वर्षभरि नै बृहस्पति र राहुको प्रभावले रोकिएका अधुरा कार्यले पूर्णता पाउनेछ । घर परिवारमा शुभ र माङ्गलिक कार्यको आयोजना हुनेछ । नजिकैका व्यक्तिबाट भरपूर साथ र सहयोग मिल्ने र विजय प्राप्त हुनेछ । केतु र शनिको साढेसातीले भने चिन्ता, नोक्सानी र कार्यसम्पादनमा उल्झन, बेलाबेलामा मनमा दुबिधा उत्पन्न हुनेछ अत: मिश्रित फल पाइनेछ ।  व्यापार/व्यवसाय व्यापार वा व्यावसायिक दृष्टिले यो वर्ष त्यति राम्रो नरहन सक्छ । जग्गाजमिनको काममा भने विवाद बढ्न सक्छ, तर कृषि, पशु, इलेक्ट्रोनिक र कपडाको व्यवसायबाट भनेजस्तो आम्दानी गर्न सकिनेछ । वैदेशिक क्षेत्रमा लगानीका लागि समय राम्रो छ । सेयर बजार पनि त्यति राम्रो नहोला । आर्थिक दृष्टिले वैशाख, साउन, मंसिर र माघ महिना बढी सकारात्मक हुनसक्छ ।  प्रेम/सम्बन्ध यो वर्ष प्रेम गर्न चाहनेले नयाँ प्रेम सम्बन्ध स्थापित गर्न सक्छन्, तर प्रेम सम्बन्धलाई परिवारले समर्थन गर्न गाह्रै पर्ला । घर परिवारमा हुने शुभ तथा मांगलिक कार्यले बिग्रिएको पारिवारिक सम्बन्धलाई मजबुत बनाउनेछ, शत्रुसँग सम्बन्ध सुल्झन पनि सक्छ ।  शिक्षा शिक्षाको लागि यो वर्ष सफल र फलदायी नै रहने भएकाले राम्रो नतिजा पाइनेछ । पढाई लेखईको लागि विदेश जाने योग पनि छ । चिकित्सा र डिजाइनका विद्यार्थीहरूलाई बढी सफलता मिल्ने देखिन्छ । भाषा र गणित विषय भने कमजोर रहनसक्छ ।  पेशा/रोजगार यो वर्ष नयाँ रोजगार वा व्यवसायको सुरुवात हु",
+      "sharing_url": null
+    }
+  },
+  {
+    "model": "locale.horoscopedetail",
+    "pk": 48,
+    "fields": {
+      "horoscope": 12,
+      "type": "yearly",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "description": "मीन राशि हुनेहरूका लागि यो वर्ष राम्रै फल मिल्नेछ, यश, कृति, लाभ, विजय, वाक्सिद्धि हुने र आफन्तको सहयोग मिल्नेछ । बृहस्पति र राहुको कारण जातकहरूलाई गरेको कार्यमा उल्झन, ढिलासुस्ती, काम बिग्रने र चोटपटकको भय रहनेछ, तर जन्मकुण्डलीमा शनि लगायत अन्य ग्रह राम्रो हुनेहरूका लागि शुभ फल मिल्ने, विद्या र बुद्धिको विकास हुने र चमत्कारी ढङ्गले सफलता दिलाउनेछ ।   व्यापार/व्यवसाय यो वर्ष व्यापार व्यवसायबाट राम्रो सफलता मिल्नेछ । एजेन्ट, सजावटी, जग्गा जमिन र मोटरगाडीबाट चमत्कारी लाभ मिल्नेछ । सेयर बजार अन्तर्गत बिमा र बैङ्किङ क्षेत्रबाट राम्रो आम्दानी हुनेछ । कृषि व्यवसायबाट बढी सफलता पाइनेछ । आर्थिक दृष्टिले जेठ, भाद्र, मंसिर र माघ महिनामा बढी लाभ हुनेछ ।  प्रेम/सम्बन्ध प्रेम र मित्रताको बन्धन सामान्य रहनेछ । पुराना र टाढिएका मित्रसँग गोपनीय ढंगले सामीप्यता बढ्नेछ । दाम्पत्य जीवनमा माया प्रेम एवं समझदारी भने कायम नै रहनेछ । शनि कमजोर रहने जातकहरूलाई वाणीमा लगाम लगाउन आवश्यक देखिन्छ, अन्यथा जुनसुकै सम्बन्ध पनि बिग्रन सक्छ ।  शिक्षा विज्ञान र सामाजिक विषयका विद्यार्थीहरूलाई बढी सफलता मिल्नेछ । भाषा, स्वास्थ्य विषय तथा शिक्षाको लागि वैदेशिक क्षेत्रमा रहेका विद्यार्थीहरूलाई भने यो वर्ष त्यति राम्रो देखिन्न, अत: विद्यामा सफलता पाउन बढी मिहिनेत गर्नु पर्नेछ ।  पेशा/रोजगार यो वर्ष नयाँ कार्यको थालनी र गरेको लगानीले राम्रो सफलता पाउनेछ । वैदेशिक रोजगार भने",
+      "sharing_url": null
+    }
+  }
+]
